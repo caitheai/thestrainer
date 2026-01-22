@@ -1634,3 +1634,59 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.22-03.55.21:037][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 695.681641
 [2026.01.22-03.55.22:038][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.22-03.55.22:038][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 696.348938, Update Interval: 339.786377
+[2026.01.22-04.01.08:197][  1]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1042.836182
+[2026.01.22-04.01.09:198][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.22-04.01.09:198][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1043.503052, Update Interval: 347.680298
+[2026.01.22-04.02.03:323][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.22-04.02.03:335][237]LogStall: Shutdown...
+[2026.01.22-04.02.03:335][237]LogStall: Shutdown complete.
+[2026.01.22-04.02.03:353][237]LogSlate: Window 'Strainer - Unreal Editor' being destroyed
+[2026.01.22-04.02.03:355][237]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.01.22-04.02.03:410][237]Cmd: QUIT_EDITOR
+[2026.01.22-04.02.03:410][238]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.22-04.02.03:412][238]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.22-04.02.03:413][238]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.22-04.02.03:413][238]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.22-04.02.03:413][238]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.01.22-04.02.03:413][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.22-04.02.03:416][238]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.22-04.02.03:416][238]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.01.22-04.02.03:417][238]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.22-04.02.03:418][238]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.01.22-04.02.03:418][238]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.22-04.02.03:421][238]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.01.22-04.02.03:422][238]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.22-04.02.03:422][238]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.22-04.02.03:422][238]LogAudio: Display: Audio Device unregistered from world 'Workshop'.
+[2026.01.22-04.02.03:422][238]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.22-04.02.03:422][238]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.01.22-04.02.03:424][238]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.01.22-04.02.03:428][238]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.22-04.02.03:428][238]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.22-04.02.03:431][238]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.22-04.02.03:431][238]LogExit: Preparing to exit.
+[2026.01.22-04.02.03:455][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.01.22-04.02.04:425][238]LogEditorDataStorage: Deinitializing
+[2026.01.22-04.02.04:478][238]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.22-04.02.04:491][238]LogExit: Editor shut down
+[2026.01.22-04.02.04:493][238]LogExit: Transaction tracking system shut down
+[2026.01.22-04.02.04:558][238]LogExit: Object subsystem successfully closed.
+[2026.01.22-04.02.04:674][238]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.22-04.02.04:753][238]LogMemoryProfiler: Shutdown
+[2026.01.22-04.02.04:753][238]LogNetworkingProfiler: Shutdown
+[2026.01.22-04.02.04:753][238]LoadingProfiler: Shutdown
+[2026.01.22-04.02.04:753][238]LogTimingProfiler: Shutdown
+[2026.01.22-04.02.04:753][238]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.22-04.02.04:753][238]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.01.22-04.02.05:015][238]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.22-04.02.05:052][238]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.22-04.02.05:053][238]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E1C58D7-40BE-BA58-0434-989655EDA1C1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=1cb1723f4837ea1cc2f4ba95dfcb1f10%7Cc11f8b016dc043ca9037c0deb1f2097e%7C9825c3ed-f0ce-443a-8033-f6348e32deed&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.22-04.02.05:600][238]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.22-04.02.05:606][238]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.22-04.02.05:606][238]RenderDocPlugin: plugin has been unloaded.
+[2026.01.22-04.02.05:609][238]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.22-04.02.05:609][238]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.22-04.02.05:609][238]LogPakFile: Destroying PakPlatformFile
+[2026.01.22-04.02.06:586][238]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.22-04.02.06:650][238]LogExit: Exiting.
+[2026.01.22-04.02.06:672][238]Log file closed, 01/21/26 20:02:06
