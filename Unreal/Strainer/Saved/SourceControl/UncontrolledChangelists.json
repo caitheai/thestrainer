@@ -17,7 +17,15 @@
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_Controller.uasset",
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_GameHandler.uasset",
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_MacroLibrary.uasset",
-				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_Runner.uasset"
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_Runner.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Jump.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Spam.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_GameInstance.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Inputs/D_Touch.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/M_Test2.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/M_Test1.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Enums/E_Lane.uasset"
 			]
 		}
 	]
