@@ -6,14 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Levels/Workshop.umap",
-				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Inputs/D_Mobile.uasset",
-				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Runner.uasset",
-				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Test.uasset",
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Inputs/D_Inputs.uasset",
-				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Controller.uasset",
-				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_GameHandler.uasset",
-				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Inputs/BP_MacroLibrary.uasset",
-				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_MacroLibrary.uasset",
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_Controller.uasset",
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_GameHandler.uasset",
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_MacroLibrary.uasset",
@@ -26,7 +19,20 @@
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/M_Test1.uasset",
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset",
 				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Enums/E_Lane.uasset",
-				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Enums/E_SwipeType.uasset"
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Enums/E_SwipeType.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Obstacles.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/D_Obstacles.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/D_FontData.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/D_ImageData.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_ImageData.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Obstacles/BP_Obstacle1.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Inputs/D_Mobile.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Runner.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Test.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Controller.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_GameHandler.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Inputs/BP_MacroLibrary.uasset",
+				"C:/Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_MacroLibrary.uasset"
 			]
 		}
 	]
