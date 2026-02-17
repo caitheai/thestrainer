@@ -29902,3 +29902,638 @@ Purging the undo buffer...
 [2026.02.17-03.50.06:555][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=2
 [2026.02.17-03.50.06:563][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
 [2026.02.17-03.50.06:597][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2026.02.17-03.55.54:903][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21053.519531
+[2026.02.17-03.55.55:905][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-03.55.55:905][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21054.183594, Update Interval: 325.139313
+[2026.02.17-04.02.03:279][248]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21421.904297
+[2026.02.17-04.02.04:280][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-04.02.04:280][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21422.570312, Update Interval: 350.509338
+[2026.02.17-04.04.16:459][648]LogDerivedDataCache: C:/Users/cmcdonnell1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.17-04.08.28:331][403]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21806.970703
+[2026.02.17-04.08.29:331][406]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-04.08.29:331][406]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21807.636719, Update Interval: 334.750824
+[2026.02.17-04.14.57:064][569]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22195.750000
+[2026.02.17-04.14.58:065][572]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-04.14.58:065][572]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22196.417969, Update Interval: 307.415985
+[2026.02.17-04.20.45:769][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22544.441406
+[2026.02.17-04.20.46:769][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-04.20.46:769][618]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22545.109375, Update Interval: 352.287354
+[2026.02.17-04.27.09:143][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22927.796875
+[2026.02.17-04.27.10:143][768]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-04.27.10:143][768]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22928.462891, Update Interval: 318.944672
+[2026.02.17-04.33.13:526][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23292.173828
+[2026.02.17-04.33.14:525][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-04.33.14:526][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23292.839844, Update Interval: 328.644073
+[2026.02.17-04.38.15:804][765]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2026.02.17-04.38.15:804][765]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{ceb7db73-f855-49dd-8a18-cd68e495f4f3}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.17-04.38.15:875][765]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{ceb7db73-f855-49dd-8a18-cd68e495f4f3}]
+[2026.02.17-04.38.15:875][765]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.17-04.38.15:875][765]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.17-04.38.16:210][766]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ceb7db73-f855-49dd-8a18-cd68e495f4f3}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=200.81
+[2026.02.17-04.38.16:210][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.17-04.38.16:210][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.17-04.38.16:212][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.17-04.38.17:413][769]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=ASUS VG34V (NVIDIA High Definition Audio), InstanceID=1
+[2026.02.17-04.38.17:413][769]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{0b806778-3ade-4e84-b217-be7d5edd2d79}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.17-04.38.17:616][770]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{0b806778-3ade-4e84-b217-be7d5edd2d79}]
+[2026.02.17-04.38.17:616][770]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.17-04.38.17:616][770]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.17-04.38.17:953][771]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0b806778-3ade-4e84-b217-be7d5edd2d79}, Name=ASUS VG34V (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=44.16
+[2026.02.17-04.38.17:953][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.17-04.38.17:953][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.17-04.38.17:954][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.17-04.39.27:346][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23665.197266
+[2026.02.17-04.39.27:471][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-04.39.27:471][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23665.310547, Update Interval: 302.537933
+[2026.02.17-04.39.35:733][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2026.02.17-04.39.35:733][ 33]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{ef107acf-dbf7-4eb5-bd23-fe46901d174d}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.17-04.39.35:743][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{ef107acf-dbf7-4eb5-bd23-fe46901d174d}]
+[2026.02.17-04.39.35:743][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.17-04.39.35:743][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.17-04.39.36:120][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ef107acf-dbf7-4eb5-bd23-fe46901d174d}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=372.47
+[2026.02.17-04.39.36:121][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.17-04.39.36:121][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.17-04.39.36:122][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.17-04.40.46:174][921]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.17-04.40.46:185][921]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.17-04.40.46:197][922]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.17-04.40.47:863][ 99]LogContentBrowser: Attempting asset rename: NewFolder -> Mixing
+[2026.02.17-04.40.47:864][ 99]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.17-04.40.53:819][666]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2026.02.17-04.40.53:826][666]LogContentBrowser: Creating deferred item: NewSoundClass
+[2026.02.17-04.40.53:869][668]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundClass).
+[2026.02.17-04.41.01:762][521]LogContentBrowser: Attempting asset rename: NewSoundClass -> SC_SFX
+[2026.02.17-04.41.01:765][521]LogContentBrowser: End creating deferred item NewSoundClass
+[2026.02.17-04.41.06:505][978]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2026.02.17-04.41.06:513][978]LogContentBrowser: Creating deferred item: NewSoundClass
+[2026.02.17-04.41.06:527][979]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundClass).
+[2026.02.17-04.41.08:669][207]LogContentBrowser: Attempting asset rename: NewSoundClass -> SC_Music
+[2026.02.17-04.41.08:671][207]LogContentBrowser: End creating deferred item NewSoundClass
+[2026.02.17-04.41.10:254][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.17-04.41.11:070][372]LogSlate: Window 'Save Content' being destroyed
+[2026.02.17-04.41.11:081][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.41.11:115][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/Mixing/SC_Music] ([1] browsable assets)...
+[2026.02.17-04.41.11:115][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Mixing/SC_Music]
+[2026.02.17-04.41.11:115][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Mixing/SC_Music" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_Music.uasset" SILENT=true
+[2026.02.17-04.41.11:127][372]LogSavePackage: Moving output files for package: /Game/Sound/Mixing/SC_Music
+[2026.02.17-04.41.11:128][372]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SC_Music45107CDB4D1D635324B2DEB8E688F700.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_Music.uasset'
+[2026.02.17-04.41.11:130][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/Mixing/SC_SFX] ([1] browsable assets)...
+[2026.02.17-04.41.11:130][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Mixing/SC_SFX]
+[2026.02.17-04.41.11:130][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Mixing/SC_SFX" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_SFX.uasset" SILENT=true
+[2026.02.17-04.41.11:137][372]LogSavePackage: Moving output files for package: /Game/Sound/Mixing/SC_SFX
+[2026.02.17-04.41.11:137][372]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SC_SFXB8D296E042E30220E2AE6A813E1F676A.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_SFX.uasset'
+[2026.02.17-04.41.11:149][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.286 ms (total: 18.7 sec)
+[2026.02.17-04.41.11:179][372]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.17-04.41.11:179][372]LogContentValidation: Enabled validators:
+[2026.02.17-04.41.11:179][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.41.11:179][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.41.11:180][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.41.11:180][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.41.11:180][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.41.11:180][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.41.11:180][372]AssetCheck: /Game/Sound/Mixing/SC_Music Validating asset
+[2026.02.17-04.41.11:180][372]AssetCheck: /Game/Sound/Mixing/SC_SFX Validating asset
+[2026.02.17-04.41.11:200][372]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.17-04.41.11:812][431]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Game/Sound/Mixing/SC_SFX.SC_SFX
+[2026.02.17-04.41.26:038][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.41.26:071][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/Mixing/SC_SFX] ([1] browsable assets)...
+[2026.02.17-04.41.26:071][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Mixing/SC_SFX]
+[2026.02.17-04.41.26:071][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Mixing/SC_SFX" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_SFX.uasset" SILENT=true
+[2026.02.17-04.41.26:073][ 79]LogSavePackage: Moving output files for package: /Game/Sound/Mixing/SC_SFX
+[2026.02.17-04.41.26:074][ 79]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SC_SFX03586CE14E1BB5A7DE5697A6FE6CA82A.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_SFX.uasset'
+[2026.02.17-04.41.26:083][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.415 ms (total: 18.8 sec)
+[2026.02.17-04.41.26:114][ 79]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.41.26:114][ 79]LogContentValidation: Enabled validators:
+[2026.02.17-04.41.26:114][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.41.26:114][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.41.26:114][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.41.26:114][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.41.26:114][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.41.26:114][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.41.26:114][ 79]AssetCheck: /Game/Sound/Mixing/SC_SFX Validating asset
+[2026.02.17-04.41.31:742][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.17-04.41.33:575][651]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.17-04.41.33:673][651]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sound/Mixing/ClassName.ClassName
+	Asset Type: SoundClass
+[2026.02.17-04.41.34:002][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.17-04.41.34:031][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.17-04.41.34:059][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.02.17-04.41.36:230][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.17-04.41.37:360][873]LogSlate: Window 'Save Content' being destroyed
+[2026.02.17-04.41.37:371][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.41.37:399][873]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/Mixing/SC_SFX] ([1] browsable assets)...
+[2026.02.17-04.41.37:399][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Mixing/SC_SFX]
+[2026.02.17-04.41.37:399][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Mixing/SC_SFX" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_SFX.uasset" SILENT=true
+[2026.02.17-04.41.37:401][873]LogSavePackage: Moving output files for package: /Game/Sound/Mixing/SC_SFX
+[2026.02.17-04.41.37:401][873]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SC_SFX1A45D1E34F2DD9C985B63F8203C80CB8.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_SFX.uasset'
+[2026.02.17-04.41.37:412][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.715 ms (total: 18.8 sec)
+[2026.02.17-04.41.37:447][873]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.41.37:447][873]LogContentValidation: Enabled validators:
+[2026.02.17-04.41.37:447][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.41.37:447][873]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.41.37:447][873]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.41.37:447][873]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.41.37:447][873]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.41.37:447][873]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.41.37:447][873]AssetCheck: /Game/Sound/Mixing/SC_SFX Validating asset
+[2026.02.17-04.41.41:737][272]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/SFX/sfx_crackle.sfx_crackle
+[2026.02.17-04.41.55:180][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.41.55:213][823]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/SFX/sfx_crackle] ([1] browsable assets)...
+[2026.02.17-04.41.55:217][823]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/SFX/sfx_crackle.sfx_crackle]
+[2026.02.17-04.41.55:217][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/sfx_crackle]
+[2026.02.17-04.41.55:217][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/sfx_crackle" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/SFX/sfx_crackle.uasset" SILENT=true
+[2026.02.17-04.41.55:233][823]LogSavePackage: Moving output files for package: /Game/Sound/SFX/sfx_crackle
+[2026.02.17-04.41.55:234][823]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/sfx_crackle46C520A4433554DD3722C0B07843405E.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/SFX/sfx_crackle.uasset'
+[2026.02.17-04.41.55:247][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.868 ms (total: 18.9 sec)
+[2026.02.17-04.41.55:277][823]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.41.55:277][823]LogContentValidation: Enabled validators:
+[2026.02.17-04.41.55:277][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.41.55:277][823]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.41.55:277][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.41.55:277][823]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.41.55:277][823]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.41.55:277][823]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.41.55:277][823]AssetCheck: /Game/Sound/SFX/sfx_crackle Validating asset
+[2026.02.17-04.41.57:513][ 48]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/SFX/sfx_screach.sfx_screach
+[2026.02.17-04.42.02:652][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.42.02:685][612]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/SFX/sfx_screach] ([1] browsable assets)...
+[2026.02.17-04.42.02:687][612]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/SFX/sfx_screach.sfx_screach]
+[2026.02.17-04.42.02:687][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/sfx_screach]
+[2026.02.17-04.42.02:687][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/sfx_screach" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/SFX/sfx_screach.uasset" SILENT=true
+[2026.02.17-04.42.02:702][612]LogSavePackage: Moving output files for package: /Game/Sound/SFX/sfx_screach
+[2026.02.17-04.42.02:702][612]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/sfx_screachC869BD57453B3EE738CE0F9B111E934F.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/SFX/sfx_screach.uasset'
+[2026.02.17-04.42.02:715][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.298 ms (total: 18.9 sec)
+[2026.02.17-04.42.02:753][612]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.42.02:754][612]LogContentValidation: Enabled validators:
+[2026.02.17-04.42.02:754][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.42.02:754][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.42.02:754][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.42.02:754][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.42.02:754][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.42.02:754][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.42.02:754][612]AssetCheck: /Game/Sound/SFX/sfx_screach Validating asset
+[2026.02.17-04.42.04:221][758]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/SFX/sfx_turnon.sfx_turnon
+[2026.02.17-04.42.07:441][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.42.07:472][ 91]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/SFX/sfx_turnon] ([1] browsable assets)...
+[2026.02.17-04.42.07:474][ 91]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/SFX/sfx_turnon.sfx_turnon]
+[2026.02.17-04.42.07:474][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/sfx_turnon]
+[2026.02.17-04.42.07:474][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/sfx_turnon" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/SFX/sfx_turnon.uasset" SILENT=true
+[2026.02.17-04.42.07:487][ 91]LogSavePackage: Moving output files for package: /Game/Sound/SFX/sfx_turnon
+[2026.02.17-04.42.07:487][ 91]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/sfx_turnon20A4875246AE387953FF288872FE7070.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/SFX/sfx_turnon.uasset'
+[2026.02.17-04.42.07:498][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.520 ms (total: 19.0 sec)
+[2026.02.17-04.42.07:532][ 91]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.42.07:532][ 91]LogContentValidation: Enabled validators:
+[2026.02.17-04.42.07:532][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.42.07:532][ 91]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.42.07:532][ 91]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.42.07:532][ 91]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.42.07:532][ 91]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.42.07:532][ 91]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.42.07:532][ 91]AssetCheck: /Game/Sound/SFX/sfx_turnon Validating asset
+[2026.02.17-04.42.20:215][380]LogContentBrowser: Deferred new asset file creation: NewSoundMix
+[2026.02.17-04.42.20:225][380]LogContentBrowser: Creating deferred item: NewSoundMix
+[2026.02.17-04.42.20:237][381]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundMix).
+[2026.02.17-04.42.25:429][928]LogContentBrowser: Attempting asset rename: NewSoundMix -> SC_SFXMixer
+[2026.02.17-04.42.25:429][928]LogContentBrowser: End creating deferred item NewSoundMix
+[2026.02.17-04.42.26:551][ 39]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Sound/Mixing/SC_SFXMixer.SC_SFXMixer
+[2026.02.17-04.42.56:982][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.42.57:012][265]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/Mixing/SC_SFXMixer] ([1] browsable assets)...
+[2026.02.17-04.42.57:012][265]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Mixing/SC_SFXMixer]
+[2026.02.17-04.42.57:012][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Mixing/SC_SFXMixer" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_SFXMixer.uasset" SILENT=true
+[2026.02.17-04.42.57:029][265]LogSavePackage: Moving output files for package: /Game/Sound/Mixing/SC_SFXMixer
+[2026.02.17-04.42.57:029][265]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SC_SFXMixer6D49647B4C7E7F8D2427AA86274BAA09.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_SFXMixer.uasset'
+[2026.02.17-04.42.57:041][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.223 ms (total: 19.0 sec)
+[2026.02.17-04.42.57:073][265]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.42.57:073][265]LogContentValidation: Enabled validators:
+[2026.02.17-04.42.57:073][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.42.57:073][265]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.42.57:073][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.42.57:073][265]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.42.57:073][265]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.42.57:073][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.42.57:074][265]AssetCheck: /Game/Sound/Mixing/SC_SFXMixer Validating asset
+[2026.02.17-04.42.57:090][265]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.17-04.43.00:521][627]LogContentBrowser: Deferred new asset file creation: SC_SFXMixer1
+[2026.02.17-04.43.00:531][627]LogContentBrowser: Creating deferred item: SC_SFXMixer1
+[2026.02.17-04.43.00:542][628]LogContentBrowser: Renaming the item being created (Deferred Item: SC_SFXMixer1).
+[2026.02.17-04.43.06:383][259]LogContentBrowser: Attempting asset rename: SC_SFXMixer1 -> SC_MusicMixer
+[2026.02.17-04.43.06:385][259]LogContentBrowser: End creating deferred item SC_SFXMixer1
+[2026.02.17-04.43.08:042][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.17-04.43.08:887][418]LogSlate: Window 'Save Content' being destroyed
+[2026.02.17-04.43.08:900][418]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.43.08:931][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/Mixing/SC_MusicMixer] ([1] browsable assets)...
+[2026.02.17-04.43.08:931][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Mixing/SC_MusicMixer]
+[2026.02.17-04.43.08:931][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Mixing/SC_MusicMixer" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_MusicMixer.uasset" SILENT=true
+[2026.02.17-04.43.08:944][418]LogSavePackage: Moving output files for package: /Game/Sound/Mixing/SC_MusicMixer
+[2026.02.17-04.43.08:944][418]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SC_MusicMixer05048CFE4BAAC56FB6CBABB5C68B8BCB.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_MusicMixer.uasset'
+[2026.02.17-04.43.08:957][418]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.990 ms (total: 19.1 sec)
+[2026.02.17-04.43.08:995][418]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.43.08:995][418]LogContentValidation: Enabled validators:
+[2026.02.17-04.43.08:995][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.43.08:995][418]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.43.08:995][418]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.43.08:995][418]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.43.08:995][418]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.43.08:995][418]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.43.08:995][418]AssetCheck: /Game/Sound/Mixing/SC_MusicMixer Validating asset
+[2026.02.17-04.43.09:016][418]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.17-04.43.09:711][487]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Sound/Mixing/SC_MusicMixer.SC_MusicMixer
+[2026.02.17-04.43.14:217][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.43.14:245][988]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/Mixing/SC_MusicMixer] ([1] browsable assets)...
+[2026.02.17-04.43.14:245][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Mixing/SC_MusicMixer]
+[2026.02.17-04.43.14:245][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Mixing/SC_MusicMixer" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_MusicMixer.uasset" SILENT=true
+[2026.02.17-04.43.14:257][988]LogSavePackage: Moving output files for package: /Game/Sound/Mixing/SC_MusicMixer
+[2026.02.17-04.43.14:257][988]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SC_MusicMixer8676DD244E7BA3B3CF508CA53CA4AB4C.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Mixing/SC_MusicMixer.uasset'
+[2026.02.17-04.43.14:269][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.856 ms (total: 19.2 sec)
+[2026.02.17-04.43.14:310][988]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.43.14:310][988]LogContentValidation: Enabled validators:
+[2026.02.17-04.43.14:310][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.43.14:310][988]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.43.14:310][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.43.14:310][988]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.43.14:310][988]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.43.14:310][988]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.43.14:310][988]AssetCheck: /Game/Sound/Mixing/SC_MusicMixer Validating asset
+[2026.02.17-04.43.48:501][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.17-04.43.48:919][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.43.48:950][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Settings] ([2] browsable assets)...
+[2026.02.17-04.43.48:957][875]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Settings.UI_Settings]
+[2026.02.17-04.43.48:957][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Settings]
+[2026.02.17-04.43.48:957][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Settings" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Settings.uasset" SILENT=true
+[2026.02.17-04.43.48:985][875]LogSavePackage: Moving output files for package: /Game/UI/UI_Settings
+[2026.02.17-04.43.48:985][875]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_SettingsCFAAEDB245F705B1F4D20782F3FF9B38.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Settings.uasset'
+[2026.02.17-04.43.49:001][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.345 ms (total: 19.2 sec)
+[2026.02.17-04.43.49:036][875]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.43.49:036][875]LogContentValidation: Enabled validators:
+[2026.02.17-04.43.49:036][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.43.49:036][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.43.49:036][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.43.49:036][875]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.43.49:036][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.43.49:036][875]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.43.49:039][875]AssetCheck: /Game/UI/UI_Settings Validating asset
+[2026.02.17-04.43.49:770][961]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.17-04.43.49:777][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.17-04.43.49:777][961]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.17-04.43.49:780][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003087s)
+[2026.02.17-04.43.49:780][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.003121s)
+[2026.02.17-04.43.49:803][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.17-04.43.49:812][961]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.17-04.43.49:814][961]LogPlayLevel: PIE: World Init took: (0.001653s)
+[2026.02.17-04.43.49:814][961]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2026.02.17-04.43.49:815][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.17-04.43.49:815][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.17-04.43.49:815][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.17-04.43.49:815][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.17-04.43.49:815][961]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.17-04.43.49:815][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.17-04.43.49:815][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.17-04.43.49:815][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.17-04.43.49:815][961]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.17-04.43.49:815][961]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.17-04.43.49:815][961]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.17-04.43.49:818][961]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.17-04.43.49:844][961]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.17-04.43.49:844][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.17-04.43.49:844][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.17-04.43.49:844][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.17-04.43.49:845][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2026.02.17-04.43.49:845][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2026.02.17-04.43.49:846][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2026.02.17-04.43.49:847][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2026.02.17-04.43.49:847][961]LogInit: FAudioDevice initialized with ID 51.
+[2026.02.17-04.43.49:847][961]LogAudio: Display: Audio Device (ID: 51) registered with world 'Workshop'.
+[2026.02.17-04.43.49:847][961]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2026.02.17-04.43.49:872][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.17-04.43.49:872][961]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.17-04.43.49:875][961]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.16-20.43.49
+[2026.02.17-04.43.49:877][961]LogWorld: Bringing up level for play took: 0.003486
+[2026.02.17-04.43.49:879][961]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2026.02.17-04.43.49:880][961]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.17-04.43.49:883][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:883][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:883][961]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:886][961]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:886][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:887][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:888][961]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:888][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:890][961]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:891][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:892][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:893][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:893][961]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:895][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:895][961]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:896][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:897][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:897][961]LogActor: Loaded Actor (BP_Soul1_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:897][961]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:898][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:900][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:900][961]LogActor: Loaded Actor (BP_Soul1_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:900][961]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:900][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:902][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:902][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:903][961]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:904][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:905][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:905][961]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:907][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:908][961]LogActor: Loaded Actor (BP_Soul1_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:908][961]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:908][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:910][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:910][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:910][961]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:912][961]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:912][961]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:913][961]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.43.49:915][961]PIE: Server logged in
+[2026.02.17-04.43.49:917][961]PIE: Play in editor total start time 0.14 seconds.
+[2026.02.17-04.43.49:989][962]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.17-04.43.57:089][674]Cmd: quit
+[2026.02.17-04.43.57:090][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.17-04.43.57:090][674]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.17-04.43.57:090][674]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.17-04.43.57:117][674]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-04.43.57:121][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-04.43.57:125][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.17-04.43.57:131][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-04.43.57:156][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-04.43.57:157][674]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2026.02.17-04.43.57:157][674]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51, StreamState=4
+[2026.02.17-04.43.57:158][674]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51, StreamState=2
+[2026.02.17-04.43.57:166][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.17-04.43.57:193][675]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2026.02.17-04.45.18:588][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.02.17-04.45.18:595][242]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Workshop' took 0.033
+[2026.02.17-04.45.18:596][242]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Settings] ([2] browsable assets)...
+[2026.02.17-04.45.18:604][242]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Settings.UI_Settings]
+[2026.02.17-04.45.18:604][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Settings]
+[2026.02.17-04.45.18:631][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Settings_Auto6
+[2026.02.17-04.45.18:631][242]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Settings_Auto67A851E79436D72F0B2FB6383EC2BE597.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/UI/UI_Settings_Auto6.uasset'
+[2026.02.17-04.45.18:631][242]LogFileHelpers: Auto-saving content packages took 0.037
+[2026.02.17-04.45.27:723][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24021.091797
+[2026.02.17-04.45.27:847][345]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-04.45.27:847][345]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24021.203125, Update Interval: 350.941498
+[2026.02.17-04.48.01:962][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.17-04.48.02:436][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.48.02:469][659]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_GameInstance] ([2] browsable assets)...
+[2026.02.17-04.48.02:469][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_GameInstance]
+[2026.02.17-04.48.02:469][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GameInstance" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_GameInstance.uasset" SILENT=true
+[2026.02.17-04.48.02:484][659]LogSavePackage: Moving output files for package: /Game/BP_GameInstance
+[2026.02.17-04.48.02:484][659]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_GameInstance049E4D4340F43C4016E767AE3DB3FFF8.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_GameInstance.uasset'
+[2026.02.17-04.48.02:496][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.768 ms (total: 19.3 sec)
+[2026.02.17-04.48.02:529][659]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.48.02:530][659]LogContentValidation: Enabled validators:
+[2026.02.17-04.48.02:530][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.48.02:530][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.48.02:530][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.48.02:530][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.48.02:530][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.48.02:530][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.48.02:530][659]AssetCheck: /Game/BP_GameInstance Validating asset
+[2026.02.17-04.48.09:505][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.17-04.48.10:022][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.48.10:055][471]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Settings] ([2] browsable assets)...
+[2026.02.17-04.48.10:064][471]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Settings.UI_Settings]
+[2026.02.17-04.48.10:064][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Settings]
+[2026.02.17-04.48.10:064][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Settings" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Settings.uasset" SILENT=true
+[2026.02.17-04.48.10:090][471]LogSavePackage: Moving output files for package: /Game/UI/UI_Settings
+[2026.02.17-04.48.10:091][471]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_SettingsEF41266B4F9204E935EB7B9ACD740D6D.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Settings.uasset'
+[2026.02.17-04.48.10:103][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.233 ms (total: 19.4 sec)
+[2026.02.17-04.48.10:139][471]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.48.10:139][471]LogContentValidation: Enabled validators:
+[2026.02.17-04.48.10:139][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.48.10:139][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.48.10:139][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.48.10:139][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.48.10:139][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.48.10:139][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.48.10:141][471]AssetCheck: /Game/UI/UI_Settings Validating asset
+[2026.02.17-04.48.50:660][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.17-04.48.51:099][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.48.51:138][140]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Settings] ([2] browsable assets)...
+[2026.02.17-04.48.51:146][140]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Settings.UI_Settings]
+[2026.02.17-04.48.51:146][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Settings]
+[2026.02.17-04.48.51:146][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Settings" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Settings.uasset" SILENT=true
+[2026.02.17-04.48.51:173][140]LogSavePackage: Moving output files for package: /Game/UI/UI_Settings
+[2026.02.17-04.48.51:175][140]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_SettingsFD4F5F414BD34B0DF268A988860A3468.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Settings.uasset'
+[2026.02.17-04.48.51:187][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.301 ms (total: 19.5 sec)
+[2026.02.17-04.48.51:235][140]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.48.51:235][140]LogContentValidation: Enabled validators:
+[2026.02.17-04.48.51:235][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.48.51:235][140]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.48.51:235][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.48.51:235][140]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.48.51:235][140]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.48.51:235][140]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.48.51:236][140]AssetCheck: /Game/UI/UI_Settings Validating asset
+[2026.02.17-04.49.05:682][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.17-04.49.06:337][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.49.06:366][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Settings] ([2] browsable assets)...
+[2026.02.17-04.49.06:370][421]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Settings.UI_Settings]
+[2026.02.17-04.49.06:370][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Settings]
+[2026.02.17-04.49.06:370][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Settings" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Settings.uasset" SILENT=true
+[2026.02.17-04.49.06:404][421]LogSavePackage: Moving output files for package: /Game/UI/UI_Settings
+[2026.02.17-04.49.06:404][421]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Settings5951AD2D4CE4E50FD34191B3C91C8A26.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Settings.uasset'
+[2026.02.17-04.49.06:417][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.719 ms (total: 19.5 sec)
+[2026.02.17-04.49.06:452][421]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.49.06:452][421]LogContentValidation: Enabled validators:
+[2026.02.17-04.49.06:452][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.49.06:452][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.49.06:452][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.49.06:452][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.49.06:452][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.49.06:452][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.49.06:454][421]AssetCheck: /Game/UI/UI_Settings Validating asset
+[2026.02.17-04.50.17:570][422]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.17-04.50.17:580][422]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.17-04.50.17:592][423]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.17-04.50.18:986][574]LogContentBrowser: Attempting asset rename: NewFolder -> Music
+[2026.02.17-04.50.18:987][574]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.17-04.50.26:799][895]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\cmcdonnell1\Downloads\music_for_videos-thinking-time-148496.mp3)
+[2026.02.17-04.50.26:868][895]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave music_for_videos-thinking-time-148496...
+[2026.02.17-04.50.27:027][895]LogAudioDerivedData: Display: music_for_videos-thinking-time-148496 compressed to 17.85% (from 9,279KB to 1,656KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.02.17-04.50.27:034][895]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound/Music/music_for_videos-thinking-time-148496.music_for_videos-thinking-time-148496: Duration=53.86 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=8, Chunk0=28 bytes, Chunk1=261413 bytes, ChunkN=261199)
+[2026.02.17-04.50.27:038][895]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave music_for_videos-thinking-time-148496...
+[2026.02.17-04.50.27:192][897]LogAudioDerivedData: Display: music_for_videos-thinking-time-148496 compressed to 17.85% (from 9,279KB to 1,656KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.02.17-04.50.27:193][897]LogAudio: Display: Chunk stats for (SoundWave /Game/Sound/Music/music_for_videos-thinking-time-148496.music_for_videos-thinking-time-148496: Duration=53.86 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=8, Chunk0=28 bytes, Chunk1=261413 bytes, ChunkN=261199)
+[2026.02.17-04.50.32:297][304]LogContentBrowser: Attempting asset rename: music_for_videos-thinking-time-148496 -> mus_test
+[2026.02.17-04.50.32:355][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.50.32:355][304]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/Music/mus_test] ([1] browsable assets)...
+[2026.02.17-04.50.32:368][304]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/Music/mus_test.mus_test]
+[2026.02.17-04.50.32:368][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Music/mus_test]
+[2026.02.17-04.50.32:368][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Music/mus_test" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Music/mus_test.uasset" SILENT=true
+[2026.02.17-04.50.32:395][304]LogSavePackage: Moving output files for package: /Game/Sound/Music/mus_test
+[2026.02.17-04.50.32:395][304]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/mus_test979C6F5D4A9EA55A266CD087D883D7BD.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Music/mus_test.uasset'
+[2026.02.17-04.50.32:396][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.304 ms (total: 19.6 sec)
+[2026.02.17-04.50.32:433][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.02.17-04.50.32:463][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.17-04.50.32:489][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.17-04.50.32:528][304]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.50.32:528][304]LogContentValidation: Enabled validators:
+[2026.02.17-04.50.32:528][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.50.32:528][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.50.32:528][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.50.32:528][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.50.32:528][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.50.32:528][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.50.32:529][304]AssetCheck: /Game/Sound/Music/mus_test Validating asset
+[2026.02.17-04.50.32:576][304]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.17-04.50.33:498][369]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/Music/mus_test.mus_test
+[2026.02.17-04.50.39:346][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.50.39:378][ 14]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/Music/mus_test] ([1] browsable assets)...
+[2026.02.17-04.50.39:391][ 14]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/Music/mus_test.mus_test]
+[2026.02.17-04.50.39:391][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Music/mus_test]
+[2026.02.17-04.50.39:391][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Music/mus_test" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Music/mus_test.uasset" SILENT=true
+[2026.02.17-04.50.39:418][ 14]LogSavePackage: Moving output files for package: /Game/Sound/Music/mus_test
+[2026.02.17-04.50.39:418][ 14]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/mus_test8A55EA584705A3A226707CB6B9C54E27.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Music/mus_test.uasset'
+[2026.02.17-04.50.39:430][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.941 ms (total: 19.7 sec)
+[2026.02.17-04.50.39:458][ 14]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.50.39:458][ 14]LogContentValidation: Enabled validators:
+[2026.02.17-04.50.39:458][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.50.39:458][ 14]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.50.39:458][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.50.39:458][ 14]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.50.39:458][ 14]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.50.39:458][ 14]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.50.39:459][ 14]AssetCheck: /Game/Sound/Music/mus_test Validating asset
+[2026.02.17-04.51.16:965][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.51.16:998][711]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_MainMenu] ([2] browsable assets)...
+[2026.02.17-04.51.17:007][711]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu]
+[2026.02.17-04.51.17:007][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_MainMenu]
+[2026.02.17-04.51.17:007][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2026.02.17-04.51.17:041][711]LogSavePackage: Moving output files for package: /Game/UI/UI_MainMenu
+[2026.02.17-04.51.17:041][711]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_MainMenu03C230B64510AC4FC9CA709380250808.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_MainMenu.uasset'
+[2026.02.17-04.51.17:055][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.889 ms (total: 19.8 sec)
+[2026.02.17-04.51.17:094][711]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.51.17:094][711]LogContentValidation: Enabled validators:
+[2026.02.17-04.51.17:094][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.51.17:094][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.51.17:094][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.51.17:094][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.51.17:094][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.51.17:094][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.51.17:096][711]AssetCheck: /Game/UI/UI_MainMenu Validating asset
+[2026.02.17-04.51.17:381][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.17-04.51.18:774][816]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/Music/mus_test.mus_test
+[2026.02.17-04.51.21:586][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-04.51.21:616][108]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/Music/mus_test] ([1] browsable assets)...
+[2026.02.17-04.51.21:630][108]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/Music/mus_test.mus_test]
+[2026.02.17-04.51.21:630][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Music/mus_test]
+[2026.02.17-04.51.21:630][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Music/mus_test" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Music/mus_test.uasset" SILENT=true
+[2026.02.17-04.51.21:656][108]LogSavePackage: Moving output files for package: /Game/Sound/Music/mus_test
+[2026.02.17-04.51.21:656][108]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/mus_test8AC773C8463D73BACB1021AC0218CA38.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Sound/Music/mus_test.uasset'
+[2026.02.17-04.51.21:668][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.585 ms (total: 19.8 sec)
+[2026.02.17-04.51.21:707][108]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-04.51.21:707][108]LogContentValidation: Enabled validators:
+[2026.02.17-04.51.21:707][108]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-04.51.21:707][108]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-04.51.21:707][108]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-04.51.21:707][108]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-04.51.21:707][108]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-04.51.21:707][108]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-04.51.21:707][108]AssetCheck: /Game/Sound/Music/mus_test Validating asset
+[2026.02.17-04.51.22:854][226]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.17-04.51.22:862][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.17-04.51.22:862][226]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.17-04.51.22:864][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003149s)
+[2026.02.17-04.51.22:864][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.003183s)
+[2026.02.17-04.51.22:900][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.17-04.51.22:907][226]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.17-04.51.22:909][226]LogPlayLevel: PIE: World Init took: (0.001819s)
+[2026.02.17-04.51.22:910][226]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2026.02.17-04.51.22:910][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.17-04.51.22:910][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.17-04.51.22:910][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.17-04.51.22:910][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.17-04.51.22:910][226]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.17-04.51.22:910][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.17-04.51.22:910][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.17-04.51.22:910][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.17-04.51.22:910][226]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.17-04.51.22:910][226]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.17-04.51.22:910][226]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.17-04.51.22:911][226]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.17-04.51.22:939][226]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.17-04.51.22:939][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.17-04.51.22:939][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.17-04.51.22:939][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.17-04.51.22:940][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2026.02.17-04.51.22:940][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2026.02.17-04.51.22:943][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2026.02.17-04.51.22:943][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2026.02.17-04.51.22:943][226]LogInit: FAudioDevice initialized with ID 52.
+[2026.02.17-04.51.22:943][226]LogAudio: Display: Audio Device (ID: 52) registered with world 'Workshop'.
+[2026.02.17-04.51.22:943][226]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2026.02.17-04.51.22:968][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.17-04.51.22:968][226]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.17-04.51.22:970][226]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.16-20.51.22
+[2026.02.17-04.51.22:970][226]LogWorld: Bringing up level for play took: 0.001502
+[2026.02.17-04.51.22:972][226]LogOnline: OSS: Created online subsystem instance for: :Context_111
+[2026.02.17-04.51.22:975][226]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.17-04.51.22:977][226]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:977][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:978][226]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:980][226]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:980][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:981][226]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:982][226]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:982][226]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:984][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:986][226]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:986][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:988][226]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:989][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:989][226]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:992][226]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:992][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:994][226]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:995][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:997][226]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:997][226]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:997][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.22:999][226]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:000][226]LogActor: Loaded Actor (BP_Soul1_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:000][226]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:000][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:002][226]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:002][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:002][226]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:005][226]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:006][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:007][226]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:008][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:008][226]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:010][226]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:010][226]LogActor: Loaded Actor (BP_Soul1_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:010][226]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:010][226]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.17-04.51.23:021][226]PIE: Server logged in
+[2026.02.17-04.51.23:027][226]PIE: Play in editor total start time 0.165 seconds.
+[2026.02.17-04.51.23:032][226]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.17-04.51.23:096][227]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.17-04.51.39:116][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.17-04.51.39:116][618]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.17-04.51.39:116][618]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.17-04.51.39:126][618]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-04.51.39:130][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-04.51.39:134][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.17-04.51.39:139][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-04.51.39:164][618]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-04.51.39:165][618]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2026.02.17-04.51.39:165][618]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52, StreamState=4
+[2026.02.17-04.51.39:168][618]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52, StreamState=2
+[2026.02.17-04.51.39:175][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.17-04.51.39:211][619]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2026.02.17-04.51.53:350][738]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24401.500000
+[2026.02.17-04.51.54:350][741]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-04.51.54:350][741]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24402.166016, Update Interval: 341.273224
