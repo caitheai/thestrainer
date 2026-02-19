@@ -17412,3 +17412,1169 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.19-01.04.04:432][129]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.19-01.04.04:432][129]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.19-01.04.04:432][129]AssetCheck: /Game/BP_Runner Validating asset
+[2026.02.19-01.05.21:491][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.05.21:518][951]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.05.21:522][951]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.05.21:522][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.05.21:522][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.05.21:557][951]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.05.21:557][951]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups6B0EAC1848868EC3DF23EB8249C4AA94.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.05.21:569][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.661 ms (total: 11.8 sec)
+[2026.02.19-01.05.21:595][951]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.05.21:595][951]LogContentValidation: Enabled validators:
+[2026.02.19-01.05.21:595][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.05.21:595][951]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.05.21:595][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.05.21:595][951]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.05.21:595][951]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.05.21:595][951]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.05.21:596][951]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.05.22:721][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.19-01.05.22:737][ 71]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:738][ 71]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:738][ 71]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:740][ 71]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:740][ 71]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:740][ 71]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:786][ 71]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:786][ 71]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:787][ 71]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:789][ 71]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:790][ 71]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.05.22:790][ 71]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.05.44:992][706]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22288.931641
+[2026.02.19-01.05.45:127][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.05.45:127][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22289.060547, Update Interval: 320.014038
+[2026.02.19-01.08.58:633][339]LogSlate: Window 'Details' being destroyed
+[2026.02.19-01.10.45:988][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.02.19-01.10.46:004][738]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:005][738]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:006][738]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:008][738]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:008][738]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:008][738]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:028][738]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:029][738]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:029][738]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:031][738]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:031][738]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:031][738]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.10.46:545][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.10.46:576][790]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.10.46:581][790]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.10.46:581][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.10.46:581][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.10.46:615][790]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.10.46:615][790]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups7F64339041E89B6F0D1CB0B5D088A36A.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.10.46:627][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.673 ms (total: 11.9 sec)
+[2026.02.19-01.10.46:660][790]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.10.46:660][790]LogContentValidation: Enabled validators:
+[2026.02.19-01.10.46:660][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.10.46:660][790]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.10.46:660][790]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.10.46:660][790]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.10.46:660][790]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.10.46:660][790]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.10.46:661][790]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.11.59:490][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22659.703125
+[2026.02.19-01.11.59:620][152]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.11.59:620][152]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22659.828125, Update Interval: 316.813263
+[2026.02.19-01.12.01:559][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.19-01.12.01:573][363]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:573][363]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:574][363]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:576][363]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:576][363]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:576][363]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:602][363]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:603][363]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:603][363]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:605][363]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:606][363]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.01:606][363]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.02:096][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.12.02:129][413]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.12.02:133][413]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.12.02:133][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.12.02:133][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.12.02:171][413]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.12.02:173][413]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups623A528E460D5A9BD183369FE785650F.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.12.02:183][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.674 ms (total: 11.9 sec)
+[2026.02.19-01.12.02:211][413]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.12.02:211][413]LogContentValidation: Enabled validators:
+[2026.02.19-01.12.02:211][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.12.02:211][413]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.12.02:211][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.12.02:211][413]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.12.02:211][413]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.12.02:211][413]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.12.02:212][413]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.12.13:072][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.19-01.12.13:086][696]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:086][696]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:087][696]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:089][696]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:089][696]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:089][696]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:108][696]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:109][696]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:109][696]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:111][696]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:111][696]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.13:111][696]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.14:191][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.12.14:225][819]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.12.14:229][819]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.12.14:229][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.12.14:229][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.12.14:265][819]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.12.14:266][819]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups5C43E7674B63755122BE9AB9029C96FB.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.12.14:277][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.571 ms (total: 12.0 sec)
+[2026.02.19-01.12.14:313][819]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.12.14:313][819]LogContentValidation: Enabled validators:
+[2026.02.19-01.12.14:313][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.12.14:313][819]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.12.14:313][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.12.14:313][819]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.12.14:313][819]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.12.14:313][819]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.12.14:315][819]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.12.30:743][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.02.19-01.12.30:756][690]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:757][690]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:757][690]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:759][690]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:760][690]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:760][690]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:784][690]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:784][690]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:786][690]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:788][690]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:788][690]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.30:788][690]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.12.31:053][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.12.31:093][716]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.12.31:097][716]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.12.31:097][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.12.31:097][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.12.31:134][716]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.12.31:134][716]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups8DD754AB42E27D810D5F82AF517F06D7.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.12.31:145][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.932 ms (total: 12.1 sec)
+[2026.02.19-01.12.31:172][716]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.12.31:172][716]LogContentValidation: Enabled validators:
+[2026.02.19-01.12.31:172][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.12.31:172][716]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.12.31:172][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.12.31:172][716]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.12.31:172][716]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.12.31:172][716]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.12.31:174][716]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.13.22:802][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.02.19-01.13.22:816][640]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:817][640]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:817][640]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:819][640]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:819][640]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:820][640]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:843][640]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:844][640]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:844][640]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:846][640]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:847][640]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.22:847][640]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.23:319][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.13.23:345][683]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.13.23:349][683]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.13.23:349][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.13.23:349][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.13.23:386][683]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.13.23:386][683]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups33823D0146B97D35D3B54A9064C4ED6E.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.13.23:396][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.938 ms (total: 12.2 sec)
+[2026.02.19-01.13.23:430][683]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.13.23:430][683]LogContentValidation: Enabled validators:
+[2026.02.19-01.13.23:430][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.13.23:430][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.13.23:430][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.13.23:430][683]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.13.23:430][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.13.23:430][683]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.13.23:432][683]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.13.41:037][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.19-01.13.41:050][741]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:051][741]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:051][741]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:053][741]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:053][741]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:053][741]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:078][741]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:079][741]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:079][741]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:081][741]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:082][741]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:082][741]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.13.41:390][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.13.41:419][772]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.13.41:423][772]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.13.41:423][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.13.41:423][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.13.41:460][772]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.13.41:460][772]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups8DB0967D4B7DB77BE8C75C9FF0F16539.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.13.41:470][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.686 ms (total: 12.3 sec)
+[2026.02.19-01.13.41:502][772]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.13.41:502][772]LogContentValidation: Enabled validators:
+[2026.02.19-01.13.41:502][772]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.13.41:502][772]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.13.41:502][772]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.13.41:502][772]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.13.41:502][772]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.13.41:502][772]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.13.41:503][772]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.14.04:963][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.19-01.14.04:975][453]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.14.04:975][453]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.04:975][453]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.04:977][453]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.14.04:978][453]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.04:978][453]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.05:000][453]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.14.05:001][453]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.05:001][453]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.05:004][453]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.14.05:004][453]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.05:004][453]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.05:392][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.14.05:413][490]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.14.05:417][490]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.14.05:417][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.14.05:417][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.14.05:456][490]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.14.05:456][490]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_PopupsAF28FE974AAA8F913BAF7B8875B5B828.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.14.05:466][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.190 ms (total: 12.4 sec)
+[2026.02.19-01.14.05:497][490]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.14.05:497][490]LogContentValidation: Enabled validators:
+[2026.02.19-01.14.05:497][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.14.05:497][490]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.14.05:497][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.14.05:497][490]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.14.05:497][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.14.05:497][490]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.14.05:498][490]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.14.14:449][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.19-01.14.14:460][512]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:460][512]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:462][512]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:464][512]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:464][512]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:464][512]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:487][512]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:488][512]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:488][512]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:490][512]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:490][512]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:490][512]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.14.14:836][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.14.14:868][545]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.14.14:872][545]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.14.14:872][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.14.14:872][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.14.14:908][545]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.14.14:908][545]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups095F770641B2A5E3C96BF1BB2E2688AC.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.14.14:918][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.069 ms (total: 12.4 sec)
+[2026.02.19-01.14.14:946][545]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.14.14:946][545]LogContentValidation: Enabled validators:
+[2026.02.19-01.14.14:946][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.14.14:946][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.14.14:946][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.14.14:946][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.14.14:946][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.14.14:946][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.14.14:948][545]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.15.15:396][188]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2026.02.19-01.15.15:455][188]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2026.02.19-01.15.15:469][189]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2026.02.19-01.15.20:460][699]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_QteStatus
+[2026.02.19-01.15.20:468][699]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2026.02.19-01.15.21:732][821]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Data/Enums/E_QteStatus.E_QteStatus
+[2026.02.19-01.15.23:006][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.15.23:030][944]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/Enums/E_QteStatus] ([1] browsable assets)...
+[2026.02.19-01.15.23:030][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/Enums/E_QteStatus]
+[2026.02.19-01.15.23:030][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Enums/E_QteStatus" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Enums/E_QteStatus.uasset" SILENT=true
+[2026.02.19-01.15.23:042][944]LogSavePackage: Moving output files for package: /Game/Data/Enums/E_QteStatus
+[2026.02.19-01.15.23:042][944]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/E_QteStatus81D24C9341229BC92221788AE0544BD8.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Enums/E_QteStatus.uasset'
+[2026.02.19-01.15.23:050][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.895 ms (total: 12.5 sec)
+[2026.02.19-01.15.23:077][944]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.15.23:077][944]LogContentValidation: Enabled validators:
+[2026.02.19-01.15.23:077][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.15.23:077][944]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.15.23:077][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.15.23:077][944]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.15.23:077][944]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.15.23:077][944]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.15.23:078][944]AssetCheck: /Game/Data/Enums/E_QteStatus Validating asset
+[2026.02.19-01.15.23:091][944]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.19-01.16.12:739][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.19-01.16.12:757][709]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:758][709]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:758][709]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:761][709]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:761][709]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:761][709]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:801][709]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:801][709]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:801][709]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:804][709]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:805][709]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.12:805][709]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.13:211][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.16.13:244][753]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.16.13:252][753]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.16.13:252][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.16.13:252][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.16.13:291][753]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.16.13:292][753]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups3336D12B4F30F92ADCCC52BB05502666.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.16.13:303][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.683 ms (total: 12.6 sec)
+[2026.02.19-01.16.13:335][753]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.16.13:335][753]LogContentValidation: Enabled validators:
+[2026.02.19-01.16.13:335][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.16.13:335][753]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.16.13:335][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.16.13:335][753]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.16.13:335][753]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.16.13:335][753]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.16.13:336][753]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.16.28:104][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.19-01.16.28:120][444]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:121][444]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:121][444]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:124][444]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:124][444]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:124][444]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:146][444]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:147][444]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:147][444]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:149][444]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:150][444]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:150][444]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.16.28:536][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.16.28:564][478]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.16.28:572][478]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.16.28:572][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.16.28:572][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.16.28:611][478]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.16.28:612][478]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups279C26D6441F523FD324F9802F9E2CA1.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.16.28:622][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.911 ms (total: 12.7 sec)
+[2026.02.19-01.16.28:658][478]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.16.28:658][478]LogContentValidation: Enabled validators:
+[2026.02.19-01.16.28:658][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.16.28:658][478]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.16.28:658][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.16.28:658][478]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.16.28:658][478]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.16.28:658][478]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.16.28:659][478]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.17.47:713][856]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23002.955078
+[2026.02.19-01.17.47:872][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.17.47:872][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23003.105469, Update Interval: 341.795105
+[2026.02.19-01.24.07:773][ 42]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23377.099609
+[2026.02.19-01.24.07:908][ 58]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.24.07:908][ 58]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23377.224609, Update Interval: 353.292633
+[2026.02.19-01.28.44:220][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.02.19-01.28.44:238][754]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:239][754]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:239][754]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:240][754]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:241][754]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:241][754]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:264][754]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:264][754]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:264][754]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:266][754]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:267][754]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:267][754]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.28.44:745][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.28.44:771][801]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.28.44:780][801]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.28.44:780][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.28.44:780][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.28.44:819][801]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.28.44:820][801]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups567FA95E407F4CD10D5004A8C2854DCA.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.28.44:830][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.017 ms (total: 12.7 sec)
+[2026.02.19-01.28.44:860][801]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.28.44:860][801]LogContentValidation: Enabled validators:
+[2026.02.19-01.28.44:860][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.28.44:860][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.28.44:860][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.28.44:860][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.28.44:860][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.28.44:860][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.28.44:861][801]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.30.33:914][878]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23755.720703
+[2026.02.19-01.30.34:033][892]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.30.34:033][892]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23755.826172, Update Interval: 305.044708
+[2026.02.19-01.36.09:574][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.02.19-01.36.09:591][508]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:592][508]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:592][508]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:594][508]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:594][508]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:595][508]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:619][508]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:620][508]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:620][508]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:622][508]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:623][508]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:623][508]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.36.09:699][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24083.511719
+[2026.02.19-01.36.09:822][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.36.09:822][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24083.626953, Update Interval: 311.755737
+[2026.02.19-01.36.10:213][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.36.10:243][570]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.36.10:251][570]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.36.10:251][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.36.10:251][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.36.10:291][570]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.36.10:291][570]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups0A749CE64EBA6B36FA9205BA2BB9D7B5.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.36.10:302][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.296 ms (total: 12.8 sec)
+[2026.02.19-01.36.10:326][570]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.36.10:326][570]LogContentValidation: Enabled validators:
+[2026.02.19-01.36.10:326][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.36.10:326][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.36.10:326][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.36.10:326][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.36.10:326][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.36.10:326][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.36.10:328][570]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.37.06:492][361]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Data/Enums/E_QteStatus.E_QteStatus
+[2026.02.19-01.37.31:792][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.37.31:814][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/Enums/E_QteStatus] ([1] browsable assets)...
+[2026.02.19-01.37.31:814][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/Enums/E_QteStatus]
+[2026.02.19-01.37.31:814][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Enums/E_QteStatus" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Enums/E_QteStatus.uasset" SILENT=true
+[2026.02.19-01.37.31:825][372]LogSavePackage: Moving output files for package: /Game/Data/Enums/E_QteStatus
+[2026.02.19-01.37.31:826][372]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/E_QteStatusEE96F88F4529C55EE4C4659C16B4C15E.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Enums/E_QteStatus.uasset'
+[2026.02.19-01.37.31:834][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.973 ms (total: 12.9 sec)
+[2026.02.19-01.37.31:855][372]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.37.31:855][372]LogContentValidation: Enabled validators:
+[2026.02.19-01.37.31:855][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.37.31:855][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.37.31:855][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.37.31:855][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.37.31:855][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.37.31:855][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.37.31:855][372]AssetCheck: /Game/Data/Enums/E_QteStatus Validating asset
+[2026.02.19-01.37.34:280][627]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.34:280][627]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.34:281][627]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.34:283][627]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.34:284][627]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.34:284][627]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.38:542][103]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.38:543][103]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.38:543][103]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.38:546][103]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.38:546][103]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.38:546][103]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.41:964][459]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.41:965][459]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.41:965][459]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.41:969][459]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.41:969][459]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.41:969][459]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:784][629]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:784][629]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:785][629]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:786][629]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:788][629]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:788][629]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:859][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.19-01.37.43:878][629]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:879][629]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:879][629]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:881][629]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:881][629]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:882][629]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:883][629]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:883][629]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:884][629]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:933][629]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:934][629]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:934][629]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:935][629]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:935][629]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.43:937][629]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.37.45:045][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.37.45:069][724]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Runner] ([2] browsable assets)...
+[2026.02.19-01.37.45:128][724]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Runner.BP_Runner]
+[2026.02.19-01.37.45:128][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Runner]
+[2026.02.19-01.37.45:128][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Runner" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_Runner.uasset" SILENT=true
+[2026.02.19-01.37.45:206][724]LogSavePackage: Moving output files for package: /Game/BP_Runner
+[2026.02.19-01.37.45:206][724]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_RunnerD4EDDB0D40B9F52C93FCE3944C422E52.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_Runner.uasset'
+[2026.02.19-01.37.45:220][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.594 ms (total: 13.0 sec)
+[2026.02.19-01.37.45:250][724]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.37.45:250][724]LogContentValidation: Enabled validators:
+[2026.02.19-01.37.45:250][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.37.45:250][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.37.45:250][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.37.45:250][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.37.45:250][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.37.45:250][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.37.45:250][724]AssetCheck: /Game/BP_Runner Validating asset
+[2026.02.19-01.38.22:234][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.19-01.38.22:249][940]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:250][940]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:250][940]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:253][940]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:253][940]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:253][940]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:299][940]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:300][940]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:300][940]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:302][940]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:302][940]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:303][940]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-01.38.22:747][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.38.22:780][984]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.38.22:783][984]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-01.38.22:783][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.38.22:784][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.38.22:822][984]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.38.22:822][984]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_PopupsF6E37E0A48770DBF940F3A8857BFEAB1.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.38.22:833][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.232 ms (total: 13.1 sec)
+[2026.02.19-01.38.22:856][984]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.38.22:856][984]LogContentValidation: Enabled validators:
+[2026.02.19-01.38.22:856][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.38.22:856][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.38.22:856][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.38.22:856][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.38.22:856][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.38.22:856][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.38.22:857][984]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.39.11:038][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.19-01.39.11:042][241]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Workshop' took 0.032
+[2026.02.19-01.39.11:042][241]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.39.11:042][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.39.11:081][241]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Popups_Auto8
+[2026.02.19-01.39.11:081][241]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups_Auto840FB8AAD42E83085198B7E9AA3F1251D.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/UI/UI_Popups_Auto8.uasset'
+[2026.02.19-01.39.11:081][241]LogFileHelpers: Auto-saving content packages took 0.039
+[2026.02.19-01.41.54:673][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24421.716797
+[2026.02.19-01.41.54:806][881]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.41.54:806][881]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24421.843750, Update Interval: 344.497803
+[2026.02.19-01.48.17:182][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24803.410156
+[2026.02.19-01.48.18:182][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.48.18:182][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24804.076172, Update Interval: 354.184387
+[2026.02.19-01.49.03:173][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.49.03:204][498]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.49.03:204][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.49.03:204][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.49.03:244][498]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.49.03:245][498]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups87089A6E4C8302A41D1092A6679D73BD.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.49.03:256][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.436 ms (total: 13.2 sec)
+[2026.02.19-01.49.03:287][498]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.49.03:287][498]LogContentValidation: Enabled validators:
+[2026.02.19-01.49.03:287][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.49.03:287][498]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.49.03:287][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.49.03:287][498]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.49.03:287][498]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.49.03:287][498]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.49.03:289][498]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.49.08:964][ 54]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Data/D_Upgrades.D_Upgrades
+[2026.02.19-01.49.35:630][130]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_101
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:630][130]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_101
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:630][130]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_101
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:663][131]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_102
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:663][131]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_102
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:663][131]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_102
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:675][132]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_103
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:675][132]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_103
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:675][132]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_103
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:693][133]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_104
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:693][133]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_104
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:693][133]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_104
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:714][134]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_105
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:714][134]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_105
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:714][134]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_105
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:738][135]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_106
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:738][135]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_106
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:738][135]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_106
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:764][136]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_107
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:764][136]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_107
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:764][136]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_107
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:787][137]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_108
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:787][137]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_108
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:787][137]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_108
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:813][138]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_109
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:813][138]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_109
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:813][138]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_109
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:825][139]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_110
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:825][139]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_110
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:825][139]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_110
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:836][140]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_111
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:836][140]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_111
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:836][140]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_111
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:848][141]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_112
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:849][141]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_112
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:849][141]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_112
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:861][142]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_113
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:862][142]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_113
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:862][142]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_113
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:873][143]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_114
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:873][143]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_114
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:873][143]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_114
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.35:885][144]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_115
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.35:885][144]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_115
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.35:885][144]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_115
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.36:000][155]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_116
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.49.36:000][155]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_116
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.49.36:000][155]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_116
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.49.36:041][156]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer
+[2026.02.19-01.49.36:042][156]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_110
+[2026.02.19-01.49.36:047][156]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_111
+[2026.02.19-01.49.36:055][156]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-01.49.36:307][156]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_112
+[2026.02.19-01.50.12:984][375]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Models/Characters/Strainer/Strainer_Skeleton.Strainer_Skeleton
+[2026.02.19-01.50.12:985][375]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_113
+[2026.02.19-01.50.12:991][375]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_113:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-01.50.13:181][375]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_114
+[2026.02.19-01.50.59:072][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.02.19-01.50.59:086][227]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_119
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.50.59:086][227]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_119
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.50.59:086][227]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_119
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.50.59:157][229]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_120
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.50.59:157][229]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_120
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.50.59:157][229]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_120
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.51.15:773][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.19-01.51.15:787][ 22]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_137
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.51.15:787][ 22]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_137
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.51.15:787][ 22]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_137
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.51.15:853][ 24]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_138
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.51.15:853][ 24]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_138
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.51.15:853][ 24]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_138
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.51.56:024][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.19-01.51.56:042][337]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_141
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.51.56:042][337]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_141
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.51.56:042][337]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_141
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.51.56:125][339]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_142
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.51.56:125][339]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_142
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.51.56:125][339]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_142
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.51.56:681][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.51.56:709][397]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Animation/ABP_Strainer] ([2] browsable assets)...
+[2026.02.19-01.51.56:709][397]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_143
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.51.56:709][397]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_143
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.51.56:709][397]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_143
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.51.56:716][397]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer]
+[2026.02.19-01.51.56:716][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animation/ABP_Strainer]
+[2026.02.19-01.51.56:744][397]LogSavePackage: Moving output files for package: /Game/Blueprints/Animation/ABP_Strainer
+[2026.02.19-01.51.56:745][397]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/ABP_Strainer446763F4420B9D1CE7A195AE40872D54.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Animation/ABP_Strainer.uasset'
+[2026.02.19-01.51.56:757][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.366 ms (total: 13.3 sec)
+[2026.02.19-01.51.56:780][397]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.51.56:780][397]LogContentValidation: Enabled validators:
+[2026.02.19-01.51.56:780][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.51.56:780][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.51.56:780][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.51.56:780][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.51.56:780][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.51.56:780][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.51.56:780][397]AssetCheck: /Game/Blueprints/Animation/ABP_Strainer Validating asset
+[2026.02.19-01.51.56:813][399]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_144
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.51.56:813][399]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_144
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.51.56:813][399]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_144
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.52.05:404][292]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/Characters/Strainer/Anim_StrainerCrawl.Anim_StrainerCrawl
+[2026.02.19-01.52.05:404][292]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_115
+[2026.02.19-01.52.05:413][292]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-01.52.05:608][292]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_116
+[2026.02.19-01.52.05:979][292]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_117
+[2026.02.19-01.52.08:940][535]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-01.52.08:940][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-01.52.08:949][535]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-01.52.08:949][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-01.52.09:005][535]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-01.52.09:005][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-01.52.09:055][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.19-01.52.10:062][646]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-01.52.10:062][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-01.52.10:103][646]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-01.52.10:103][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-01.52.10:135][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.19-01.52.10:956][725]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-01.52.10:956][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-01.52.10:977][725]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-01.52.10:977][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-01.52.11:021][725]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-01.52.11:021][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-01.52.11:058][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.19-01.54.45:556][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25189.025391
+[2026.02.19-01.54.45:689][985]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-01.54.45:689][986]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25189.148438, Update Interval: 320.167847
+[2026.02.19-01.56.08:396][902]LogDerivedDataCache: C:/Users/cmcdonnell1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.19-01.57.34:529][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-01.57.34:556][212]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-01.57.34:556][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-01.57.34:556][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-01.57.34:595][212]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-01.57.34:595][212]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups1E80E3DE4898930E9D4ABF856A594B63.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-01.57.34:607][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.757 ms (total: 13.4 sec)
+[2026.02.19-01.57.34:637][212]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-01.57.34:637][212]LogContentValidation: Enabled validators:
+[2026.02.19-01.57.34:637][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-01.57.34:637][212]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-01.57.34:637][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-01.57.34:637][212]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-01.57.34:637][212]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-01.57.34:637][212]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-01.57.34:639][212]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-01.58.57:037][815]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_145
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:037][815]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_145
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:037][815]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_145
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:070][816]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_146
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:070][816]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_146
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:070][816]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_146
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:094][817]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_147
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:094][817]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_147
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:094][817]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_147
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:117][818]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_148
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:117][818]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_148
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:117][818]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_148
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:143][819]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_149
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:143][819]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_149
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:143][819]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_149
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:165][820]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_150
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:165][820]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_150
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:165][820]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_150
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:177][821]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_151
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:177][821]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_151
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:177][821]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_151
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:191][822]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_152
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:191][822]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_152
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:191][822]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_152
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:203][823]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_153
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:203][823]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_153
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:203][823]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_153
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:215][824]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_154
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:215][824]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_154
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:215][824]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_154
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:227][825]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_155
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:227][825]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_155
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:227][825]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_155
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:240][826]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_156
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:240][826]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_156
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:240][826]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_156
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:252][827]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_157
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:252][827]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_157
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:252][827]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_157
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:384][840]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_158
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:384][840]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_158
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:384][840]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_158
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:423][841]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_159
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-01.58.57:423][841]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_159
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-01.58.57:423][841]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_159
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-01.58.57:445][842]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer
+[2026.02.19-01.58.57:445][842]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_119
+[2026.02.19-01.58.57:450][842]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_120
+[2026.02.19-01.58.57:457][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-01.58.57:698][842]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_121
+[2026.02.19-01.58.59:551][  3]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Models/Characters/Strainer/Strainer_Skeleton.Strainer_Skeleton
+[2026.02.19-01.58.59:551][  3]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_122
+[2026.02.19-01.58.59:558][  3]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-01.58.59:746][  3]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_123
+[2026.02.19-02.00.39:709][731]Cmd: TRANSACTION UNDO
+[2026.02.19-02.00.39:709][731]LogEditorTransaction: Undo Rotate Bone
+[2026.02.19-02.00.39:963][731]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-02.00.39:964][731]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-02.00.47:427][517]Cmd: TRANSACTION UNDO
+[2026.02.19-02.00.47:427][517]LogEditorTransaction: Undo Rotate Bone
+[2026.02.19-02.00.47:665][517]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-02.00.47:665][517]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-02.00.50:573][802]Cmd: TRANSACTION UNDO
+[2026.02.19-02.00.50:573][802]LogEditorTransaction: Undo Rotate Bone
+[2026.02.19-02.00.50:809][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-02.00.50:810][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-02.00.51:507][873]Cmd: TRANSACTION UNDO
+[2026.02.19-02.00.51:507][873]LogEditorTransaction: Undo Create Pin Link
+[2026.02.19-02.00.51:747][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-02.00.51:747][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_122:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.19-02.00.58:653][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.02.19-02.00.58:666][571]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_164
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-02.00.58:666][571]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_164
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-02.00.58:666][571]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_164
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-02.00.58:742][573]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_165
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-02.00.58:742][573]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_165
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-02.00.58:742][573]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_165
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-02.00.59:914][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-02.00.59:940][703]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Animation/ABP_Strainer] ([2] browsable assets)...
+[2026.02.19-02.00.59:940][703]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_166
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-02.00.59:940][703]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_166
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-02.00.59:940][703]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_166
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-02.00.59:946][703]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer]
+[2026.02.19-02.00.59:946][703]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animation/ABP_Strainer]
+[2026.02.19-02.00.59:974][703]LogSavePackage: Moving output files for package: /Game/Blueprints/Animation/ABP_Strainer
+[2026.02.19-02.00.59:974][703]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/ABP_Strainer59ECF5254B2B5659D32ABEA12BDA9158.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Animation/ABP_Strainer.uasset'
+[2026.02.19-02.00.59:985][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.203 ms (total: 13.4 sec)
+[2026.02.19-02.01.00:026][703]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-02.01.00:026][703]LogContentValidation: Enabled validators:
+[2026.02.19-02.01.00:026][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-02.01.00:026][703]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-02.01.00:026][703]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-02.01.00:026][703]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-02.01.00:026][703]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-02.01.00:026][703]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-02.01.00:026][703]AssetCheck: /Game/Blueprints/Animation/ABP_Strainer Validating asset
+[2026.02.19-02.01.00:056][705]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_167
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-02.01.00:056][705]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_167
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-02.01.00:056][705]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_167
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-02.01.02:916][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.19-02.01.02:930][  0]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_170
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-02.01.02:930][  0]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_170
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-02.01.02:930][  0]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_170
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-02.01.03:002][  2]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_171
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-02.01.03:002][  2]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_171
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-02.01.03:002][  2]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_171
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-02.01.05:625][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25565.484375
+[2026.02.19-02.01.05:749][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.01.05:749][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25565.597656, Update Interval: 352.296509
+[2026.02.19-02.01.08:008][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.19-02.01.08:023][522]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_178
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-02.01.08:023][522]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_178
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-02.01.08:023][522]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_178
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-02.01.08:094][524]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_179
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-02.01.08:094][524]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_179
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-02.01.08:094][524]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_179
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-02.01.08:527][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-02.01.08:553][572]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Animation/ABP_Strainer] ([2] browsable assets)...
+[2026.02.19-02.01.08:553][572]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_180
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-02.01.08:553][572]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_180
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-02.01.08:553][572]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_180
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-02.01.08:560][572]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer]
+[2026.02.19-02.01.08:560][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animation/ABP_Strainer]
+[2026.02.19-02.01.08:591][572]LogSavePackage: Moving output files for package: /Game/Blueprints/Animation/ABP_Strainer
+[2026.02.19-02.01.08:591][572]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/ABP_StrainerE54C7CB34E4A1D099E6B2F808094C9D3.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Animation/ABP_Strainer.uasset'
+[2026.02.19-02.01.08:601][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.503 ms (total: 13.5 sec)
+[2026.02.19-02.01.08:630][572]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-02.01.08:630][572]LogContentValidation: Enabled validators:
+[2026.02.19-02.01.08:630][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-02.01.08:630][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-02.01.08:630][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-02.01.08:630][572]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-02.01.08:630][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-02.01.08:630][572]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-02.01.08:630][572]AssetCheck: /Game/Blueprints/Animation/ABP_Strainer Validating asset
+[2026.02.19-02.01.08:660][574]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_181
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:01A1
+[2026.02.19-02.01.08:660][574]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_181
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:012F
+[2026.02.19-02.01.08:660][574]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Strainer_C_181
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:0168
+[2026.02.19-02.01.10:468][775]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.01.10:469][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.01.10:489][775]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.01.10:489][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.01.10:532][775]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.01.10:532][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.01.10:569][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.19-02.01.10:931][812]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.01.10:931][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.01.10:969][812]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-02.01.10:969][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-02.01.11:004][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.19-02.07.31:660][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25949.312500
+[2026.02.19-02.07.32:658][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.07.32:658][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25949.976562, Update Interval: 346.662201
+[2026.02.19-02.13.53:368][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26331.005859
+[2026.02.19-02.13.54:368][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.13.54:368][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26331.671875, Update Interval: 350.578949
+[2026.02.19-02.20.15:745][754]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26713.435547
+[2026.02.19-02.20.16:746][757]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.20.16:747][757]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26714.103516, Update Interval: 347.215179
+[2026.02.19-02.26.36:128][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27093.853516
+[2026.02.19-02.26.37:129][898]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.26.37:129][898]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27094.521484, Update Interval: 355.755493
