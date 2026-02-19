@@ -18578,3 +18578,203 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.19-02.26.36:128][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27093.853516
 [2026.02.19-02.26.37:129][898]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.19-02.26.37:129][898]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27094.521484, Update Interval: 355.755493
+[2026.02.19-02.33.22:513][114]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27500.275391
+[2026.02.19-02.33.23:514][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.33.23:514][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27500.943359, Update Interval: 300.364380
+[2026.02.19-02.39.01:225][130]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27839.041016
+[2026.02.19-02.39.02:225][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.39.02:226][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27839.707031, Update Interval: 336.884064
+[2026.02.19-02.45.19:933][266]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28217.779297
+[2026.02.19-02.45.20:932][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.45.20:932][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28218.445312, Update Interval: 307.886597
+[2026.02.19-02.51.26:651][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28584.578125
+[2026.02.19-02.51.27:651][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.51.27:651][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28585.246094, Update Interval: 311.891235
+[2026.02.19-02.56.08:427][212]LogDerivedDataCache: C:/Users/cmcdonnell1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.19-02.57.19:040][423]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28937.011719
+[2026.02.19-02.57.20:040][426]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-02.57.20:040][426]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28937.677734, Update Interval: 308.490845
+[2026.02.19-03.03.11:089][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29289.072266
+[2026.02.19-03.03.12:088][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-03.03.12:088][482]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29289.738281, Update Interval: 305.758850
+[2026.02.19-03.09.00:138][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29638.126953
+[2026.02.19-03.09.01:138][529]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-03.09.01:138][529]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29638.794922, Update Interval: 316.617340
+[2026.02.19-03.12.59:312][586]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.12.59:313][586]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.12.59:313][586]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.12.59:317][586]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.12.59:317][586]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.12.59:317][586]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.02:965][986]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.02:965][986]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.02:965][986]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.02:969][986]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.02:969][986]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.02:970][986]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:640][157]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:641][157]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:641][157]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:644][157]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:644][157]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:644][157]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:679][157]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:680][157]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:681][157]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:683][157]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:683][157]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.04:683][157]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:895][313]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:896][313]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:896][313]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:899][313]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:899][313]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:900][313]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:934][313]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:935][313]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:935][313]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:938][313]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:938][313]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.14:939][313]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.17:693][618]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.17:694][618]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.17:694][618]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.17:697][618]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.17:697][618]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.17:697][618]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:002][734]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:003][734]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:003][734]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:004][734]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:004][734]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:004][734]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:092][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.02.19-03.13.19:120][734]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:121][734]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:121][734]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:123][734]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:124][734]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:124][734]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:126][734]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:126][734]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:126][734]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:185][734]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:186][734]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:186][734]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:188][734]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:188][734]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:188][734]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:874][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-03.13.19:894][789]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Runner] ([2] browsable assets)...
+[2026.02.19-03.13.19:945][789]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Runner.BP_Runner]
+[2026.02.19-03.13.19:945][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Runner]
+[2026.02.19-03.13.19:945][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Runner" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_Runner.uasset" SILENT=true
+[2026.02.19-03.13.19:990][789]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:990][789]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:991][789]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:993][789]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:993][789]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.19:994][789]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.20:027][789]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.20:027][789]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.20:028][789]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.20:030][789]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.13.20:030][789]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.20:030][789]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.13.20:083][789]LogSavePackage: Moving output files for package: /Game/BP_Runner
+[2026.02.19-03.13.20:083][789]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_Runner577BFD864BBE036D5C0D12987D3FD659.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_Runner.uasset'
+[2026.02.19-03.13.20:098][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 223.827 ms (total: 13.7 sec)
+[2026.02.19-03.13.20:133][789]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-03.13.20:133][789]LogContentValidation: Enabled validators:
+[2026.02.19-03.13.20:133][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-03.13.20:133][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-03.13.20:133][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-03.13.20:133][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-03.13.20:133][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-03.13.20:133][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-03.13.20:133][789]AssetCheck: /Game/BP_Runner Validating asset
+[2026.02.19-03.14.03:341][695]LogBlueprint: Error: [AssetLog] C:\Users\cmcdonnell1\Downloads\thestrainer\Unreal\Strainer\Content\UI\UI_Popups.uasset: [Compiler] This blueprint (self) is not a BP_Runner_C, therefore ' Target ' must have a connection.
+[2026.02.19-03.14.03:377][695]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:377][695]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:378][695]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:379][695]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:379][695]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:379][695]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:436][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.19-03.14.03:452][695]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:452][695]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:453][695]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:454][695]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:455][695]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:455][695]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:456][695]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:457][695]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:457][695]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:507][695]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:507][695]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:508][695]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:510][695]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:510][695]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:510][695]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.03:859][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-03.14.03:889][727]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-03.14.03:894][727]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-03.14.03:894][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-03.14.03:894][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-03.14.03:933][727]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-03.14.03:933][727]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Popups50B084204B7723F02B291F8C38103A5F.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-03.14.03:946][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.875 ms (total: 13.8 sec)
+[2026.02.19-03.14.03:985][727]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-03.14.03:985][727]LogContentValidation: Enabled validators:
+[2026.02.19-03.14.03:985][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-03.14.03:985][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-03.14.03:985][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-03.14.03:985][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-03.14.03:985][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-03.14.03:985][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-03.14.03:986][727]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-03.14.08:283][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.19-03.14.08:304][220]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:305][220]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:305][220]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:307][220]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:307][220]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:308][220]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:335][220]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:335][220]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:336][220]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:338][220]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:338][220]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:338][220]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.19-03.14.08:946][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-03.14.08:968][281]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Popups] ([2] browsable assets)...
+[2026.02.19-03.14.08:972][281]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Popups.UI_Popups]
+[2026.02.19-03.14.08:972][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Popups]
+[2026.02.19-03.14.08:972][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Popups" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset" SILENT=true
+[2026.02.19-03.14.09:011][281]LogSavePackage: Moving output files for package: /Game/UI/UI_Popups
+[2026.02.19-03.14.09:012][281]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_PopupsE214CEE94D9BD62D2A6786A47C6B5C44.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Popups.uasset'
+[2026.02.19-03.14.09:023][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.330 ms (total: 13.9 sec)
+[2026.02.19-03.14.09:053][281]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-03.14.09:053][281]LogContentValidation: Enabled validators:
+[2026.02.19-03.14.09:053][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-03.14.09:053][281]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-03.14.09:053][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-03.14.09:053][281]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-03.14.09:053][281]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-03.14.09:053][281]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-03.14.09:055][281]AssetCheck: /Game/UI/UI_Popups Validating asset
+[2026.02.19-03.15.11:642][572]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30008.667969
+[2026.02.19-03.15.12:641][575]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-03.15.12:641][575]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30009.333984, Update Interval: 305.116119
+[2026.02.19-03.20.56:309][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30346.507812
+[2026.02.19-03.20.56:427][472]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-03.20.56:427][472]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30346.611328, Update Interval: 351.421234
+[2026.02.19-03.27.36:709][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30737.898438
+[2026.02.19-03.27.36:834][506]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-03.27.36:834][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30738.009766, Update Interval: 353.301788
+[2026.02.19-03.34.09:776][342]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31127.785156
+[2026.02.19-03.34.10:775][345]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-03.34.10:775][345]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31128.449219, Update Interval: 330.645477
+[2026.02.19-03.40.34:485][496]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31512.511719
+[2026.02.19-03.40.35:486][499]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-03.40.35:486][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31513.179688, Update Interval: 316.311523
