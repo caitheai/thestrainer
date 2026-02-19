@@ -5104,3 +5104,725 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.19-22.20.29:112][194]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8474.565430
 [2026.02.19-22.20.30:112][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.19-22.20.30:112][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8475.230469, Update Interval: 353.816345
+[2026.02.19-22.21.50:059][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.02.19-22.21.51:165][650]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.19-22.21.51:204][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.19-22.21.51:228][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.19-22.21.51:251][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.19-22.27.07:534][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8872.976562
+[2026.02.19-22.27.08:533][662]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-22.27.08:534][662]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8873.642578, Update Interval: 337.409576
+[2026.02.19-22.33.20:258][777]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9245.694336
+[2026.02.19-22.33.21:259][780]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-22.33.21:259][780]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9246.363281, Update Interval: 330.976898
+[2026.02.19-22.39.25:644][873]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9611.066406
+[2026.02.19-22.39.26:643][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-22.39.26:643][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9611.733398, Update Interval: 352.642609
+[2026.02.19-22.45.49:691][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9995.119141
+[2026.02.19-22.45.50:694][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-22.45.50:694][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9995.789062, Update Interval: 321.744446
+[2026.02.19-22.51.54:748][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10360.162109
+[2026.02.19-22.51.55:749][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-22.51.55:749][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10360.828125, Update Interval: 333.117462
+[2026.02.19-22.52.38:369][591]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-22.52.38:396][591]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/cmcdonnell1/Downloads/yep.fbx]
+[2026.02.19-22.52.40:022][591]LogSlate: Window 'Import Content' being destroyed
+[2026.02.19-22.52.40:043][591]LogInterchangeEngine: [Pending] Importing
+[2026.02.19-22.52.40:111][593]LogStreaming: Display: FlushAsyncLoading(556): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-22.52.40:156][595]LogStaticMesh: Display: Building static mesh house1 (Required Memory Estimate: 0.466907 MB)...
+[2026.02.19-22.52.40:156][595]LogStaticMesh: Display: Building static mesh house3 (Required Memory Estimate: 0.678173 MB)...
+[2026.02.19-22.52.40:156][595]LogStaticMesh: Display: Building static mesh house2 (Required Memory Estimate: 0.872957 MB)...
+[2026.02.19-22.52.40:157][595]LogStaticMesh: Adjacency [0.00s], tris: 294, UVs 1
+[2026.02.19-22.52.40:158][595]LogStaticMesh: Adjacency [0.00s], tris: 432, UVs 1
+[2026.02.19-22.52.40:158][595]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2026.02.19-22.52.40:158][595]LogStaticMesh: Leaves [0.00s]
+[2026.02.19-22.52.40:158][595]LogStaticMesh: Adjacency [0.00s], tris: 556, UVs 1
+[2026.02.19-22.52.40:158][595]LogStaticMesh: Clustering [0.00s]. Ratio: 1.500000
+[2026.02.19-22.52.40:158][595]LogStaticMesh: Leaves [0.00s]
+[2026.02.19-22.52.40:159][595]LogStaticMesh: Clustering [0.00s]. Ratio: 1.600000
+[2026.02.19-22.52.40:159][595]LogStaticMesh: Leaves [0.00s]
+[2026.02.19-22.52.40:165][595]LogStaticMesh: Reduce [0.01s]
+[2026.02.19-22.52.40:167][595]LogStaticMesh: Fallback [0.00s], num tris: 262
+[2026.02.19-22.52.40:168][595]LogStaticMesh: Reduce [0.01s]
+[2026.02.19-22.52.40:168][595]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.02.19-22.52.40:169][595]LogStaticMesh: ConstrainClusters:
+[2026.02.19-22.52.40:169][595]LogStaticMesh:   Input: 7 Clusters, 672 Triangles and 667 Vertices
+[2026.02.19-22.52.40:169][595]LogStaticMesh:   Output without splits: 7 Clusters, 672 Triangles and 668 Vertices
+[2026.02.19-22.52.40:169][595]LogStaticMesh:   Output with splits: 7 Clusters, 672 Triangles and 668 Vertices
+[2026.02.19-22.52.40:169][595]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.02.19-22.52.40:169][595]LogStaticMesh: WritePages:
+[2026.02.19-22.52.40:169][595]LogStaticMesh:   Root: GPU size: 9596 bytes. 1 Pages. 9596.000 bytes per page (29.285% utilization).
+[2026.02.19-22.52.40:169][595]LogStaticMesh:   Streaming: 0 bytes.
+[2026.02.19-22.52.40:169][595]LogStaticMesh:   Page data disk size: 7072 bytes. Fixup data size: 56 bytes.
+[2026.02.19-22.52.40:169][595]LogStaticMesh:   Total GPU size: 9596 bytes, Total disk size: 7128 bytes.
+[2026.02.19-22.52.40:169][595]LogStaticMesh: Encode [0.00s]
+[2026.02.19-22.52.40:169][595]LogStaticMesh: NaniteBuild [0.01s]
+[2026.02.19-22.52.40:170][595]LogStaticMesh: Fallback [0.00s], num tris: 402
+[2026.02.19-22.52.40:171][595]LogStaticMesh: Reduce [0.01s]
+[2026.02.19-22.52.40:173][595]LogStaticMesh: Fallback [0.00s], num tris: 354
+[2026.02.19-22.52.40:174][595]LogStaticMesh: ConstrainClusters:
+[2026.02.19-22.52.40:174][595]LogStaticMesh:   Input: 9 Clusters, 809 Triangles and 814 Vertices
+[2026.02.19-22.52.40:174][595]LogStaticMesh:   Output without splits: 9 Clusters, 809 Triangles and 814 Vertices
+[2026.02.19-22.52.40:174][595]LogStaticMesh:   Output with splits: 9 Clusters, 809 Triangles and 814 Vertices
+[2026.02.19-22.52.40:174][595]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 9, Slow Path Clusters: 0, 1 Material: 9, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.02.19-22.52.40:174][595]LogStaticMesh: WritePages:
+[2026.02.19-22.52.40:174][595]LogStaticMesh:   Root: GPU size: 11784 bytes. 1 Pages. 11784.000 bytes per page (35.962% utilization).
+[2026.02.19-22.52.40:174][595]LogStaticMesh:   Streaming: 0 bytes.
+[2026.02.19-22.52.40:174][595]LogStaticMesh:   Page data disk size: 10008 bytes. Fixup data size: 56 bytes.
+[2026.02.19-22.52.40:174][595]LogStaticMesh:   Total GPU size: 11784 bytes, Total disk size: 10064 bytes.
+[2026.02.19-22.52.40:174][595]LogStaticMesh: Encode [0.00s]
+[2026.02.19-22.52.40:174][595]LogStaticMesh: NaniteBuild [0.02s]
+[2026.02.19-22.52.40:175][595]LogStaticMesh: Fallback [0.00s], num tris: 445
+[2026.02.19-22.52.40:177][596]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Background/Neighborhood/house1.house1
+[2026.02.19-22.52.40:183][596]LogStaticMesh: Fallback [0.01s], num tris: 347
+[2026.02.19-22.52.40:184][596]LogStaticMesh: ConstrainClusters:
+[2026.02.19-22.52.40:184][596]LogStaticMesh:   Input: 14 Clusters, 1310 Triangles and 1507 Vertices
+[2026.02.19-22.52.40:184][596]LogStaticMesh:   Output without splits: 14 Clusters, 1310 Triangles and 1507 Vertices
+[2026.02.19-22.52.40:184][596]LogStaticMesh:   Output with splits: 14 Clusters, 1310 Triangles and 1507 Vertices
+[2026.02.19-22.52.40:184][596]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.02.19-22.52.40:184][596]LogStaticMesh: WritePages:
+[2026.02.19-22.52.40:184][596]LogStaticMesh:   Root: GPU size: 20804 bytes. 1 Pages. 20804.000 bytes per page (63.489% utilization).
+[2026.02.19-22.52.40:184][596]LogStaticMesh:   Streaming: 0 bytes.
+[2026.02.19-22.52.40:184][596]LogStaticMesh:   Page data disk size: 15340 bytes. Fixup data size: 72 bytes.
+[2026.02.19-22.52.40:184][596]LogStaticMesh:   Total GPU size: 20804 bytes, Total disk size: 15412 bytes.
+[2026.02.19-22.52.40:184][596]LogStaticMesh: Encode [0.00s]
+[2026.02.19-22.52.40:184][596]LogStaticMesh: NaniteBuild [0.03s]
+[2026.02.19-22.52.40:196][596]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Background/Neighborhood/house3.house3
+[2026.02.19-22.52.40:202][596]LogStaticMesh: Built static mesh [0.05s] /Game/Models/Background/Neighborhood/house2.house2
+[2026.02.19-22.52.40:991][598]LogInterchangeEngine: Display: Interchange import completed [C:/Users/cmcdonnell1/Downloads/yep.fbx]
+[2026.02.19-22.52.40:991][598]Interchange: Warning: [C:/Users/cmcdonnell1/Downloads/yep.fbx : 'house1', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.02.19-22.52.40:991][598]Interchange: Warning: [C:/Users/cmcdonnell1/Downloads/yep.fbx : 'house2', StaticMesh] No smoothing group information was found for this mesh 'Mesh_ncl_1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.02.19-22.52.40:991][598]Interchange: Warning: [C:/Users/cmcdonnell1/Downloads/yep.fbx : 'house3', StaticMesh] No smoothing group information was found for this mesh 'Mesh_ncl_2' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.02.19-22.52.41:015][598]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.19-22.52.41:015][598]LogInterchangeEngine: [Success] Import Done
+[2026.02.19-22.52.43:445][787]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.02.19-22.52.43:493][787]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.02.19-22.52.43:523][788]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.02.19-22.52.55:897][536]LogContentBrowser: Attempting asset rename: NewMaterial -> UV_6
+[2026.02.19-22.52.55:901][536]LogContentBrowser: End creating deferred item NewMaterial
+[2026.02.19-22.52.56:770][612]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Background/Neighborhood/UV_6.UV_6
+[2026.02.19-22.52.56:790][612]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.02.19-22.52.57:322][612]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-22.52.57:322][612]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-22.52.57:322][612]MaterialEditorStats: Shader Count: 0
+[2026.02.19-22.52.57:322][612]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-22.52.57:430][614]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-22.52.57:430][614]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-22.52.57:430][614]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-22.52.57:430][614]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-22.52.57:430][614]MaterialEditorStats: Shader Count: 5
+[2026.02.19-22.52.57:430][614]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-22.53.25:279][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.19-22.53.25:284][938]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Workshop' took 0.047
+[2026.02.19-22.53.25:285][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Background/Neighborhood/house1] ([1] browsable assets)...
+[2026.02.19-22.53.25:339][938]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Background/Neighborhood/house1.house1]
+[2026.02.19-22.53.25:339][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Background/Neighborhood/house1]
+[2026.02.19-22.53.25:351][938]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Background/Neighborhood/house1_Auto3
+[2026.02.19-22.53.25:351][938]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/house1_Auto32CA117E940DA2120B9DA0889B06DED2D.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/Models/Background/Neighborhood/house1_Auto3.uasset'
+[2026.02.19-22.53.25:352][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Background/Neighborhood/house2] ([1] browsable assets)...
+[2026.02.19-22.53.25:366][938]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Background/Neighborhood/house2.house2]
+[2026.02.19-22.53.25:366][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Background/Neighborhood/house2]
+[2026.02.19-22.53.25:378][938]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Background/Neighborhood/house2_Auto3
+[2026.02.19-22.53.25:378][938]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/house2_Auto395D67CD247A2BDA9D33A558385C9C941.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/Models/Background/Neighborhood/house2_Auto3.uasset'
+[2026.02.19-22.53.25:379][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Background/Neighborhood/house3] ([1] browsable assets)...
+[2026.02.19-22.53.25:394][938]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Background/Neighborhood/house3.house3]
+[2026.02.19-22.53.25:394][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Background/Neighborhood/house3]
+[2026.02.19-22.53.25:406][938]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Background/Neighborhood/house3_Auto3
+[2026.02.19-22.53.25:406][938]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/house3_Auto3DB2A3AE24ED48F0A4EAD12BDFBC5BFCD.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/Models/Background/Neighborhood/house3_Auto3.uasset'
+[2026.02.19-22.53.25:407][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Background/Neighborhood/UV_6] ([1] browsable assets)...
+[2026.02.19-22.53.25:419][938]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Background/Neighborhood/UV_6.UV_6]
+[2026.02.19-22.53.25:419][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Background/Neighborhood/UV_6]
+[2026.02.19-22.53.25:430][938]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Background/Neighborhood/UV_6_Auto3
+[2026.02.19-22.53.25:430][938]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UV_6_Auto3ABC3483C47351319E47094B62D65E96A.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/Models/Background/Neighborhood/UV_6_Auto3.uasset'
+[2026.02.19-22.53.25:431][938]LogFileHelpers: Auto-saving content packages took 0.148
+[2026.02.19-22.53.52:131][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-22.53.52:131][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/UV_6] ([1] browsable assets)...
+[2026.02.19-22.53.52:131][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/UV_6]
+[2026.02.19-22.53.52:131][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/UV_6" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UV_6.uasset" SILENT=true
+[2026.02.19-22.53.52:139][470]LogSavePackage: Moving output files for package: /Game/Materials/UV_6
+[2026.02.19-22.53.52:139][470]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UV_6CD49E1D84EC753ACAA06FDB8133E993A.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UV_6.uasset'
+[2026.02.19-22.53.52:140][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.690 ms (total: 1.83 sec)
+[2026.02.19-22.53.52:193][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.19-22.53.52:218][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.19-22.53.52:241][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.19-22.53.52:264][470]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.02.19-22.53.52:264][470]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-22.53.52:264][470]LogContentValidation: Enabled validators:
+[2026.02.19-22.53.52:264][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-22.53.52:264][470]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-22.53.52:264][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-22.53.52:264][470]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-22.53.52:264][470]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-22.53.52:264][470]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-22.53.52:264][470]AssetCheck: /Game/Materials/UV_6 Validating asset
+[2026.02.19-22.53.52:282][470]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.19-22.53.52:754][525]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_2:PersistentLevel.BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT_0.CharacterMesh0.ABP_Strainer_C_0
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:02FD
+[2026.02.19-22.53.52:754][525]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_2:PersistentLevel.BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT_0.CharacterMesh0.ABP_Strainer_C_0
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:02C4
+[2026.02.19-22.53.52:754][525]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_2:PersistentLevel.BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT_0.CharacterMesh0.ABP_Strainer_C_0
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:028B
+[2026.02.19-22.53.52:770][527]LogScript: Warning: Accessed None trying to read (real) property [ I ] in ABP_Strainer_C
+	ABP_Strainer_C /Engine/Transient.World_2:PersistentLevel.BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT_0.CharacterMesh0.ABP_Strainer_C_0
+	Function /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer_C:ExecuteUbergraph_ABP_Strainer:02FD
+[2026.02.19-22.53.56:283][865]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.19-22.53.56:330][865]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.19-22.53.56:343][866]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.19-22.53.58:988][177]LogContentBrowser: Attempting asset rename: NewFolder -> UVs
+[2026.02.19-22.53.58:988][177]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.19-22.54.02:008][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-22.54.02:008][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/UVs/UV_6] ([1] browsable assets)...
+[2026.02.19-22.54.02:008][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/UVs/UV_6]
+[2026.02.19-22.54.02:008][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/UVs/UV_6" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UVs/UV_6.uasset" SILENT=true
+[2026.02.19-22.54.02:016][471]LogSavePackage: Moving output files for package: /Game/Materials/UVs/UV_6
+[2026.02.19-22.54.02:016][471]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UV_6C88B92F048DDC0A676FEEA968B4B8809.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UVs/UV_6.uasset'
+[2026.02.19-22.54.02:018][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.254 ms (total: 1.84 sec)
+[2026.02.19-22.54.02:072][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.19-22.54.02:096][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.19-22.54.02:118][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.19-22.54.02:140][471]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.02.19-22.54.02:140][471]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-22.54.02:140][471]LogContentValidation: Enabled validators:
+[2026.02.19-22.54.02:140][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-22.54.02:140][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-22.54.02:140][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-22.54.02:140][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-22.54.02:140][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-22.54.02:141][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-22.54.02:141][471]AssetCheck: /Game/Materials/UVs/UV_6 Validating asset
+[2026.02.19-22.54.02:150][471]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.19-22.54.06:547][905]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-22.54.06:573][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.19-22.54.07:648][905]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.19-22.54.07:680][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.02.19-22.54.07:705][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.19-22.54.07:727][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.19-22.54.10:203][113]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-22.54.10:577][113]LogInterchangeEngine: [Pending] Importing
+[2026.02.19-22.54.10:577][113]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/cmcdonnell1/Downloads/t_UV1_BaseColor.png]
+[2026.02.19-22.54.10:666][115]LogStreaming: Display: FlushAsyncLoading(589): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-22.54.10:696][117]LogTexture: Display: Building textures: /Game/Materials/RAW/t_UV1_BaseColor.t_UV1_BaseColor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.02.19-22.54.10:732][118]LogInterchangeEngine: Display: Interchange import completed [C:/Users/cmcdonnell1/Downloads/t_UV1_BaseColor.png]
+[2026.02.19-22.54.10:737][118]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.19-22.54.10:738][118]LogInterchangeEngine: [Success] Import Done
+[2026.02.19-22.54.17:616][886]LogContentBrowser: Attempting asset rename: t_UV1_BaseColor -> UV1_Base
+[2026.02.19-22.54.17:668][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-22.54.17:668][886]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/RAW/UV1_Base] ([1] browsable assets)...
+[2026.02.19-22.54.17:669][886]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/RAW/UV1_Base.UV1_Base]
+[2026.02.19-22.54.17:669][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/RAW/UV1_Base]
+[2026.02.19-22.54.17:670][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/RAW/UV1_Base" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/RAW/UV1_Base.uasset" SILENT=true
+[2026.02.19-22.54.17:690][886]LogSavePackage: Moving output files for package: /Game/Materials/RAW/UV1_Base
+[2026.02.19-22.54.17:690][886]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UV1_Base805861C4441AED2AFC57B69DCE9201D4.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/RAW/UV1_Base.uasset'
+[2026.02.19-22.54.17:692][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 24.340 ms (total: 1.86 sec)
+[2026.02.19-22.54.17:740][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.19-22.54.17:762][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.19-22.54.17:785][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.02.19-22.54.17:824][886]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-22.54.17:824][886]LogContentValidation: Enabled validators:
+[2026.02.19-22.54.17:824][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-22.54.17:824][886]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-22.54.17:824][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-22.54.17:824][886]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-22.54.17:824][886]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-22.54.17:824][886]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-22.54.17:824][886]AssetCheck: /Game/Materials/RAW/UV1_Base Validating asset
+[2026.02.19-22.54.17:862][886]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.19-22.54.18:675][963]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.19-22.54.20:400][160]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-22.54.20:400][160]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-22.54.20:400][160]MaterialEditorStats: Shader Count: 0
+[2026.02.19-22.54.20:400][160]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-22.54.20:480][162]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.19-22.54.20:480][162]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-22.54.20:480][162]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-22.54.20:480][162]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.19-22.54.20:480][162]MaterialEditorStats: Shader Count: 5
+[2026.02.19-22.54.20:480][162]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-22.54.22:326][373]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-22.54.22:326][373]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-22.54.22:326][373]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-22.54.22:326][373]MaterialEditorStats: Shader Count: 0
+[2026.02.19-22.54.22:326][373]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-22.54.22:376][376]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.02.19-22.54.22:376][376]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-22.54.22:376][376]MaterialEditorStats: Texture samplers: 2/16
+[2026.02.19-22.54.22:376][376]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-22.54.22:376][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-22.54.22:376][376]MaterialEditorStats: Shader Count: 5
+[2026.02.19-22.54.22:376][376]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-22.54.24:390][610]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-22.54.24:390][610]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-22.54.24:390][610]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-22.54.24:390][610]MaterialEditorStats: Shader Count: 0
+[2026.02.19-22.54.24:390][610]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-22.54.24:414][613]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.02.19-22.54.24:414][613]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-22.54.24:414][613]MaterialEditorStats: Texture samplers: 2/16
+[2026.02.19-22.54.24:414][613]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-22.54.24:414][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-22.54.24:414][613]MaterialEditorStats: Shader Count: 5
+[2026.02.19-22.54.24:414][613]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-22.54.25:947][792]LogMaterialEditor: Applying material UV_6
+[2026.02.19-22.54.27:648][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.19-22.54.27:817][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.19-22.54.28:213][833]LogMaterialEditor: Saving and Compiling material UV_6
+[2026.02.19-22.54.28:215][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-22.54.28:242][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/UVs/UV_6] ([1] browsable assets)...
+[2026.02.19-22.54.28:287][833]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/UVs/UV_6.UV_6]
+[2026.02.19-22.54.28:287][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/UVs/UV_6]
+[2026.02.19-22.54.28:287][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/UVs/UV_6" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UVs/UV_6.uasset" SILENT=true
+[2026.02.19-22.54.28:299][833]LogSavePackage: Moving output files for package: /Game/Materials/UVs/UV_6
+[2026.02.19-22.54.28:299][833]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UV_6E5C36677455AEBC6CFD380947719B96D.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UVs/UV_6.uasset'
+[2026.02.19-22.54.28:311][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.467 ms (total: 1.96 sec)
+[2026.02.19-22.54.28:354][833]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-22.54.28:354][833]LogContentValidation: Enabled validators:
+[2026.02.19-22.54.28:354][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-22.54.28:354][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-22.54.28:354][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-22.54.28:354][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-22.54.28:354][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-22.54.28:354][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-22.54.28:355][833]AssetCheck: /Game/Materials/UVs/UV_6 Validating asset
+[2026.02.19-22.54.33:630][392]LogContentBrowser: Attempting asset rename: UV1_Base -> UV6_Base
+[2026.02.19-22.54.33:683][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-22.54.33:683][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/UVs/UV_6] ([1] browsable assets)...
+[2026.02.19-22.54.33:683][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/UVs/UV_6]
+[2026.02.19-22.54.33:683][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/UVs/UV_6" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UVs/UV_6.uasset" SILENT=true
+[2026.02.19-22.54.33:694][392]LogSavePackage: Moving output files for package: /Game/Materials/UVs/UV_6
+[2026.02.19-22.54.33:694][392]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UV_6A62210EE494B53962ABC599C195D970E.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UVs/UV_6.uasset'
+[2026.02.19-22.54.33:696][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/RAW/UV6_Base] ([1] browsable assets)...
+[2026.02.19-22.54.33:696][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/RAW/UV6_Base]
+[2026.02.19-22.54.33:696][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/RAW/UV6_Base" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/RAW/UV6_Base.uasset" SILENT=true
+[2026.02.19-22.54.33:711][392]LogSavePackage: Moving output files for package: /Game/Materials/RAW/UV6_Base
+[2026.02.19-22.54.33:711][392]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UV6_BaseC21F8503435A31D6C6F9F7BF0C07B8BE.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/RAW/UV6_Base.uasset'
+[2026.02.19-22.54.33:712][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.667 ms (total: 1.99 sec)
+[2026.02.19-22.54.33:753][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.19-22.54.33:777][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.19-22.54.33:799][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.19-22.54.33:843][392]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.19-22.54.33:843][392]LogContentValidation: Enabled validators:
+[2026.02.19-22.54.33:843][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-22.54.33:843][392]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-22.54.33:843][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-22.54.33:843][392]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-22.54.33:843][392]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-22.54.33:843][392]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-22.54.33:843][392]AssetCheck: /Game/Materials/UVs/UV_6 Validating asset
+[2026.02.19-22.54.33:843][392]AssetCheck: /Game/Materials/RAW/UV6_Base Validating asset
+[2026.02.19-22.54.33:884][392]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.19-22.54.36:831][687]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Background/Neighborhood/house1.house1
+[2026.02.19-22.54.36:848][687]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.02.19-22.54.38:712][794]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Background/Neighborhood/house2.house2
+[2026.02.19-22.54.38:717][794]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.02.19-22.54.40:566][906]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Background/Neighborhood/house3.house3
+[2026.02.19-22.54.40:571][906]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.02.19-22.54.46:664][471]LogMaterial: Display: Material /Game/Materials/UVs/UV_6.UV_6 needed to have new flag set bUsedWithNanite !
+[2026.02.19-22.54.46:664][471]LogMaterial: Display: Material /Engine/Transient.UV_6 needed to have new flag set bUsedWithNanite !
+[2026.02.19-22.54.46:763][471]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-22.54.46:763][471]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-22.54.46:763][471]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-22.54.46:763][471]MaterialEditorStats: Shader Count: 0
+[2026.02.19-22.54.46:763][471]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-22.54.46:814][472]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.02.19-22.54.46:814][472]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-22.54.46:814][472]MaterialEditorStats: Nanite Compute Shader: 835 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.02.19-22.54.46:814][472]MaterialEditorStats: Texture samplers: 2/16
+[2026.02.19-22.54.46:814][472]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-22.54.46:815][472]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-22.54.46:815][472]MaterialEditorStats: Shader Count: 19
+[2026.02.19-22.54.46:815][472]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-22.54.55:826][521]LogMaterialEditor: Saving and Compiling material UV_6
+[2026.02.19-22.54.55:828][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-22.54.55:855][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/UVs/UV_6] ([1] browsable assets)...
+[2026.02.19-22.54.55:856][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/UVs/UV_6]
+[2026.02.19-22.54.55:856][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/UVs/UV_6" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UVs/UV_6.uasset" SILENT=true
+[2026.02.19-22.54.55:868][521]LogSavePackage: Moving output files for package: /Game/Materials/UVs/UV_6
+[2026.02.19-22.54.55:868][521]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UV_699A2B7A84D1955C9EA3913875CE04C58.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UVs/UV_6.uasset'
+[2026.02.19-22.54.55:879][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.358 ms (total: 2.04 sec)
+[2026.02.19-22.54.55:902][521]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-22.54.55:902][521]LogContentValidation: Enabled validators:
+[2026.02.19-22.54.55:902][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-22.54.55:902][521]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-22.54.55:902][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-22.54.55:902][521]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-22.54.55:902][521]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-22.54.55:902][521]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-22.54.55:902][521]AssetCheck: /Game/Materials/UVs/UV_6 Validating asset
+[2026.02.19-22.55.35:778][831]LogStreaming: Display: FlushAsyncLoading(590): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-22.55.35:784][831]LogInterchangeEngine: [Pending] Importing
+[2026.02.19-22.55.35:784][831]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/cmcdonnell1/Downloads/2.png]
+[2026.02.19-22.55.36:474][833]LogStreaming: Display: FlushAsyncLoading(591): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.19-22.55.36:788][835]LogTexture: Display: Building textures: /Game/Models/Background/Neighborhood/2.2 (TFO_AutoDXT, 128x128 x1x1x1) (Required Memory Estimate: 2.864554 MB), EncodeSpeed: Fast
+[2026.02.19-22.55.37:136][835]LogInterchangeEngine: Display: Interchange import completed [C:/Users/cmcdonnell1/Downloads/2.png]
+[2026.02.19-22.55.37:144][835]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.19-22.55.37:144][835]LogInterchangeEngine: [Success] Import Done
+[2026.02.19-22.55.42:581][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.19-22.55.43:626][228]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.19-22.55.43:655][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.19-22.55.43:679][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.19-22.55.43:703][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.19-22.55.51:044][974]LogTexture: Display: Building textures: /Game/Materials/RAW/UV6_Base.UV6_Base (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.02.19-22.55.53:834][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.19-22.55.54:792][287]LogSlate: Window 'Save Content' being destroyed
+[2026.02.19-22.55.54:803][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-22.55.54:825][287]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/RAW/UV6_Base] ([1] browsable assets)...
+[2026.02.19-22.55.54:826][287]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/RAW/UV6_Base.UV6_Base]
+[2026.02.19-22.55.54:827][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/RAW/UV6_Base]
+[2026.02.19-22.55.54:827][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/RAW/UV6_Base" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/RAW/UV6_Base.uasset" SILENT=true
+[2026.02.19-22.55.54:843][287]LogSavePackage: Moving output files for package: /Game/Materials/RAW/UV6_Base
+[2026.02.19-22.55.54:844][287]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UV6_Base46BAFCA94D6FF2E7D7CF739874F0D317.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/RAW/UV6_Base.uasset'
+[2026.02.19-22.55.54:846][287]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Background/Neighborhood/house1] ([1] browsable assets)...
+[2026.02.19-22.55.54:889][287]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Background/Neighborhood/house1.house1]
+[2026.02.19-22.55.54:889][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Background/Neighborhood/house1]
+[2026.02.19-22.55.54:904][287]LogSavePackage: Moving output files for package: /Game/Models/Background/Neighborhood/house1
+[2026.02.19-22.55.54:904][287]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/house1B9504E4944DC9653D87754A42BA9D439.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Models/Background/Neighborhood/house1.uasset'
+[2026.02.19-22.55.54:905][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Background/Neighborhood/house2] ([1] browsable assets)...
+[2026.02.19-22.55.54:905][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Background/Neighborhood/house2]
+[2026.02.19-22.55.54:917][287]LogSavePackage: Moving output files for package: /Game/Models/Background/Neighborhood/house2
+[2026.02.19-22.55.54:917][287]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/house2C4BAA40C412A709F93CEF1B966D3EC03.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Models/Background/Neighborhood/house2.uasset'
+[2026.02.19-22.55.54:918][287]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Background/Neighborhood/house3] ([1] browsable assets)...
+[2026.02.19-22.55.54:918][287]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Background/Neighborhood/house3]
+[2026.02.19-22.55.54:927][287]LogSavePackage: Moving output files for package: /Game/Models/Background/Neighborhood/house3
+[2026.02.19-22.55.54:927][287]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/house38B86DDFC42231046DB9CCF9EEDC86798.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Models/Background/Neighborhood/house3.uasset'
+[2026.02.19-22.55.54:937][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.726 ms (total: 2.17 sec)
+[2026.02.19-22.55.54:963][287]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.19-22.55.54:963][287]LogContentValidation: Enabled validators:
+[2026.02.19-22.55.54:964][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-22.55.54:964][287]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-22.55.54:964][287]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-22.55.54:964][287]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-22.55.54:964][287]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-22.55.54:964][287]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-22.55.54:964][287]AssetCheck: /Game/Materials/RAW/UV6_Base Validating asset
+[2026.02.19-22.55.54:964][287]AssetCheck: /Game/Models/Background/Neighborhood/house1 Validating asset
+[2026.02.19-22.55.54:964][287]AssetCheck: /Game/Models/Background/Neighborhood/house2 Validating asset
+[2026.02.19-22.55.54:964][287]AssetCheck: /Game/Models/Background/Neighborhood/house3 Validating asset
+[2026.02.19-22.56.10:960][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-22.56.10:989][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Background/Neighborhood/house2] ([1] browsable assets)...
+[2026.02.19-22.56.11:025][882]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Background/Neighborhood/house2.house2]
+[2026.02.19-22.56.11:025][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Background/Neighborhood/house2]
+[2026.02.19-22.56.11:038][882]LogSavePackage: Moving output files for package: /Game/Models/Background/Neighborhood/house2
+[2026.02.19-22.56.11:038][882]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/house23B684C584FB302A53A2B21ABD94816B2.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Models/Background/Neighborhood/house2.uasset'
+[2026.02.19-22.56.11:051][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.746 ms (total: 2.26 sec)
+[2026.02.19-22.56.11:089][882]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-22.56.11:089][882]LogContentValidation: Enabled validators:
+[2026.02.19-22.56.11:089][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-22.56.11:089][882]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-22.56.11:089][882]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-22.56.11:089][882]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-22.56.11:089][882]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-22.56.11:089][882]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-22.56.11:089][882]AssetCheck: /Game/Models/Background/Neighborhood/house2 Validating asset
+[2026.02.19-22.56.18:321][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-22.56.18:346][686]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Background/Neighborhood/house3] ([1] browsable assets)...
+[2026.02.19-22.56.18:384][686]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Background/Neighborhood/house3.house3]
+[2026.02.19-22.56.18:385][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Background/Neighborhood/house3]
+[2026.02.19-22.56.18:401][686]LogSavePackage: Moving output files for package: /Game/Models/Background/Neighborhood/house3
+[2026.02.19-22.56.18:401][686]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/house373AD1C484BD0DD392EE0D794040D8AB7.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Models/Background/Neighborhood/house3.uasset'
+[2026.02.19-22.56.18:411][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.794 ms (total: 2.36 sec)
+[2026.02.19-22.56.18:448][686]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-22.56.18:448][686]LogContentValidation: Enabled validators:
+[2026.02.19-22.56.18:448][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-22.56.18:448][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-22.56.18:448][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-22.56.18:448][686]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-22.56.18:448][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-22.56.18:448][686]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-22.56.18:448][686]AssetCheck: /Game/Models/Background/Neighborhood/house3 Validating asset
+[2026.02.19-22.57.35:615][428]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.19-22.58.21:473][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10746.831055
+[2026.02.19-22.58.21:600][345]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-22.58.21:600][345]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10746.949219, Update Interval: 302.363953
+[2026.02.19-22.58.52:728][616]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-22.58.52:728][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-22.58.52:781][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.02.19-22.58.53:287][660]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-22.58.53:287][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-22.58.53:329][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.19-22.58.53:807][710]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-22.58.53:807][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-22.58.53:846][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.19-23.00.59:645][254]LogDerivedDataCache: C:/Users/cmcdonnell1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.19-23.02.22:190][742]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Background/Neighborhood/house3.house3
+[2026.02.19-23.02.22:195][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.02.19-23.03.10:514][235]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.02.19-23.03.10:514][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.19-23.03.10:577][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.02.19-23.04.06:742][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11092.097656
+[2026.02.19-23.04.07:742][461]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-23.04.07:743][461]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11092.763672, Update Interval: 343.803833
+[2026.02.19-23.05.12:260][777]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-23.05.12:260][777]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-23.05.12:260][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-23.05.12:260][777]MaterialEditorStats: Shader Count: 0
+[2026.02.19-23.05.12:260][777]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-23.05.12:283][780]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-23.05.12:283][780]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.19-23.05.12:283][780]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-23.05.12:283][780]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-23.05.12:283][780]MaterialEditorStats: Shader Count: 2
+[2026.02.19-23.05.12:283][780]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-23.05.13:344][907]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-23.05.13:344][907]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.19-23.05.13:344][907]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-23.05.13:344][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-23.05.13:344][907]MaterialEditorStats: Shader Count: 3
+[2026.02.19-23.05.13:344][907]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-23.05.13:442][918]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.02.19-23.05.13:442][918]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-23.05.13:442][918]MaterialEditorStats: Texture samplers: 2/16
+[2026.02.19-23.05.13:442][918]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-23.05.13:442][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-23.05.13:442][918]MaterialEditorStats: Shader Count: 4
+[2026.02.19-23.05.13:442][918]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-23.05.14:955][ 91]LogMaterialEditor: Applying material UV_6
+[2026.02.19-23.05.15:066][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.19-23.05.16:537][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.19-23.05.16:549][ 91]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.02.19-23.05.16:549][ 91]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.19-23.05.16:549][ 91]MaterialEditorStats: Nanite Compute Shader: 835 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.02.19-23.05.16:549][ 91]MaterialEditorStats: Texture samplers: 2/16
+[2026.02.19-23.05.16:549][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.19-23.05.16:549][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.19-23.05.16:549][ 91]MaterialEditorStats: Shader Count: 19
+[2026.02.19-23.05.16:549][ 91]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.02.19-23.05.17:073][150]LogMaterialEditor: Saving and Compiling material UV_6
+[2026.02.19-23.05.17:075][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-23.05.17:103][150]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/UVs/UV_6] ([1] browsable assets)...
+[2026.02.19-23.05.17:136][150]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/UVs/UV_6.UV_6]
+[2026.02.19-23.05.17:136][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/UVs/UV_6]
+[2026.02.19-23.05.17:136][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/UVs/UV_6" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UVs/UV_6.uasset" SILENT=true
+[2026.02.19-23.05.17:147][150]LogSavePackage: Moving output files for package: /Game/Materials/UVs/UV_6
+[2026.02.19-23.05.17:147][150]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UV_67A7737BD44308EBB0B6CFBB86C794977.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Materials/UVs/UV_6.uasset'
+[2026.02.19-23.05.17:159][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.597 ms (total: 2.44 sec)
+[2026.02.19-23.05.17:192][150]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-23.05.17:192][150]LogContentValidation: Enabled validators:
+[2026.02.19-23.05.17:192][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-23.05.17:192][150]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-23.05.17:192][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-23.05.17:192][150]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-23.05.17:192][150]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-23.05.17:192][150]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-23.05.17:192][150]AssetCheck: /Game/Materials/UVs/UV_6 Validating asset
+[2026.02.19-23.05.18:667][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house3.house3
+[2026.02.19-23.05.18:667][281]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house3.house3
+[2026.02.19-23.05.18:668][281]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Background/Neighborhood/house3.house3 as actor: StaticMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.StaticMeshActor_10
+[2026.02.19-23.05.19:886][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.19-23.05.19:890][374]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.02.19-23.05.20:456][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house3.house3
+[2026.02.19-23.05.20:456][438]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house3.house3
+[2026.02.19-23.05.20:456][438]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Background/Neighborhood/house3.house3 as actor: StaticMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.StaticMeshActor_11
+[2026.02.19-23.05.20:841][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.19-23.05.20:843][470]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.02.19-23.05.20:849][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house3.house3
+[2026.02.19-23.05.20:849][470]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house3.house3
+[2026.02.19-23.05.20:850][470]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Background/Neighborhood/house3.house3 as actor: StaticMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.StaticMeshActor_12
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: ================================================
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Total job queries 615, among them cache hits 166 (26.99%), DDC hits 382 (62.11%), Duplicates 56 (9.11%)
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Tracking 393 distinct input hashes that result in 283 distinct outputs (72.01%)
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: RAM used: 3.57 MiB of 1.60 GiB budget. Usage: 0.22%
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Shaders Compiled: 11
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Average time worker was idle: 1.68 s
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.09 s
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 1.43 s
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Job life time (pending + execution): average 1.03 s, max 1.46
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Shader code size: total 151.486 KiB, numShaders 11, average 13.771 KiB, min 5.039 KiB, max 20.152 KiB
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.82 s
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Average processing rate: 3.91 jobs/sec
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Total thread time: 6.652 s
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Total thread preprocess time: 6.626 s
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Percentage time preprocessing: 99.62%
+[2026.02.19-23.05.22:843][653]LogShaderCompilers: Display: Effective parallelization: 2.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.196885
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.65 sec, max 0.72 sec, min 0.58 sec)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.49% of total time (compiled    2 times, average 0.65 sec, max 0.72 sec, min 0.58 sec)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 17.83% of total time (compiled    2 times, average 0.59 sec, max 0.70 sec, min 0.48 sec)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 14.96% of total time (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 14.63% of total time (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display:                                                 FLumenCardCS - 11.29% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display: === Material stats ===
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display: Materials Translated:    172
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display: Material Translation Only: 0.03 s (12%)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display: Material Cache Hits: 8 (5%)
+[2026.02.19-23.05.22:844][653]LogShaderCompilers: Display: ================================================
+[2026.02.19-23.05.23:699][731]Cmd: DELETE
+[2026.02.19-23.05.23:699][731]Cmd: ACTOR DELETE
+[2026.02.19-23.05.23:701][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.19-23.05.23:729][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.19-23.05.23:733][731]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.02.19-23.05.24:630][797]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house2.house2
+[2026.02.19-23.05.24:630][797]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house2.house2
+[2026.02.19-23.05.24:631][797]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Background/Neighborhood/house2.house2 as actor: StaticMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.StaticMeshActor_13
+[2026.02.19-23.05.26:605][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.19-23.05.26:609][  9]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.02.19-23.05.26:615][  9]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house2.house2
+[2026.02.19-23.05.26:615][  9]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house2.house2
+[2026.02.19-23.05.26:616][  9]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Background/Neighborhood/house2.house2 as actor: StaticMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.StaticMeshActor_14
+[2026.02.19-23.05.35:048][746]Cmd: DELETE
+[2026.02.19-23.05.35:048][746]Cmd: ACTOR DELETE
+[2026.02.19-23.05.35:050][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.19-23.05.35:072][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.02.19-23.05.35:076][746]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.02.19-23.05.35:941][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house1.house1
+[2026.02.19-23.05.35:941][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house1.house1
+[2026.02.19-23.05.35:941][831]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Background/Neighborhood/house1.house1 as actor: StaticMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.StaticMeshActor_15
+[2026.02.19-23.05.36:864][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.19-23.05.36:868][923]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.02.19-23.05.36:873][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house1.house1
+[2026.02.19-23.05.36:873][923]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Background/Neighborhood/house1.house1
+[2026.02.19-23.05.36:874][923]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Background/Neighborhood/house1.house1 as actor: StaticMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.StaticMeshActor_16
+[2026.02.19-23.05.58:118][915]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.02.19-23.05.58:161][916]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.02.19-23.05.59:605][ 12]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/Characters/Strainer/Strainer_Skeleton.Strainer_Skeleton
+[2026.02.19-23.05.59:607][ 12]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/Characters/Strainer/Strainer_Skeleton.Strainer_Skeleton
+[2026.02.19-23.05.59:607][ 12]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Characters/Strainer/Strainer.Strainer as actor: SkeletalMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.SkeletalMeshActor_0
+[2026.02.19-23.05.59:608][ 12]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Characters/Strainer/Strainer.Strainer as actor: SkeletalMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.SkeletalMeshActor_0
+[2026.02.19-23.06.00:835][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.02.19-23.06.00:838][116]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.02.19-23.06.00:843][116]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/Characters/Strainer/Strainer_Skeleton.Strainer_Skeleton
+[2026.02.19-23.06.00:843][116]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Models/Characters/Strainer/Strainer_Skeleton.Strainer_Skeleton
+[2026.02.19-23.06.00:844][116]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Characters/Strainer/Strainer.Strainer as actor: SkeletalMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.SkeletalMeshActor_1
+[2026.02.19-23.06.00:845][116]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Models/Characters/Strainer/Strainer.Strainer as actor: SkeletalMeshActor /Game/Levels/Workshop.Workshop:PersistentLevel.SkeletalMeshActor_1
+[2026.02.19-23.06.13:156][209]Cmd: DELETE
+[2026.02.19-23.06.13:156][209]Cmd: ACTOR DELETE
+[2026.02.19-23.06.13:158][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.19-23.06.13:180][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.02.19-23.06.13:186][209]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.02.19-23.06.14:158][292]Cmd: DELETE
+[2026.02.19-23.06.14:158][292]Cmd: ACTOR DELETE
+[2026.02.19-23.06.14:160][292]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2026.02.19-23.06.14:185][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.02.19-23.06.14:189][292]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.02.19-23.06.15:877][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.19-23.06.15:954][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.02.19-23.06.15:975][482]LogSavePackage: Moving output files for package: /Game/Levels/Workshop
+[2026.02.19-23.06.15:975][482]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/WorkshopB9DA1FC84A61A77D8FB6B98D0EE86060.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Levels/Workshop.umap'
+[2026.02.19-23.06.15:986][482]LogFileHelpers: Saving map 'Workshop' took 0.077
+[2026.02.19-23.06.15:995][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.369 ms (total: 2.56 sec)
+[2026.02.19-23.06.16:029][482]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.19-23.06.16:029][482]LogContentValidation: Enabled validators:
+[2026.02.19-23.06.16:029][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.19-23.06.16:029][482]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.19-23.06.16:029][482]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.19-23.06.16:030][482]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.19-23.06.16:030][482]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.19-23.06.16:030][482]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.19-23.06.16:030][482]AssetCheck: /Game/Levels/Workshop Validating asset
+[2026.02.19-23.10.32:633][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11477.985352
+[2026.02.19-23.10.33:633][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-23.10.33:633][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11478.653320, Update Interval: 306.134216
+[2026.02.19-23.16.14:676][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11820.022461
+[2026.02.19-23.16.15:677][416]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-23.16.15:677][416]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11820.688477, Update Interval: 341.531433
+[2026.02.19-23.22.48:382][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12213.720703
+[2026.02.19-23.22.49:385][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-23.22.49:385][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12214.388672, Update Interval: 339.031952
+[2026.02.19-23.29.17:433][761]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12602.756836
+[2026.02.19-23.29.18:436][764]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.19-23.29.18:436][764]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12603.423828, Update Interval: 330.680267
