@@ -8458,3 +8458,1048 @@ Purging the undo buffer...
 [2026.02.24-03.29.59:120][450]LogPlayLevel: Display: Destroying online subsystem :Context_62
 [2026.02.24-03.30.05:459][181]LogSlate: Window 'Message Log' being destroyed
 [2026.02.24-03.30.05:466][181]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.34.46:094][646]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.24-03.34.46:831][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.02.24-03.34.47:595][792]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.24-03.34.47:602][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-03.34.47:602][792]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.34.47:605][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003533s)
+[2026.02.24-03.34.47:605][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.003577s)
+[2026.02.24-03.34.47:635][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.24-03.34.47:641][792]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.24-03.34.47:643][792]LogPlayLevel: PIE: World Init took: (0.001502s)
+[2026.02.24-03.34.47:643][792]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2026.02.24-03.34.47:643][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-03.34.47:643][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-03.34.47:643][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-03.34.47:643][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-03.34.47:643][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-03.34.47:643][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-03.34.47:643][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-03.34.47:643][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-03.34.47:643][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-03.34.47:643][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-03.34.47:643][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-03.34.47:645][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-03.34.47:669][792]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.24-03.34.47:669][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-03.34.47:669][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-03.34.47:669][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-03.34.47:670][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2026.02.24-03.34.47:670][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2026.02.24-03.34.47:671][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2026.02.24-03.34.47:671][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2026.02.24-03.34.47:671][792]LogInit: FAudioDevice initialized with ID 31.
+[2026.02.24-03.34.47:671][792]LogAudio: Display: Audio Device (ID: 31) registered with world 'Workshop'.
+[2026.02.24-03.34.47:671][792]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.02.24-03.34.47:697][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.34.47:697][792]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.24-03.34.47:700][792]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.23-19.34.47
+[2026.02.24-03.34.47:700][792]LogWorld: Bringing up level for play took: 0.001840
+[2026.02.24-03.34.47:702][792]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2026.02.24-03.34.47:703][792]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.24-03.34.47:704][792]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:704][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.34.47:704][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.34.47:704][792]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.34.47:705][792]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:705][792]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:707][792]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:708][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:710][792]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:710][792]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:710][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:712][792]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:712][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:712][792]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:714][792]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:714][792]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:715][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:716][792]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:716][792]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:717][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:718][792]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:719][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:719][792]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:721][792]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:722][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:723][792]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:723][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:724][792]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:724][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:726][792]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:726][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:726][792]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:728][792]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:729][792]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:729][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:731][792]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:732][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:733][792]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:733][792]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.34.47:735][792]PIE: Server logged in
+[2026.02.24-03.34.47:736][792]PIE: Play in editor total start time 0.135 seconds.
+[2026.02.24-03.34.47:741][792]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.24-03.34.47:802][793]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.24-03.35.02:387][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.35.02:387][344]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.35.02:387][344]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.24-03.35.02:398][344]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-03.35.02:401][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.35.02:402][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-03.35.02:410][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.35.02:446][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-03.35.02:447][344]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.02.24-03.35.02:447][344]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2026.02.24-03.35.02:449][344]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2026.02.24-03.35.02:457][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.24-03.35.02:527][345]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2026.02.24-03.35.03:576][443]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.35.03:582][443]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.35.57:198][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20495.800781
+[2026.02.24-03.35.57:321][852]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-03.35.57:321][852]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20495.914062, Update Interval: 333.765686
+[2026.02.24-03.36.09:207][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.24-03.36.10:089][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.36.10:120][286]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.36.10:131][286]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Skins.UI_Skins]
+[2026.02.24-03.36.10:131][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.36.10:131][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset" SILENT=true
+[2026.02.24-03.36.10:163][286]LogSavePackage: Moving output files for package: /Game/UI/UI_Skins
+[2026.02.24-03.36.10:164][286]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Skins39C8AA8D49F80A1AA335ABA63E1638F1.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset'
+[2026.02.24-03.36.10:176][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.510 ms (total: 8.60 sec)
+[2026.02.24-03.36.10:205][286]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.36.10:206][286]LogContentValidation: Enabled validators:
+[2026.02.24-03.36.10:206][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.36.10:206][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.36.10:206][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.36.10:206][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.36.10:206][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.36.10:206][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.36.10:210][286]AssetCheck: /Game/UI/UI_Skins Validating asset
+[2026.02.24-03.37.52:872][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.02.24-03.37.53:287][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.37.53:314][667]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.37.53:324][667]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Skins.UI_Skins]
+[2026.02.24-03.37.53:324][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.37.53:324][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset" SILENT=true
+[2026.02.24-03.37.53:358][667]LogSavePackage: Moving output files for package: /Game/UI/UI_Skins
+[2026.02.24-03.37.53:359][667]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_SkinsD27A37BF421EA6125CC9E9B729C87323.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset'
+[2026.02.24-03.37.53:370][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.275 ms (total: 8.68 sec)
+[2026.02.24-03.37.53:392][667]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.37.53:392][667]LogContentValidation: Enabled validators:
+[2026.02.24-03.37.53:392][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.37.53:392][667]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.37.53:392][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.37.53:392][667]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.37.53:392][667]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.37.53:392][667]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.37.53:395][667]AssetCheck: /Game/UI/UI_Skins Validating asset
+[2026.02.24-03.41.19:964][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.24-03.41.19:969][452]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Workshop' took 0.065
+[2026.02.24-03.41.19:969][452]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.41.19:980][452]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Skins.UI_Skins]
+[2026.02.24-03.41.19:980][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.41.19:980][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/UI/UI_Skins_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.02.24-03.41.20:014][452]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Skins_Auto8
+[2026.02.24-03.41.20:014][452]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Skins_Auto8652F2C9D41644F2A126EEDB80DC8E4ED.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/UI/UI_Skins_Auto8.uasset'
+[2026.02.24-03.41.20:015][452]LogFileHelpers: Auto-saving content packages took 0.047
+[2026.02.24-03.42.13:771][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20865.164062
+[2026.02.24-03.42.13:896][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-03.42.13:896][886]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20865.281250, Update Interval: 305.268097
+[2026.02.24-03.42.48:698][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.02.24-03.42.49:075][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.42.49:102][987]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.42.49:114][987]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Skins.UI_Skins]
+[2026.02.24-03.42.49:114][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.42.49:114][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset" SILENT=true
+[2026.02.24-03.42.49:148][987]LogSavePackage: Moving output files for package: /Game/UI/UI_Skins
+[2026.02.24-03.42.49:148][987]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_SkinsB3FAD3134776C617D308D98ED9261495.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset'
+[2026.02.24-03.42.49:159][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.455 ms (total: 8.76 sec)
+[2026.02.24-03.42.49:192][987]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.42.49:192][987]LogContentValidation: Enabled validators:
+[2026.02.24-03.42.49:192][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.42.49:192][987]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.42.49:192][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.42.49:192][987]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.42.49:192][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.42.49:192][987]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.42.49:196][987]AssetCheck: /Game/UI/UI_Skins Validating asset
+[2026.02.24-03.43.02:769][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.43.02:799][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.43.02:799][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.43.02:799][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset" SILENT=true
+[2026.02.24-03.43.02:834][605]LogSavePackage: Moving output files for package: /Game/UI/UI_Skins
+[2026.02.24-03.43.02:834][605]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_SkinsEAC05AC44EE83B680DDADC83D947C5E2.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset'
+[2026.02.24-03.43.02:845][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.020 ms (total: 8.84 sec)
+[2026.02.24-03.43.02:873][605]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.43.02:873][605]LogContentValidation: Enabled validators:
+[2026.02.24-03.43.02:873][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.43.02:873][605]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.43.02:873][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.43.02:873][605]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.43.02:873][605]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.43.02:873][605]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.43.02:876][605]AssetCheck: /Game/UI/UI_Skins Validating asset
+[2026.02.24-03.43.05:139][872]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.24-03.43.05:147][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-03.43.05:147][872]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.43.05:151][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003103s)
+[2026.02.24-03.43.05:151][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.003140s)
+[2026.02.24-03.43.05:183][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.24-03.43.05:190][872]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.24-03.43.05:192][872]LogPlayLevel: PIE: World Init took: (0.001652s)
+[2026.02.24-03.43.05:192][872]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2026.02.24-03.43.05:193][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-03.43.05:193][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-03.43.05:193][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-03.43.05:193][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-03.43.05:193][872]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-03.43.05:193][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-03.43.05:193][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-03.43.05:193][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-03.43.05:193][872]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-03.43.05:193][872]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-03.43.05:193][872]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-03.43.05:195][872]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-03.43.05:219][872]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.24-03.43.05:220][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-03.43.05:220][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-03.43.05:220][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-03.43.05:220][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2026.02.24-03.43.05:220][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2026.02.24-03.43.05:222][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2026.02.24-03.43.05:222][872]LogInit: FAudioDevice initialized with ID 32.
+[2026.02.24-03.43.05:222][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2026.02.24-03.43.05:222][872]LogAudio: Display: Audio Device (ID: 32) registered with world 'Workshop'.
+[2026.02.24-03.43.05:222][872]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2026.02.24-03.43.05:249][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.43.05:249][872]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.24-03.43.05:252][872]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.23-19.43.05
+[2026.02.24-03.43.05:252][872]LogWorld: Bringing up level for play took: 0.001485
+[2026.02.24-03.43.05:255][872]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2026.02.24-03.43.05:257][872]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.24-03.43.05:258][872]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:258][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.43.05:258][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.43.05:258][872]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.43.05:259][872]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:259][872]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:262][872]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:262][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:263][872]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:265][872]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:266][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:266][872]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:268][872]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:268][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:270][872]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:270][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:271][872]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:272][872]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:272][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:274][872]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:274][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:277][872]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:277][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:279][872]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:280][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:281][872]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:281][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:282][872]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:283][872]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:284][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:284][872]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:286][872]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:286][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:287][872]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:287][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:288][872]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:290][872]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:290][872]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.05:293][872]PIE: Server logged in
+[2026.02.24-03.43.05:295][872]PIE: Play in editor total start time 0.148 seconds.
+[2026.02.24-03.43.05:301][872]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.24-03.43.05:362][873]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.24-03.43.10:107][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.43.10:107][323]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.43.10:107][323]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.24-03.43.10:114][323]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-03.43.10:118][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.43.10:119][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-03.43.10:126][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.43.10:167][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-03.43.10:168][323]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2026.02.24-03.43.10:168][323]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2026.02.24-03.43.10:170][323]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2026.02.24-03.43.10:178][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.24-03.43.10:262][324]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2026.02.24-03.43.11:590][446]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.43.11:599][446]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.43.18:406][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.02.24-03.43.18:629][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.43.18:657][220]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.43.18:669][220]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Skins.UI_Skins]
+[2026.02.24-03.43.18:669][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.43.18:669][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset" SILENT=true
+[2026.02.24-03.43.18:703][220]LogSavePackage: Moving output files for package: /Game/UI/UI_Skins
+[2026.02.24-03.43.18:703][220]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Skins49A2E6A942F003584A786D91A5CB147C.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset'
+[2026.02.24-03.43.18:717][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.347 ms (total: 8.93 sec)
+[2026.02.24-03.43.18:751][220]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.43.18:751][220]LogContentValidation: Enabled validators:
+[2026.02.24-03.43.18:751][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.43.18:751][220]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.43.18:751][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.43.18:751][220]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.43.18:751][220]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.43.18:751][220]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.43.18:755][220]AssetCheck: /Game/UI/UI_Skins Validating asset
+[2026.02.24-03.43.19:654][320]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.24-03.43.19:661][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-03.43.19:661][320]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.43.19:664][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002696s)
+[2026.02.24-03.43.19:664][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.002734s)
+[2026.02.24-03.43.19:694][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.24-03.43.19:702][320]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.24-03.43.19:703][320]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2026.02.24-03.43.19:704][320]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2026.02.24-03.43.19:704][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-03.43.19:704][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-03.43.19:704][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-03.43.19:704][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-03.43.19:704][320]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-03.43.19:704][320]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-03.43.19:704][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-03.43.19:704][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-03.43.19:704][320]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-03.43.19:704][320]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-03.43.19:704][320]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-03.43.19:705][320]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-03.43.19:730][320]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.24-03.43.19:730][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-03.43.19:730][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-03.43.19:730][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-03.43.19:730][320]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2026.02.24-03.43.19:730][320]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2026.02.24-03.43.19:733][320]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2026.02.24-03.43.19:733][320]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2026.02.24-03.43.19:733][320]LogInit: FAudioDevice initialized with ID 33.
+[2026.02.24-03.43.19:733][320]LogAudio: Display: Audio Device (ID: 33) registered with world 'Workshop'.
+[2026.02.24-03.43.19:733][320]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2026.02.24-03.43.19:754][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.43.19:754][320]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.24-03.43.19:756][320]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.23-19.43.19
+[2026.02.24-03.43.19:757][320]LogWorld: Bringing up level for play took: 0.001339
+[2026.02.24-03.43.19:759][320]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.02.24-03.43.19:761][320]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.24-03.43.19:761][320]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:762][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.43.19:762][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.43.19:762][320]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.43.19:762][320]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:762][320]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:765][320]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:765][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:766][320]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:768][320]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:768][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:768][320]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:770][320]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:770][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:772][320]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:773][320]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:773][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:775][320]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:775][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:777][320]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:778][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:779][320]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:780][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:780][320]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:782][320]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:783][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:785][320]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:785][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:788][320]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:788][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:790][320]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:790][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:792][320]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:792][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:794][320]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:794][320]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.43.19:797][320]PIE: Server logged in
+[2026.02.24-03.43.19:800][320]PIE: Play in editor total start time 0.139 seconds.
+[2026.02.24-03.43.19:808][320]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.24-03.43.19:867][321]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.24-03.43.30:607][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.43.30:607][242]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.43.30:607][242]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.24-03.43.30:612][242]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-03.43.30:616][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.43.30:618][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-03.43.30:625][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.43.30:662][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-03.43.30:663][242]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2026.02.24-03.43.30:663][242]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=4
+[2026.02.24-03.43.30:664][242]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=2
+[2026.02.24-03.43.30:673][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.02.24-03.43.30:754][243]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.02.24-03.43.31:831][335]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.43.31:838][335]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.44.03:595][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.02.24-03.44.03:982][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.44.04:008][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.44.04:015][559]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Skins.UI_Skins]
+[2026.02.24-03.44.04:015][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.44.04:015][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset" SILENT=true
+[2026.02.24-03.44.04:051][559]LogSavePackage: Moving output files for package: /Game/UI/UI_Skins
+[2026.02.24-03.44.04:052][559]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Skins29465339407AB2487EFC92BC5B60CC2F.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset'
+[2026.02.24-03.44.04:065][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.998 ms (total: 9.01 sec)
+[2026.02.24-03.44.04:097][559]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.44.04:098][559]LogContentValidation: Enabled validators:
+[2026.02.24-03.44.04:098][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.44.04:098][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.44.04:098][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.44.04:098][559]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.44.04:098][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.44.04:098][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.44.04:102][559]AssetCheck: /Game/UI/UI_Skins Validating asset
+[2026.02.24-03.44.33:120][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.24-03.44.33:816][759]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.24-03.44.33:824][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-03.44.33:824][759]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.44.33:827][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003123s)
+[2026.02.24-03.44.33:827][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.003155s)
+[2026.02.24-03.44.33:855][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.24-03.44.33:862][759]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.24-03.44.33:864][759]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2026.02.24-03.44.33:864][759]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.02.24-03.44.33:864][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-03.44.33:864][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-03.44.33:864][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-03.44.33:864][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-03.44.33:864][759]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-03.44.33:864][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-03.44.33:864][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-03.44.33:864][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-03.44.33:864][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-03.44.33:864][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-03.44.33:864][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-03.44.33:866][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-03.44.33:890][759]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.24-03.44.33:890][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-03.44.33:890][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-03.44.33:890][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-03.44.33:891][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.02.24-03.44.33:891][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.02.24-03.44.33:892][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.02.24-03.44.33:892][759]LogInit: FAudioDevice initialized with ID 34.
+[2026.02.24-03.44.33:892][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.02.24-03.44.33:892][759]LogAudio: Display: Audio Device (ID: 34) registered with world 'Workshop'.
+[2026.02.24-03.44.33:892][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.02.24-03.44.33:918][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.44.33:918][759]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.24-03.44.33:919][759]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.23-19.44.33
+[2026.02.24-03.44.33:919][759]LogWorld: Bringing up level for play took: 0.001322
+[2026.02.24-03.44.33:921][759]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2026.02.24-03.44.33:923][759]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.24-03.44.33:924][759]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:924][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.44.33:924][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.44.33:924][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.44.33:925][759]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:925][759]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:928][759]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:929][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:932][759]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:932][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:933][759]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:934][759]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:934][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:935][759]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:936][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:937][759]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:937][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:938][759]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:939][759]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:940][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:940][759]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:942][759]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:942][759]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:942][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:944][759]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:944][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:944][759]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:945][759]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:947][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:947][759]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:949][759]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:950][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:951][759]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:951][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:953][759]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:953][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:954][759]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:956][759]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:956][759]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.33:959][759]PIE: Server logged in
+[2026.02.24-03.44.33:960][759]PIE: Play in editor total start time 0.137 seconds.
+[2026.02.24-03.44.33:966][759]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.24-03.44.34:027][760]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.24-03.44.39:267][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.44.39:267][247]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.44.39:267][247]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.24-03.44.39:273][247]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-03.44.39:278][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.44.39:279][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-03.44.39:286][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.44.39:329][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-03.44.39:330][247]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.02.24-03.44.39:330][247]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.02.24-03.44.39:332][247]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.02.24-03.44.39:341][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.02.24-03.44.39:425][248]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2026.02.24-03.44.40:595][359]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.44.40:600][359]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.44.46:545][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.24-03.44.47:333][101]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.24-03.44.47:342][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-03.44.47:342][101]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.44.47:345][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002856s)
+[2026.02.24-03.44.47:345][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.002888s)
+[2026.02.24-03.44.47:375][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.02.24-03.44.47:382][101]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.24-03.44.47:384][101]LogPlayLevel: PIE: World Init took: (0.001658s)
+[2026.02.24-03.44.47:384][101]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2026.02.24-03.44.47:384][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-03.44.47:384][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-03.44.47:384][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-03.44.47:384][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-03.44.47:384][101]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-03.44.47:384][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-03.44.47:384][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-03.44.47:384][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-03.44.47:384][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-03.44.47:384][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-03.44.47:384][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-03.44.47:386][101]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-03.44.47:409][101]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.24-03.44.47:410][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-03.44.47:410][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-03.44.47:410][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-03.44.47:410][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2026.02.24-03.44.47:410][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2026.02.24-03.44.47:413][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2026.02.24-03.44.47:413][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2026.02.24-03.44.47:413][101]LogInit: FAudioDevice initialized with ID 35.
+[2026.02.24-03.44.47:413][101]LogAudio: Display: Audio Device (ID: 35) registered with world 'Workshop'.
+[2026.02.24-03.44.47:413][101]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2026.02.24-03.44.47:434][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.44.47:434][101]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.24-03.44.47:435][101]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.23-19.44.47
+[2026.02.24-03.44.47:435][101]LogWorld: Bringing up level for play took: 0.001847
+[2026.02.24-03.44.47:438][101]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2026.02.24-03.44.47:439][101]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.24-03.44.47:440][101]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:440][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.44.47:440][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.44.47:440][101]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.44.47:441][101]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:441][101]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:444][101]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:444][101]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:445][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:448][101]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:448][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:449][101]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:450][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:450][101]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:453][101]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:453][101]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:453][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:454][101]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:455][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:456][101]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:457][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:457][101]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:460][101]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:460][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:462][101]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:463][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:464][101]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:464][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:467][101]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:467][101]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:467][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:469][101]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:469][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:471][101]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:471][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:471][101]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:474][101]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:474][101]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.44.47:478][101]PIE: Server logged in
+[2026.02.24-03.44.47:478][101]PIE: Play in editor total start time 0.137 seconds.
+[2026.02.24-03.44.47:487][101]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.24-03.44.47:548][102]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.24-03.44.48:987][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.44.48:987][225]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.44.48:987][225]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.24-03.44.48:995][225]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-03.44.49:000][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.44.49:001][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-03.44.49:009][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.44.49:047][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-03.44.49:048][225]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2026.02.24-03.44.49:048][225]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2026.02.24-03.44.49:050][225]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2026.02.24-03.44.49:058][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.02.24-03.44.49:142][226]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2026.02.24-03.44.50:261][333]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.44.50:267][333]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.45.07:845][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.24-03.45.08:317][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.45.08:345][279]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.45.08:356][279]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Skins.UI_Skins]
+[2026.02.24-03.45.08:356][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.45.08:356][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset" SILENT=true
+[2026.02.24-03.45.08:392][279]LogSavePackage: Moving output files for package: /Game/UI/UI_Skins
+[2026.02.24-03.45.08:392][279]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Skins1B9C21E141E521A9BB230CA3128B8D9D.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset'
+[2026.02.24-03.45.08:405][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.180 ms (total: 9.10 sec)
+[2026.02.24-03.45.08:435][279]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.45.08:435][279]LogContentValidation: Enabled validators:
+[2026.02.24-03.45.08:435][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.45.08:435][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.45.08:435][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.45.08:435][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.45.08:435][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.45.08:435][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.45.08:439][279]AssetCheck: /Game/UI/UI_Skins Validating asset
+[2026.02.24-03.45.15:482][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.45.15:504][ 30]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Function/UIF_Purchase] ([2] browsable assets)...
+[2026.02.24-03.45.15:506][ 30]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Function/UIF_Purchase.UIF_Purchase]
+[2026.02.24-03.45.15:506][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Function/UIF_Purchase]
+[2026.02.24-03.45.15:506][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Function/UIF_Purchase" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/Function/UIF_Purchase.uasset" SILENT=true
+[2026.02.24-03.45.15:530][ 30]LogSavePackage: Moving output files for package: /Game/UI/Function/UIF_Purchase
+[2026.02.24-03.45.15:531][ 30]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UIF_Purchase049532A740E4060EC3F8D4920F6F4661.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/Function/UIF_Purchase.uasset'
+[2026.02.24-03.45.15:542][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.730 ms (total: 9.16 sec)
+[2026.02.24-03.45.15:568][ 30]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.45.15:568][ 30]LogContentValidation: Enabled validators:
+[2026.02.24-03.45.15:568][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.45.15:568][ 30]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.45.15:568][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.45.15:568][ 30]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.45.15:568][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.45.15:568][ 30]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.45.15:569][ 30]AssetCheck: /Game/UI/Function/UIF_Purchase Validating asset
+[2026.02.24-03.45.37:933][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.24-03.45.38:533][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.45.38:564][622]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.45.38:576][622]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Skins.UI_Skins]
+[2026.02.24-03.45.38:576][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.45.38:576][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset" SILENT=true
+[2026.02.24-03.45.38:613][622]LogSavePackage: Moving output files for package: /Game/UI/UI_Skins
+[2026.02.24-03.45.38:613][622]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Skins99090F2944075C33970C7F962682C749.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset'
+[2026.02.24-03.45.38:623][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.761 ms (total: 9.25 sec)
+[2026.02.24-03.45.38:647][622]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.45.38:647][622]LogContentValidation: Enabled validators:
+[2026.02.24-03.45.38:647][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.45.38:647][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.45.38:647][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.45.38:647][622]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.45.38:647][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.45.38:647][622]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.45.38:651][622]AssetCheck: /Game/UI/UI_Skins Validating asset
+[2026.02.24-03.45.39:562][728]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.24-03.45.39:569][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-03.45.39:569][728]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.45.39:572][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002805s)
+[2026.02.24-03.45.39:572][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.002839s)
+[2026.02.24-03.45.39:603][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.24-03.45.39:609][728]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.24-03.45.39:610][728]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2026.02.24-03.45.39:611][728]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2026.02.24-03.45.39:611][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-03.45.39:611][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-03.45.39:611][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-03.45.39:611][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-03.45.39:611][728]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-03.45.39:611][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-03.45.39:611][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-03.45.39:611][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-03.45.39:611][728]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-03.45.39:611][728]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-03.45.39:611][728]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-03.45.39:613][728]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-03.45.39:636][728]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.24-03.45.39:637][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-03.45.39:637][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-03.45.39:637][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-03.45.39:637][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2026.02.24-03.45.39:637][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2026.02.24-03.45.39:639][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2026.02.24-03.45.39:639][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2026.02.24-03.45.39:639][728]LogInit: FAudioDevice initialized with ID 36.
+[2026.02.24-03.45.39:639][728]LogAudio: Display: Audio Device (ID: 36) registered with world 'Workshop'.
+[2026.02.24-03.45.39:639][728]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2026.02.24-03.45.39:664][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.45.39:664][728]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.24-03.45.39:665][728]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.23-19.45.39
+[2026.02.24-03.45.39:665][728]LogWorld: Bringing up level for play took: 0.001354
+[2026.02.24-03.45.39:667][728]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2026.02.24-03.45.39:668][728]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.24-03.45.39:669][728]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:670][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.45.39:670][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.45.39:670][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.45.39:670][728]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:670][728]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:673][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:674][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:675][728]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:677][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:677][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:679][728]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:679][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:679][728]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:681][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:681][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:682][728]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:683][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:683][728]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:685][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:685][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:687][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:687][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:689][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:689][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:692][728]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:692][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:693][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:694][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:694][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:695][728]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:695][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:696][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:697][728]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:697][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:698][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:700][728]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:701][728]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.45.39:704][728]PIE: Server logged in
+[2026.02.24-03.45.39:705][728]PIE: Play in editor total start time 0.136 seconds.
+[2026.02.24-03.45.39:710][728]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.24-03.45.39:768][729]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.24-03.45.47:987][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.45.47:987][514]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.45.47:987][514]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.24-03.45.47:994][514]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-03.45.47:999][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.45.48:001][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-03.45.48:008][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.45.48:049][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-03.45.48:051][514]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2026.02.24-03.45.48:051][514]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2026.02.24-03.45.48:053][514]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2026.02.24-03.45.48:062][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.24-03.45.48:144][515]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2026.02.24-03.45.50:413][741]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.45.50:420][741]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.45.58:617][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.45.58:651][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_GameInstance] ([2] browsable assets)...
+[2026.02.24-03.45.58:651][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_GameInstance]
+[2026.02.24-03.45.58:651][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GameInstance" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_GameInstance.uasset" SILENT=true
+[2026.02.24-03.45.58:669][677]LogSavePackage: Moving output files for package: /Game/BP_GameInstance
+[2026.02.24-03.45.58:669][677]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_GameInstance4F352C3E4A9B2BF7CB3C66AAF767B4FD.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_GameInstance.uasset'
+[2026.02.24-03.45.58:680][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.807 ms (total: 9.31 sec)
+[2026.02.24-03.45.58:704][677]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.45.58:704][677]LogContentValidation: Enabled validators:
+[2026.02.24-03.45.58:704][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.45.58:704][677]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.45.58:704][677]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.45.58:704][677]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.45.58:704][677]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.45.58:704][677]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.45.58:704][677]AssetCheck: /Game/BP_GameInstance Validating asset
+[2026.02.24-03.46.38:114][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.24-03.46.39:250][323]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.24-03.46.39:258][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-03.46.39:259][323]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.46.39:262][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003370s)
+[2026.02.24-03.46.39:262][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.003411s)
+[2026.02.24-03.46.39:294][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.24-03.46.39:299][323]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.24-03.46.39:301][323]LogPlayLevel: PIE: World Init took: (0.001656s)
+[2026.02.24-03.46.39:301][323]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2026.02.24-03.46.39:301][323]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-03.46.39:301][323]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-03.46.39:301][323]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-03.46.39:301][323]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-03.46.39:301][323]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-03.46.39:301][323]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-03.46.39:301][323]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-03.46.39:301][323]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-03.46.39:301][323]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-03.46.39:301][323]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-03.46.39:301][323]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-03.46.39:305][323]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-03.46.39:329][323]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.24-03.46.39:330][323]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-03.46.39:330][323]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-03.46.39:330][323]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-03.46.39:330][323]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2026.02.24-03.46.39:330][323]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2026.02.24-03.46.39:332][323]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2026.02.24-03.46.39:332][323]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2026.02.24-03.46.39:332][323]LogInit: FAudioDevice initialized with ID 37.
+[2026.02.24-03.46.39:332][323]LogAudio: Display: Audio Device (ID: 37) registered with world 'Workshop'.
+[2026.02.24-03.46.39:332][323]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2026.02.24-03.46.39:360][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.46.39:361][323]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.24-03.46.39:362][323]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.23-19.46.39
+[2026.02.24-03.46.39:362][323]LogWorld: Bringing up level for play took: 0.001500
+[2026.02.24-03.46.39:364][323]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2026.02.24-03.46.39:365][323]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.24-03.46.39:366][323]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:367][323]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.46.39:367][323]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.46.39:367][323]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.46.39:367][323]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:367][323]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:371][323]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:371][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:373][323]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:373][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:374][323]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:374][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:376][323]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:376][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:378][323]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:378][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:380][323]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:380][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:382][323]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:382][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:384][323]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:384][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:386][323]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:386][323]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:386][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:388][323]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:388][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:389][323]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:390][323]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:391][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:391][323]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:392][323]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:393][323]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:393][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:394][323]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:394][323]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:395][323]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.46.39:399][323]PIE: Server logged in
+[2026.02.24-03.46.39:400][323]PIE: Play in editor total start time 0.141 seconds.
+[2026.02.24-03.46.39:405][323]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.24-03.46.39:465][324]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.24-03.46.44:647][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.46.44:647][828]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.46.44:648][828]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.24-03.46.44:652][828]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-03.46.44:657][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.46.44:658][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-03.46.44:665][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.46.44:702][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-03.46.44:704][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2026.02.24-03.46.44:704][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2026.02.24-03.46.44:706][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2026.02.24-03.46.44:714][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.02.24-03.46.44:798][829]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2026.02.24-03.46.45:652][903]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.46.45:658][903]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.46.54:011][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.24-03.46.54:806][946]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.24-03.46.54:814][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-03.46.54:814][946]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.46.54:817][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003054s)
+[2026.02.24-03.46.54:817][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.003086s)
+[2026.02.24-03.46.54:849][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.24-03.46.54:854][946]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.24-03.46.54:855][946]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2026.02.24-03.46.54:856][946]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2026.02.24-03.46.54:856][946]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-03.46.54:856][946]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-03.46.54:856][946]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-03.46.54:856][946]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-03.46.54:856][946]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-03.46.54:856][946]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-03.46.54:856][946]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-03.46.54:856][946]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-03.46.54:856][946]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-03.46.54:856][946]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-03.46.54:856][946]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-03.46.54:858][946]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-03.46.54:883][946]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.24-03.46.54:883][946]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-03.46.54:883][946]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-03.46.54:883][946]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-03.46.54:884][946]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2026.02.24-03.46.54:884][946]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2026.02.24-03.46.54:886][946]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2026.02.24-03.46.54:886][946]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2026.02.24-03.46.54:886][946]LogInit: FAudioDevice initialized with ID 38.
+[2026.02.24-03.46.54:886][946]LogAudio: Display: Audio Device (ID: 38) registered with world 'Workshop'.
+[2026.02.24-03.46.54:886][946]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2026.02.24-03.46.54:912][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.46.54:912][946]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.24-03.46.54:913][946]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.23-19.46.54
+[2026.02.24-03.46.54:914][946]LogWorld: Bringing up level for play took: 0.001332
+[2026.02.24-03.46.54:916][946]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2026.02.24-03.46.54:918][946]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.24-03.46.54:918][946]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:919][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.46.54:919][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.46.54:919][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.24-03.46.54:919][946]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:920][946]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:922][946]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:922][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:925][946]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:925][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:928][946]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:928][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:928][946]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:930][946]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:931][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:931][946]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:933][946]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:934][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:935][946]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:936][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:936][946]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:938][946]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:938][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:939][946]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:940][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:942][946]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:942][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:944][946]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:944][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:947][946]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:947][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:949][946]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:950][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:951][946]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:951][946]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:952][946]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.24-03.46.54:956][946]PIE: Server logged in
+[2026.02.24-03.46.54:957][946]PIE: Play in editor total start time 0.144 seconds.
+[2026.02.24-03.46.54:963][946]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.24-03.46.55:026][947]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.24-03.47.04:528][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-03.47.04:528][801]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.24-03.47.04:528][801]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.24-03.47.04:534][801]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-03.47.04:540][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.47.04:541][801]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-03.47.04:549][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-03.47.04:592][801]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-03.47.04:594][801]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2026.02.24-03.47.04:594][801]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2026.02.24-03.47.04:596][801]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2026.02.24-03.47.04:604][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.02.24-03.47.04:687][802]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2026.02.24-03.47.09:199][311]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.47.09:204][311]LogSlate: Window 'Message Log' being destroyed
+[2026.02.24-03.48.16:169][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21223.634766
+[2026.02.24-03.48.16:310][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-03.48.16:310][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21223.767578, Update Interval: 318.503357
+[2026.02.24-03.48.21:069][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.02.24-03.48.21:886][913]LogSlate: Window 'Save Content' being destroyed
+[2026.02.24-03.48.21:898][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.48.21:922][913]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.48.21:934][913]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Skins.UI_Skins]
+[2026.02.24-03.48.21:934][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.48.21:934][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset" SILENT=true
+[2026.02.24-03.48.21:970][913]LogSavePackage: Moving output files for package: /Game/UI/UI_Skins
+[2026.02.24-03.48.21:970][913]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Skins9226B7614400144788EE1B8363141579.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset'
+[2026.02.24-03.48.21:983][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.127 ms (total: 9.40 sec)
+[2026.02.24-03.48.22:014][913]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.48.22:014][913]LogContentValidation: Enabled validators:
+[2026.02.24-03.48.22:014][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.48.22:014][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.48.22:014][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.48.22:014][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.48.22:014][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.48.22:014][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.48.22:018][913]AssetCheck: /Game/UI/UI_Skins Validating asset
+[2026.02.24-03.48.22:808][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-03.48.22:841][  3]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Skins] ([2] browsable assets)...
+[2026.02.24-03.48.22:841][  3]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Skins]
+[2026.02.24-03.48.22:841][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Skins" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset" SILENT=true
+[2026.02.24-03.48.22:875][  3]LogSavePackage: Moving output files for package: /Game/UI/UI_Skins
+[2026.02.24-03.48.22:875][  3]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_SkinsDD8B7CD44E6995E12DFDEC98490EB308.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Skins.uasset'
+[2026.02.24-03.48.22:886][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.086 ms (total: 9.48 sec)
+[2026.02.24-03.48.22:918][  3]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-03.48.22:918][  3]LogContentValidation: Enabled validators:
+[2026.02.24-03.48.22:918][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-03.48.22:918][  3]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-03.48.22:918][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-03.48.22:918][  3]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-03.48.22:918][  3]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-03.48.22:918][  3]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-03.48.22:922][  3]AssetCheck: /Game/UI/UI_Skins Validating asset
+[2026.02.24-03.54.06:428][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21573.824219
+[2026.02.24-03.54.07:429][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-03.54.07:429][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21574.490234, Update Interval: 331.469452
+[2026.02.24-03.55.14:007][481]LogDerivedDataCache: C:/Users/cmcdonnell1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.24-03.55.31:552][534]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=ASUS VG34V (NVIDIA High Definition Audio), InstanceID=1
+[2026.02.24-03.55.31:552][534]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{0b806778-3ade-4e84-b217-be7d5edd2d79}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.24-03.55.31:580][534]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2026.02.24-03.55.31:765][534]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{0b806778-3ade-4e84-b217-be7d5edd2d79}]
+[2026.02.24-03.55.31:765][534]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.24-03.55.31:765][534]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.24-03.55.32:100][535]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0b806778-3ade-4e84-b217-be7d5edd2d79}, Name=ASUS VG34V (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=11.44
+[2026.02.24-03.55.32:100][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.24-03.55.32:100][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.24-03.55.32:101][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.24-04.00.12:136][375]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21939.574219
+[2026.02.24-04.00.13:137][378]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-04.00.13:137][378]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21940.244141, Update Interval: 337.462708
+[2026.02.24-04.06.31:194][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22318.634766
+[2026.02.24-04.06.32:194][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-04.06.32:194][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22319.302734, Update Interval: 349.819031
+[2026.02.24-04.12.57:924][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22705.330078
+[2026.02.24-04.12.58:924][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-04.12.58:924][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22705.998047, Update Interval: 338.142029
+[2026.02.24-04.19.24:987][833]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23092.427734
+[2026.02.24-04.19.25:987][836]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-04.19.25:987][836]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23093.093750, Update Interval: 310.539886
+[2026.02.24-04.25.07:702][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23435.181641
+[2026.02.24-04.25.08:701][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-04.25.08:701][864]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23435.845703, Update Interval: 309.706726
+[2026.02.24-04.31.04:422][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23791.908203
+[2026.02.24-04.31.05:422][934]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-04.31.05:422][934]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23792.576172, Update Interval: 342.589813
+[2026.02.24-04.37.31:470][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24179.011719
+[2026.02.24-04.37.32:470][ 95]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-04.37.32:470][ 95]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24179.677734, Update Interval: 330.934784
+[2026.02.24-04.43.42:851][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24550.412109
+[2026.02.24-04.43.43:853][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-04.43.43:853][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24551.078125, Update Interval: 358.617523
