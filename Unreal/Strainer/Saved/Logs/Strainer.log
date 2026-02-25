@@ -4092,3 +4092,696 @@ Sampler Limit: 32
 [2026.02.24-23.45.26:649][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.24-23.45.26:649][ 41]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.24-23.45.26:649][ 41]AssetCheck: /Game/BP_GameInstance Validating asset
+[2026.02.24-23.50.24:915][ 37]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13878.736328
+[2026.02.24-23.50.25:913][ 40]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-23.50.25:913][ 40]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13879.402344, Update Interval: 338.325134
+[2026.02.24-23.56.59:623][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14273.438477
+[2026.02.24-23.57.00:623][224]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-23.57.00:623][224]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14274.105469, Update Interval: 347.927490
+[2026.02.25-00.00.02:319][404]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-00.00.02:319][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-00.00.02:380][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.02.25-00.00.39:809][594]LogDerivedDataCache: C:/Users/cmcdonnell1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.25-00.03.36:702][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14670.498047
+[2026.02.25-00.03.37:703][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-00.03.37:703][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14671.165039, Update Interval: 354.387634
+[2026.02.25-00.05.38:466][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Floor.BP_Floor
+[2026.02.25-00.05.38:466][557]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.02.25-00.06.21:092][494]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Data/D_Environment.D_Environment
+[2026.02.25-00.07.39:564][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.25-00.07.39:592][721]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.07.39:593][721]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.07.39:593][721]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.07.39:637][721]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.07.39:637][721]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.07.39:637][721]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.07.40:077][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.07.40:107][768]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Floor] ([2] browsable assets)...
+[2026.02.25-00.07.40:161][768]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Floor.BP_Floor]
+[2026.02.25-00.07.40:161][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Floor]
+[2026.02.25-00.07.40:161][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2026.02.25-00.07.40:180][768]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Floor
+[2026.02.25-00.07.40:181][768]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_Floor84E812AA4C609C36E808A78829AA16C7.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset'
+[2026.02.25-00.07.40:192][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.019 ms (total: 1.21 sec)
+[2026.02.25-00.07.40:220][768]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.07.40:220][768]LogContentValidation: Enabled validators:
+[2026.02.25-00.07.40:220][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.07.40:220][768]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.07.40:220][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.07.40:220][768]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.07.40:220][768]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.07.40:220][768]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.07.40:220][768]AssetCheck: /Game/Blueprints/BP_Floor Validating asset
+[2026.02.25-00.07.52:521][142]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Structures/BPI_Obstacles.BPI_Obstacles
+[2026.02.25-00.08.02:226][164]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Data/Enums/E_Environment.E_Environment
+[2026.02.25-00.08.08:254][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.25-00.08.28:896][833]LogSlate: Window 'Save Content' being destroyed
+[2026.02.25-00.08.28:906][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.08.28:976][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Structures/BPI_Backgrounds] ([1] browsable assets)...
+[2026.02.25-00.08.28:976][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structures/BPI_Backgrounds]
+[2026.02.25-00.08.28:976][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structures/BPI_Backgrounds" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Backgrounds.uasset" SILENT=true
+[2026.02.25-00.08.28:989][833]LogSavePackage: Moving output files for package: /Game/Structures/BPI_Backgrounds
+[2026.02.25-00.08.28:989][833]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BPI_Backgrounds0C25F45743A49028F7CA819E0A642C48.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Backgrounds.uasset'
+[2026.02.25-00.08.28:990][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Structures/BPI_Obstacles] ([1] browsable assets)...
+[2026.02.25-00.08.28:990][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structures/BPI_Obstacles]
+[2026.02.25-00.08.28:990][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structures/BPI_Obstacles" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Obstacles.uasset" SILENT=true
+[2026.02.25-00.08.29:000][833]LogSavePackage: Moving output files for package: /Game/Structures/BPI_Obstacles
+[2026.02.25-00.08.29:000][833]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BPI_Obstacles1D59E43A415976DE5AE3D1A0E2E92659.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Obstacles.uasset'
+[2026.02.25-00.08.29:001][833]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_EmptyRoad] ([2] browsable assets)...
+[2026.02.25-00.08.29:191][833]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_EmptyRoad.BP_EmptyRoad]
+[2026.02.25-00.08.29:191][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EmptyRoad]
+[2026.02.25-00.08.29:191][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EmptyRoad" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_EmptyRoad.uasset" SILENT=true
+[2026.02.25-00.08.29:207][833]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EmptyRoad
+[2026.02.25-00.08.29:207][833]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_EmptyRoad79275CA84F58DB34DEE540AD94036B3B.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_EmptyRoad.uasset'
+[2026.02.25-00.08.29:208][833]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Floor] ([2] browsable assets)...
+[2026.02.25-00.08.29:214][833]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Floor.BP_Floor]
+[2026.02.25-00.08.29:214][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Floor]
+[2026.02.25-00.08.29:214][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2026.02.25-00.08.29:230][833]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Floor
+[2026.02.25-00.08.29:230][833]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_Floor06F115664B04ACFA7462AD923788CCCD.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset'
+[2026.02.25-00.08.29:237][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_FunctionLibrary] ([2] browsable assets)...
+[2026.02.25-00.08.29:237][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_FunctionLibrary]
+[2026.02.25-00.08.29:237][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_FunctionLibrary" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_FunctionLibrary.uasset" SILENT=true
+[2026.02.25-00.08.29:249][833]LogSavePackage: Moving output files for package: /Game/BP_FunctionLibrary
+[2026.02.25-00.08.29:250][833]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_FunctionLibrary7202E23E462AE4ED0455DB8E13AF5284.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_FunctionLibrary.uasset'
+[2026.02.25-00.08.29:258][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_MacroLibrary] ([2] browsable assets)...
+[2026.02.25-00.08.29:258][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_MacroLibrary]
+[2026.02.25-00.08.29:258][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_MacroLibrary" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_MacroLibrary.uasset" SILENT=true
+[2026.02.25-00.08.29:305][833]LogSavePackage: Moving output files for package: /Game/BP_MacroLibrary
+[2026.02.25-00.08.29:306][833]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_MacroLibraryC7DFDB724427B02C6EF9119403D9BCB5.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/BP_MacroLibrary.uasset'
+[2026.02.25-00.08.29:307][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/D_Environment] ([1] browsable assets)...
+[2026.02.25-00.08.29:307][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/D_Environment]
+[2026.02.25-00.08.29:307][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/D_Environment" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/D_Environment.uasset" SILENT=true
+[2026.02.25-00.08.29:314][833]LogSavePackage: Moving output files for package: /Game/Data/D_Environment
+[2026.02.25-00.08.29:315][833]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/D_Environment42AB52AF47944AB15987CF9C6A3BF97D.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/D_Environment.uasset'
+[2026.02.25-00.08.29:315][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/D_Obstacles] ([1] browsable assets)...
+[2026.02.25-00.08.29:315][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/D_Obstacles]
+[2026.02.25-00.08.29:315][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/D_Obstacles" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/D_Obstacles.uasset" SILENT=true
+[2026.02.25-00.08.29:323][833]LogSavePackage: Moving output files for package: /Game/Data/D_Obstacles
+[2026.02.25-00.08.29:324][833]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/D_ObstaclesEDF2DEE14D978564A40A75BAF25B4D12.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/D_Obstacles.uasset'
+[2026.02.25-00.08.29:325][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/Enums/E_Environment] ([1] browsable assets)...
+[2026.02.25-00.08.29:325][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/Enums/E_Environment]
+[2026.02.25-00.08.29:325][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Enums/E_Environment" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Enums/E_Environment.uasset" SILENT=true
+[2026.02.25-00.08.29:332][833]LogSavePackage: Moving output files for package: /Game/Data/Enums/E_Environment
+[2026.02.25-00.08.29:332][833]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/E_EnvironmentD7691BEA49F915943FAB58923CA17123.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/Enums/E_Environment.uasset'
+[2026.02.25-00.08.29:340][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 433.757 ms (total: 1.64 sec)
+[2026.02.25-00.08.29:370][833]LogContentValidation: Display: Starting to validate 9 assets
+[2026.02.25-00.08.29:370][833]LogContentValidation: Enabled validators:
+[2026.02.25-00.08.29:370][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.08.29:370][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.08.29:370][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.08.29:370][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.08.29:370][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.08.29:370][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.08.29:370][833]AssetCheck: /Game/Structures/BPI_Backgrounds Validating asset
+[2026.02.25-00.08.29:370][833]AssetCheck: /Game/Structures/BPI_Obstacles Validating asset
+[2026.02.25-00.08.29:370][833]AssetCheck: /Game/Blueprints/BP_EmptyRoad Validating asset
+[2026.02.25-00.08.29:371][833]AssetCheck: /Game/Blueprints/BP_Floor Validating asset
+[2026.02.25-00.08.29:371][833]AssetCheck: /Game/BP_FunctionLibrary Validating asset
+[2026.02.25-00.08.29:371][833]AssetCheck: /Game/BP_MacroLibrary Validating asset
+[2026.02.25-00.08.29:371][833]AssetCheck: /Game/Data/D_Environment Validating asset
+[2026.02.25-00.08.29:371][833]AssetCheck: /Game/Data/D_Obstacles Validating asset
+[2026.02.25-00.08.29:371][833]AssetCheck: /Game/Data/Enums/E_Environment Validating asset
+[2026.02.25-00.08.31:544][ 85]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.25-00.08.31:566][ 85]LogPlayLevel: [PlayLevel] Compiling BP_MacroLibrary before play...
+[2026.02.25-00.08.31:567][ 85]LogPlayLevel: [PlayLevel]   Compiling BP_Floor as a dependent...
+[2026.02.25-00.08.31:569][ 85]LogPlayLevel: [PlayLevel]   Compiling BP_FunctionLibrary as a dependent...
+[2026.02.25-00.08.31:617][ 85]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:618][ 85]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:618][ 85]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:642][ 85]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:642][ 85]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:643][ 85]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:655][ 85]LogPlayLevel: [PlayLevel] Compiling BP_EmptyRoad before play...
+[2026.02.25-00.08.31:676][ 85]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2026.02.25-00.08.31:707][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.25-00.08.31:710][ 85]LogPlayLevel: PlayLevel: Blueprint regeneration took 158 ms (5 blueprints)
+[2026.02.25-00.08.31:710][ 85]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.25-00.08.31:713][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002776s)
+[2026.02.25-00.08.31:713][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.002813s)
+[2026.02.25-00.08.31:734][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.25-00.08.31:735][ 85]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.25-00.08.31:736][ 85]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2026.02.25-00.08.31:737][ 85]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.02.25-00.08.31:737][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.25-00.08.31:737][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.25-00.08.31:737][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.25-00.08.31:737][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.25-00.08.31:737][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.25-00.08.31:737][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.25-00.08.31:737][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.25-00.08.31:737][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.25-00.08.31:737][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.25-00.08.31:737][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.25-00.08.31:737][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.25-00.08.31:739][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.25-00.08.31:763][ 85]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.25-00.08.31:764][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.25-00.08.31:764][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.25-00.08.31:764][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.25-00.08.31:764][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.02.25-00.08.31:764][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.02.25-00.08.31:765][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.02.25-00.08.31:765][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.02.25-00.08.31:765][ 85]LogInit: FAudioDevice initialized with ID 9.
+[2026.02.25-00.08.31:765][ 85]LogAudio: Display: Audio Device (ID: 9) registered with world 'Workshop'.
+[2026.02.25-00.08.31:766][ 85]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.25-00.08.31:796][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.25-00.08.31:796][ 85]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.25-00.08.31:798][ 85]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.24-16.08.31
+[2026.02.25-00.08.31:798][ 85]LogWorld: Bringing up level for play took: 0.001838
+[2026.02.25-00.08.31:800][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2026.02.25-00.08.31:801][ 85]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.25-00.08.31:802][ 85]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:802][ 85]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.25-00.08.31:802][ 85]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.25-00.08.31:802][ 85]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.25-00.08.31:803][ 85]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:803][ 85]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:807][ 85]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:807][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:811][ 85]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:811][ 85]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:812][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:813][ 85]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:814][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:814][ 85]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:816][ 85]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:816][ 85]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:816][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:817][ 85]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:818][ 85]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:818][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:819][ 85]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:820][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:820][ 85]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:822][ 85]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:822][ 85]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:822][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:825][ 85]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:825][ 85]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:825][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:827][ 85]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:827][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:827][ 85]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:830][ 85]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:830][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:831][ 85]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:832][ 85]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:833][ 85]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:833][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:835][ 85]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:835][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:837][ 85]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:838][ 85]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.08.31:843][ 85]PIE: Server logged in
+[2026.02.25-00.08.31:846][ 85]PIE: Play in editor total start time 0.295 seconds.
+[2026.02.25-00.08.31:853][ 85]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.25-00.08.31:911][ 86]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.25-00.08.32:851][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.25-00.08.32:851][177]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.25-00.08.32:851][177]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.25-00.08.32:858][177]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-00.08.32:862][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-00.08.32:863][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.25-00.08.32:868][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-00.08.32:893][177]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.25-00.08.32:893][177]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.02.25-00.08.32:895][177]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.02.25-00.08.32:904][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.02.25-00.08.32:989][178]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2026.02.25-00.08.34:089][279]LogSlate: Window 'Message Log' being destroyed
+[2026.02.25-00.08.34:099][279]LogSlate: Window 'Message Log' being destroyed
+[2026.02.25-00.09.11:363][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.09.11:397][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Structures/BPI_Obstacles] ([1] browsable assets)...
+[2026.02.25-00.09.11:397][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structures/BPI_Obstacles]
+[2026.02.25-00.09.11:397][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structures/BPI_Obstacles" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Obstacles.uasset" SILENT=true
+[2026.02.25-00.09.11:407][298]LogSavePackage: Moving output files for package: /Game/Structures/BPI_Obstacles
+[2026.02.25-00.09.11:407][298]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BPI_Obstacles338F395C49DEAD155AC24B8AB913D3AF.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Structures/BPI_Obstacles.uasset'
+[2026.02.25-00.09.11:413][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.906 ms (total: 1.69 sec)
+[2026.02.25-00.09.11:438][298]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.09.11:438][298]LogContentValidation: Enabled validators:
+[2026.02.25-00.09.11:438][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.09.11:438][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.09.11:438][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.09.11:438][298]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.09.11:438][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.09.11:438][298]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.09.11:438][298]AssetCheck: /Game/Structures/BPI_Obstacles Validating asset
+[2026.02.25-00.09.28:103][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.25-00.09.28:125][134]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.09.28:126][134]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.09.28:126][134]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.09.28:161][134]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.09.28:162][134]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.09.28:162][134]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.09.28:652][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.09.28:681][187]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Floor] ([2] browsable assets)...
+[2026.02.25-00.09.28:733][187]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Floor.BP_Floor]
+[2026.02.25-00.09.28:733][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Floor]
+[2026.02.25-00.09.28:733][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2026.02.25-00.09.28:751][187]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Floor
+[2026.02.25-00.09.28:751][187]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_Floor874B7EB543BDCBC899DBB7A6E4F0A183.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset'
+[2026.02.25-00.09.28:757][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.486 ms (total: 1.80 sec)
+[2026.02.25-00.09.28:784][187]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.09.28:784][187]LogContentValidation: Enabled validators:
+[2026.02.25-00.09.28:784][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.09.28:784][187]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.09.28:784][187]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.09.28:784][187]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.09.28:784][187]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.09.28:784][187]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.09.28:784][187]AssetCheck: /Game/Blueprints/BP_Floor Validating asset
+[2026.02.25-00.10.03:505][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15057.270508
+[2026.02.25-00.10.03:648][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-00.10.03:648][258]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15057.401367, Update Interval: 307.406830
+[2026.02.25-00.11.07:809][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.25-00.11.07:835][696]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.11.07:836][696]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.11.07:836][696]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.11.07:859][696]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.11.07:860][696]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.11.07:861][696]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.11.08:895][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.11.08:917][811]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Floor] ([2] browsable assets)...
+[2026.02.25-00.11.08:967][811]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Floor.BP_Floor]
+[2026.02.25-00.11.08:968][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Floor]
+[2026.02.25-00.11.08:968][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2026.02.25-00.11.09:000][811]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Floor
+[2026.02.25-00.11.09:001][811]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_Floor0E8BFEB8479BC0C1E0449D85E5EDD079.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset'
+[2026.02.25-00.11.09:008][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.625 ms (total: 1.91 sec)
+[2026.02.25-00.11.09:033][811]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.11.09:033][811]LogContentValidation: Enabled validators:
+[2026.02.25-00.11.09:033][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.11.09:033][811]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.11.09:033][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.11.09:033][811]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.11.09:033][811]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.11.09:033][811]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.11.09:033][811]AssetCheck: /Game/Blueprints/BP_Floor Validating asset
+[2026.02.25-00.11.12:549][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.25-00.11.12:569][220]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.11.12:570][220]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.11.12:570][220]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.11.12:593][220]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.11.12:594][220]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.11.12:594][220]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.11.13:109][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.11.13:136][273]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Floor] ([2] browsable assets)...
+[2026.02.25-00.11.13:193][273]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Floor.BP_Floor]
+[2026.02.25-00.11.13:193][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Floor]
+[2026.02.25-00.11.13:193][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2026.02.25-00.11.13:211][273]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Floor
+[2026.02.25-00.11.13:211][273]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_FloorD4F4C77F4E9EEE2A315BE8955AC50781.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset'
+[2026.02.25-00.11.13:224][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.164 ms (total: 2.03 sec)
+[2026.02.25-00.11.13:257][273]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.11.13:257][273]LogContentValidation: Enabled validators:
+[2026.02.25-00.11.13:257][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.11.13:257][273]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.11.13:257][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.11.13:257][273]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.11.13:257][273]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.11.13:257][273]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.11.13:257][273]AssetCheck: /Game/Blueprints/BP_Floor Validating asset
+[2026.02.25-00.11.52:762][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.25-00.11.53:697][521]LogSlate: Window 'Save Content' being destroyed
+[2026.02.25-00.11.53:705][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.11.53:731][521]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_EmptyRoad] ([2] browsable assets)...
+[2026.02.25-00.11.53:799][521]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_EmptyRoad.BP_EmptyRoad]
+[2026.02.25-00.11.53:799][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EmptyRoad]
+[2026.02.25-00.11.53:799][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_EmptyRoad" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_EmptyRoad.uasset" SILENT=true
+[2026.02.25-00.11.53:813][521]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EmptyRoad
+[2026.02.25-00.11.53:814][521]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_EmptyRoad37556E614DD711B5B9B96A8AB7C9BD4C.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_EmptyRoad.uasset'
+[2026.02.25-00.11.53:815][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/D_Obstacles] ([1] browsable assets)...
+[2026.02.25-00.11.53:815][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/D_Obstacles]
+[2026.02.25-00.11.53:815][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/D_Obstacles" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/D_Obstacles.uasset" SILENT=true
+[2026.02.25-00.11.53:822][521]LogSavePackage: Moving output files for package: /Game/Data/D_Obstacles
+[2026.02.25-00.11.53:822][521]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/D_ObstaclesD0C031644DE06882A04FD78CCBC9D010.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Data/D_Obstacles.uasset'
+[2026.02.25-00.11.53:833][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.975 ms (total: 2.16 sec)
+[2026.02.25-00.11.53:864][521]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.25-00.11.53:864][521]LogContentValidation: Enabled validators:
+[2026.02.25-00.11.53:864][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.11.53:864][521]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.11.53:864][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.11.53:864][521]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.11.53:864][521]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.11.53:864][521]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.11.53:864][521]AssetCheck: /Game/Blueprints/BP_EmptyRoad Validating asset
+[2026.02.25-00.11.53:864][521]AssetCheck: /Game/Data/D_Obstacles Validating asset
+[2026.02.25-00.12.46:385][569]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Data/D_Obstacles.D_Obstacles
+[2026.02.25-00.13.02:539][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.25-00.13.02:565][ 39]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.13.02:565][ 39]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.02:566][ 39]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.02:585][ 39]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.13.02:585][ 39]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.02:586][ 39]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.03:113][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.13.03:142][ 96]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Floor] ([2] browsable assets)...
+[2026.02.25-00.13.03:192][ 96]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Floor.BP_Floor]
+[2026.02.25-00.13.03:192][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Floor]
+[2026.02.25-00.13.03:192][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2026.02.25-00.13.03:211][ 96]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Floor
+[2026.02.25-00.13.03:211][ 96]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_FloorD1AF542F464FAED8FE2DE5A05E345675.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset'
+[2026.02.25-00.13.03:221][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.338 ms (total: 2.26 sec)
+[2026.02.25-00.13.03:245][ 96]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.13.03:245][ 96]LogContentValidation: Enabled validators:
+[2026.02.25-00.13.03:245][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.13.03:245][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.13.03:245][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.13.03:245][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.13.03:245][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.13.03:245][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.13.03:245][ 96]AssetCheck: /Game/Blueprints/BP_Floor Validating asset
+[2026.02.25-00.13.08:666][722]LogBlueprint: Warning: [AssetLog] C:\Users\cmcdonnell1\Downloads\thestrainer\Unreal\Strainer\Content\Blueprints\BP_Floor.uasset: [Compiler] Input pin  Max  specifying non-default value no longer exists on node  Obstacle Logic . Please refresh node or reset pin to default value to remove pin.
+[2026.02.25-00.13.08:723][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.25-00.13.08:746][722]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.13.08:747][722]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.08:747][722]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.08:768][722]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.13.08:769][722]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.08:770][722]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.09:365][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.13.09:390][784]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Floor] ([2] browsable assets)...
+[2026.02.25-00.13.09:434][784]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Floor.BP_Floor]
+[2026.02.25-00.13.09:434][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Floor]
+[2026.02.25-00.13.09:434][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2026.02.25-00.13.09:454][784]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Floor
+[2026.02.25-00.13.09:454][784]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_FloorD640FA3E4E9DB7DF619DB5801CA45E63.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset'
+[2026.02.25-00.13.09:463][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.645 ms (total: 2.36 sec)
+[2026.02.25-00.13.09:489][784]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.13.09:489][784]LogContentValidation: Enabled validators:
+[2026.02.25-00.13.09:489][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.13.09:489][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.13.09:489][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.13.09:489][784]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.13.09:489][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.13.09:489][784]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.13.09:490][784]AssetCheck: /Game/Blueprints/BP_Floor Validating asset
+[2026.02.25-00.13.18:513][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.25-00.13.18:536][841]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.13.18:537][841]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.18:537][841]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.18:558][841]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.13.18:559][841]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.13.18:559][841]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.15.52:558][257]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15406.292969
+[2026.02.25-00.15.53:558][260]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-00.15.53:559][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15406.958984, Update Interval: 355.583374
+[2026.02.25-00.16.16:806][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.02.25-00.16.16:832][973]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.16.16:832][973]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.16.16:832][973]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.16.16:852][973]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.16.16:853][973]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.16.16:853][973]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.16.17:357][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.16.17:385][ 25]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Floor] ([2] browsable assets)...
+[2026.02.25-00.16.17:431][ 25]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Floor.BP_Floor]
+[2026.02.25-00.16.17:431][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Floor]
+[2026.02.25-00.16.17:431][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2026.02.25-00.16.17:450][ 25]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Floor
+[2026.02.25-00.16.17:450][ 25]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_Floor8F53A776462AFE5BB1C174BC731F0471.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset'
+[2026.02.25-00.16.17:459][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.278 ms (total: 2.47 sec)
+[2026.02.25-00.16.17:489][ 25]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.16.17:489][ 25]LogContentValidation: Enabled validators:
+[2026.02.25-00.16.17:489][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.16.17:489][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.16.17:489][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.16.17:489][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.16.17:489][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.16.17:489][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.16.17:489][ 25]AssetCheck: /Game/Blueprints/BP_Floor Validating asset
+[2026.02.25-00.16.30:384][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.25-00.16.30:405][536]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.16.30:405][536]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.16.30:406][536]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.16.30:424][536]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.16.30:425][536]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.16.30:425][536]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.16.30:754][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.16.30:778][569]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Floor] ([2] browsable assets)...
+[2026.02.25-00.16.30:824][569]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Floor.BP_Floor]
+[2026.02.25-00.16.30:824][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Floor]
+[2026.02.25-00.16.30:824][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Floor" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset" SILENT=true
+[2026.02.25-00.16.30:843][569]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Floor
+[2026.02.25-00.16.30:843][569]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_FloorE1540D754761ABB8AF8C338012D29269.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset'
+[2026.02.25-00.16.30:856][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.176 ms (total: 2.57 sec)
+[2026.02.25-00.16.30:883][569]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.16.30:883][569]LogContentValidation: Enabled validators:
+[2026.02.25-00.16.30:883][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.16.30:883][569]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.16.30:883][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.16.30:883][569]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.16.30:883][569]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.16.30:883][569]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.16.30:884][569]AssetCheck: /Game/Blueprints/BP_Floor Validating asset
+[2026.02.25-00.22.41:706][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15815.304688
+[2026.02.25-00.22.42:706][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-00.22.42:706][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15815.971680, Update Interval: 321.107208
+[2026.02.25-00.25.03:416][239]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.25-00.25.03:425][239]LogPlayLevel: [PlayLevel] Compiling BP_EmptyRoad before play...
+[2026.02.25-00.25.03:490][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.02.25-00.25.03:497][239]LogPlayLevel: PlayLevel: Blueprint regeneration took 73 ms (1 blueprints)
+[2026.02.25-00.25.03:497][239]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.25-00.25.03:501][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002930s)
+[2026.02.25-00.25.03:501][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.002987s)
+[2026.02.25-00.25.03:524][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.25-00.25.03:526][239]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.25-00.25.03:527][239]LogPlayLevel: PIE: World Init took: (0.001652s)
+[2026.02.25-00.25.03:527][239]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.02.25-00.25.03:527][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.25-00.25.03:527][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.25-00.25.03:529][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.25-00.25.03:529][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.25-00.25.03:529][239]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.25-00.25.03:529][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.25-00.25.03:529][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.25-00.25.03:529][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.25-00.25.03:529][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.25-00.25.03:529][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.25-00.25.03:529][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.25-00.25.03:532][239]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.25-00.25.03:556][239]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.25-00.25.03:556][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.25-00.25.03:557][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.25-00.25.03:557][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.25-00.25.03:557][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.02.25-00.25.03:557][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.02.25-00.25.03:558][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.02.25-00.25.03:559][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.02.25-00.25.03:559][239]LogInit: FAudioDevice initialized with ID 10.
+[2026.02.25-00.25.03:559][239]LogAudio: Display: Audio Device (ID: 10) registered with world 'Workshop'.
+[2026.02.25-00.25.03:559][239]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.25-00.25.03:579][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.25-00.25.03:580][239]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.25-00.25.03:582][239]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.24-16.25.03
+[2026.02.25-00.25.03:582][239]LogWorld: Bringing up level for play took: 0.001521
+[2026.02.25-00.25.03:584][239]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2026.02.25-00.25.03:585][239]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Runner_C /Game/Levels/UEDPIE_0_Workshop.Workshop:PersistentLevel.BP_Runner_C_0)
+[2026.02.25-00.25.03:586][239]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:587][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.25-00.25.03:587][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.25-00.25.03:587][239]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property [ I ] in ABP_Strainer_C". Node:  Result Graph:  Transition Function:  Execute Ubergraph ABP Strainer Blueprint:  ABP_Strainer
+[2026.02.25-00.25.03:588][239]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:588][239]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:592][239]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:593][239]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:593][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:594][239]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:595][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:596][239]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:596][239]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:597][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:598][239]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:599][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:599][239]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:601][239]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:601][239]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:602][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:604][239]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:604][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:606][239]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:606][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:606][239]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:608][239]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:608][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:609][239]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:609][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:610][239]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:611][239]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:612][239]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:612][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:614][239]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:614][239]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:614][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:615][239]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:616][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:616][239]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:619][239]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:619][239]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.25-00.25.03:621][239]PIE: Server logged in
+[2026.02.25-00.25.03:622][239]PIE: Play in editor total start time 0.199 seconds.
+[2026.02.25-00.25.03:628][239]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.25-00.25.03:684][240]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.25-00.25.29:546][137]LogBlueprintUserMessages: [UIF_Slot] WRONG
+[2026.02.25-00.25.31:290][342]LogBlueprintUserMessages: [UIF_Slot] WRONG
+[2026.02.25-00.25.31:290][342]LogBlueprintUserMessages: [UIF_Slot_1] WRONG
+[2026.02.25-00.25.31:290][342]LogBlueprintUserMessages: [UIF_Slot_2] WRONG
+[2026.02.25-00.25.31:290][342]LogBlueprintUserMessages: [UIF_Slot_4] WRONG
+[2026.02.25-00.25.31:290][342]LogBlueprintUserMessages: [UIF_Slot_7] WRONG
+[2026.02.25-00.25.32:921][534]LogBlueprintUserMessages: [UIF_Slot] WRONG
+[2026.02.25-00.25.32:921][534]LogBlueprintUserMessages: [UIF_Slot_1] WRONG
+[2026.02.25-00.25.32:921][534]LogBlueprintUserMessages: [UIF_Slot_2] WRONG
+[2026.02.25-00.25.32:921][534]LogBlueprintUserMessages: [UIF_Slot_4] WRONG
+[2026.02.25-00.25.32:921][534]LogBlueprintUserMessages: [UIF_Slot_7] WRONG
+[2026.02.25-00.25.32:921][534]LogBlueprintUserMessages: [UIF_Slot_8] WRONG
+[2026.02.25-00.25.34:682][741]LogBlueprintUserMessages: [UIF_Slot] WRONG
+[2026.02.25-00.25.34:682][741]LogBlueprintUserMessages: [UIF_Slot_1] WRONG
+[2026.02.25-00.25.34:682][741]LogBlueprintUserMessages: [UIF_Slot_15] WRONG
+[2026.02.25-00.25.34:682][741]LogBlueprintUserMessages: [UIF_Slot_2] WRONG
+[2026.02.25-00.25.34:682][741]LogBlueprintUserMessages: [UIF_Slot_4] WRONG
+[2026.02.25-00.25.34:682][741]LogBlueprintUserMessages: [UIF_Slot_7] WRONG
+[2026.02.25-00.25.34:682][741]LogBlueprintUserMessages: [UIF_Slot_8] WRONG
+[2026.02.25-00.25.35:388][824]LogBlueprintUserMessages: [UIF_Slot] WRONG
+[2026.02.25-00.25.35:388][824]LogBlueprintUserMessages: [UIF_Slot_1] WRONG
+[2026.02.25-00.25.35:388][824]LogBlueprintUserMessages: [UIF_Slot_15] WRONG
+[2026.02.25-00.25.35:388][824]LogBlueprintUserMessages: [UIF_Slot_10] WRONG
+[2026.02.25-00.25.35:388][824]LogBlueprintUserMessages: [UIF_Slot_11] WRONG
+[2026.02.25-00.25.35:388][824]LogBlueprintUserMessages: [UIF_Slot_2] WRONG
+[2026.02.25-00.25.35:389][824]LogBlueprintUserMessages: [UIF_Slot_4] WRONG
+[2026.02.25-00.25.35:389][824]LogBlueprintUserMessages: [UIF_Slot_7] WRONG
+[2026.02.25-00.25.35:389][824]LogBlueprintUserMessages: [UIF_Slot_8] WRONG
+[2026.02.25-00.25.39:282][282]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:564 H:0
+[2026.02.25-00.25.42:252][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.25-00.25.42:252][632]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.25-00.25.42:252][632]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.25-00.25.42:258][632]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-00.25.42:262][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-00.25.42:263][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.25-00.25.42:269][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-00.25.42:296][632]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.25-00.25.42:296][632]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.02.25-00.25.42:299][632]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.02.25-00.25.42:309][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.02.25-00.25.42:372][633]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2026.02.25-00.25.43:270][711]LogSlate: Window 'Message Log' being destroyed
+[2026.02.25-00.25.43:275][711]LogSlate: Window 'Message Log' being destroyed
+[2026.02.25-00.26.26:384][279]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.02.25-00.26.26:421][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.02.25-00.26.26:442][281]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.02.25-00.26.30:820][742]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Backgrounds/BP_Background2.BP_Background2
+[2026.02.25-00.26.30:820][742]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.02.25-00.26.35:545][222]LogContentBrowser: Deferred new asset file creation: BP_Background4
+[2026.02.25-00.26.35:589][222]LogContentBrowser: Creating deferred item: BP_Background4
+[2026.02.25-00.26.35:615][223]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Background4).
+[2026.02.25-00.26.41:375][875]LogContentBrowser: Attempting asset rename: BP_Background4 -> BP_DT1
+[2026.02.25-00.26.41:420][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.25-00.26.41:428][875]LogContentBrowser: End creating deferred item BP_Background4
+[2026.02.25-00.26.41:430][875]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.02.25-00.26.42:633][994]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Backgrounds/BP_DT1.BP_DT1
+[2026.02.25-00.26.42:634][994]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.02.25-00.26.44:957][162]LogSlate: Window 'BP_DT1' being destroyed
+[2026.02.25-00.26.45:824][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.26.45:850][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Backgrounds/BP_DT1] ([2] browsable assets)...
+[2026.02.25-00.26.45:889][262]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Backgrounds/BP_DT1.BP_DT1]
+[2026.02.25-00.26.45:889][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Backgrounds/BP_DT1]
+[2026.02.25-00.26.45:889][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Backgrounds/BP_DT1" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Backgrounds/BP_DT1.uasset" SILENT=true
+[2026.02.25-00.26.45:902][262]LogSavePackage: Moving output files for package: /Game/Blueprints/Backgrounds/BP_DT1
+[2026.02.25-00.26.45:902][262]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_DT15D88415049C627A47E05FBA0E57E0D01.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Backgrounds/BP_DT1.uasset'
+[2026.02.25-00.26.45:912][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.986 ms (total: 2.66 sec)
+[2026.02.25-00.26.45:933][262]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.26.45:933][262]LogContentValidation: Enabled validators:
+[2026.02.25-00.26.45:933][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.26.45:933][262]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.26.45:933][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.26.45:933][262]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.26.45:933][262]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.26.45:933][262]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.26.45:933][262]AssetCheck: /Game/Blueprints/Backgrounds/BP_DT1 Validating asset
+[2026.02.25-00.26.45:951][262]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.25-00.28.20:134][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.25-00.28.44:041][907]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16177.449219
+[2026.02.25-00.28.44:162][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-00.28.44:162][921]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16177.560547, Update Interval: 356.722321
+[2026.02.25-00.29.00:569][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.25-00.29.01:039][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.29.01:061][567]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Backgrounds/BP_DT1] ([2] browsable assets)...
+[2026.02.25-00.29.01:088][567]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Backgrounds/BP_DT1.BP_DT1]
+[2026.02.25-00.29.01:088][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Backgrounds/BP_DT1]
+[2026.02.25-00.29.01:088][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Backgrounds/BP_DT1" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Backgrounds/BP_DT1.uasset" SILENT=true
+[2026.02.25-00.29.01:101][567]LogSavePackage: Moving output files for package: /Game/Blueprints/Backgrounds/BP_DT1
+[2026.02.25-00.29.01:102][567]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_DT1BD0C75AB4F8C0AA00684EBB9445B9C4B.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Backgrounds/BP_DT1.uasset'
+[2026.02.25-00.29.01:110][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.562 ms (total: 2.73 sec)
+[2026.02.25-00.29.01:134][567]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.29.01:134][567]LogContentValidation: Enabled validators:
+[2026.02.25-00.29.01:134][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.29.01:134][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.29.01:134][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.29.01:134][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.29.01:134][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.29.01:134][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.29.01:134][567]AssetCheck: /Game/Blueprints/Backgrounds/BP_DT1 Validating asset
+[2026.02.25-00.30.23:766][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.25-00.30.24:237][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.30.24:256][914]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Backgrounds/BP_DT1] ([2] browsable assets)...
+[2026.02.25-00.30.24:284][914]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Backgrounds/BP_DT1.BP_DT1]
+[2026.02.25-00.30.24:284][914]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Backgrounds/BP_DT1]
+[2026.02.25-00.30.24:284][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Backgrounds/BP_DT1" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Backgrounds/BP_DT1.uasset" SILENT=true
+[2026.02.25-00.30.24:299][914]LogSavePackage: Moving output files for package: /Game/Blueprints/Backgrounds/BP_DT1
+[2026.02.25-00.30.24:299][914]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_DT1D345AE4843B27D26FE0DEC8072763679.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Backgrounds/BP_DT1.uasset'
+[2026.02.25-00.30.24:309][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.156 ms (total: 2.80 sec)
+[2026.02.25-00.30.24:341][914]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.30.24:341][914]LogContentValidation: Enabled validators:
+[2026.02.25-00.30.24:341][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.30.24:341][914]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.30.24:341][914]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.30.24:341][914]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.30.24:341][914]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.30.24:341][914]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.30.24:341][914]AssetCheck: /Game/Blueprints/Backgrounds/BP_DT1 Validating asset
+[2026.02.25-00.30.31:734][409]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.02.25-00.30.33:929][662]LogContentBrowser: Deferred new asset file creation: BP_DT2
+[2026.02.25-00.30.33:937][662]LogContentBrowser: Creating deferred item: BP_DT2
+[2026.02.25-00.30.33:948][663]LogContentBrowser: Renaming the item being created (Deferred Item: BP_DT2).
+[2026.02.25-00.30.35:027][789]LogContentBrowser: Attempting asset rename: BP_DT2 -> BP_DT2
+[2026.02.25-00.30.35:055][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.25-00.30.35:064][789]LogContentBrowser: End creating deferred item BP_DT2
+[2026.02.25-00.30.35:118][792]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.02.25-00.30.35:622][828]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Backgrounds/BP_DT2.BP_DT2
+[2026.02.25-00.30.35:622][828]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2026.02.25-00.31.56:289][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.25-00.31.56:835][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-00.31.56:856][384]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Backgrounds/BP_DT2] ([2] browsable assets)...
+[2026.02.25-00.31.56:891][384]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Backgrounds/BP_DT2.BP_DT2]
+[2026.02.25-00.31.56:891][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Backgrounds/BP_DT2]
+[2026.02.25-00.31.56:891][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Backgrounds/BP_DT2" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Backgrounds/BP_DT2.uasset" SILENT=true
+[2026.02.25-00.31.56:905][384]LogSavePackage: Moving output files for package: /Game/Blueprints/Backgrounds/BP_DT2
+[2026.02.25-00.31.56:905][384]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/BP_DT245B3209C477DF25EA52305B3D52D50A5.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Backgrounds/BP_DT2.uasset'
+[2026.02.25-00.31.56:917][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.885 ms (total: 2.88 sec)
+[2026.02.25-00.31.56:946][384]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-00.31.56:946][384]LogContentValidation: Enabled validators:
+[2026.02.25-00.31.56:946][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-00.31.56:946][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-00.31.56:946][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-00.31.56:946][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-00.31.56:946][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-00.31.56:946][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-00.31.56:946][384]AssetCheck: /Game/Blueprints/Backgrounds/BP_DT2 Validating asset
+[2026.02.25-00.31.56:965][384]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.25-00.35.39:484][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16592.988281
+[2026.02.25-00.35.40:484][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-00.35.40:484][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16593.654297, Update Interval: 355.731689
+[2026.02.25-00.42.27:941][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17001.525391
+[2026.02.25-00.42.28:942][ 93]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-00.42.28:942][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17002.191406, Update Interval: 359.071625
+[2026.02.25-00.49.07:001][287]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17400.810547
+[2026.02.25-00.49.08:002][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-00.49.08:002][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17401.478516, Update Interval: 337.312531
+[2026.02.25-00.55.16:054][394]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17770.160156
+[2026.02.25-00.55.17:053][397]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-00.55.17:053][397]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17770.826172, Update Interval: 317.688538
