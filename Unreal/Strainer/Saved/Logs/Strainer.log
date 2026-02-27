@@ -2795,3 +2795,440 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.27-01.51.42:943][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1391.990479
 [2026.02.27-01.51.43:942][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.27-01.51.43:942][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1392.656250, Update Interval: 331.383392
+[2026.02.27-01.57.40:658][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1749.701660
+[2026.02.27-01.57.41:658][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-01.57.41:658][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1750.369263, Update Interval: 301.789001
+[2026.02.27-02.03.40:050][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2109.084473
+[2026.02.27-02.03.41:051][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-02.03.41:051][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2109.751221, Update Interval: 339.147308
+[2026.02.27-02.04.17:063][927]LogSlate: External Image Picker: DecompressImage failed
+[2026.02.27-02.04.19:601][123]LogSlate: Window 'Project Settings' being destroyed
+[2026.02.27-02.04.38:542][345]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.27-02.04.38:550][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.27-02.04.38:551][345]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.27-02.04.38:554][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003424s)
+[2026.02.27-02.04.38:554][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.003465s)
+[2026.02.27-02.04.38:579][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.27-02.04.38:581][345]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.27-02.04.38:583][345]LogPlayLevel: PIE: World Init took: (0.001712s)
+[2026.02.27-02.04.38:584][345]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.02.27-02.04.38:584][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.27-02.04.38:584][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.27-02.04.38:584][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.27-02.04.38:584][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.27-02.04.38:584][345]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.27-02.04.38:584][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.27-02.04.38:584][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.27-02.04.38:584][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.27-02.04.38:584][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.27-02.04.38:584][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.27-02.04.38:584][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.27-02.04.38:585][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.27-02.04.38:612][345]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.27-02.04.38:612][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.27-02.04.38:612][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.27-02.04.38:612][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.27-02.04.38:613][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.02.27-02.04.38:613][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.02.27-02.04.38:615][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.02.27-02.04.38:615][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.02.27-02.04.38:615][345]LogInit: FAudioDevice initialized with ID 8.
+[2026.02.27-02.04.38:615][345]LogAudio: Display: Audio Device (ID: 8) registered with world 'Workshop'.
+[2026.02.27-02.04.38:615][345]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.27-02.04.38:639][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.27-02.04.38:640][345]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.27-02.04.38:641][345]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.26-18.04.38
+[2026.02.27-02.04.38:641][345]LogWorld: Bringing up level for play took: 0.001562
+[2026.02.27-02.04.38:643][345]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.02.27-02.04.38:644][345]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.04.38:645][345]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:646][345]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:646][345]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:649][345]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:649][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:653][345]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:653][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:655][345]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:655][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:655][345]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:657][345]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:657][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:657][345]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:659][345]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:659][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:660][345]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:661][345]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:661][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:662][345]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:663][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:665][345]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:665][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:666][345]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:667][345]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:667][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:670][345]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:671][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:673][345]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:673][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:675][345]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:676][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:678][345]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:678][345]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.04.38:682][345]PIE: Server logged in
+[2026.02.27-02.04.38:685][345]PIE: Play in editor total start time 0.135 seconds.
+[2026.02.27-02.04.38:691][345]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.27-02.04.58:125][554]Cmd: quit
+[2026.02.27-02.04.58:126][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.27-02.04.58:126][554]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.27-02.04.58:126][554]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.27-02.04.58:181][554]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.04.58:186][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.04.58:187][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.27-02.04.58:193][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.04.58:218][554]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.27-02.04.58:218][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.02.27-02.04.58:221][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.02.27-02.04.58:229][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.27-02.04.58:259][555]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.02.27-02.05.03:180][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.02.27-02.05.03:224][102]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.02.27-02.05.03:230][102]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:246][103]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:271][104]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:285][105]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:305][106]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:329][107]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:348][108]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:367][109]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:377][110]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:385][111]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:394][112]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:403][113]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:411][114]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:421][115]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:431][116]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:442][117]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:452][118]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:461][119]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:471][120]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:481][121]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:491][122]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:500][123]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:511][124]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:519][125]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:528][126]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:538][127]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:548][128]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:558][129]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:568][130]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:576][131]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:587][132]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:595][133]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:606][134]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:615][135]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:624][136]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:634][137]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:643][138]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:651][139]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:661][140]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:670][141]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:784][153]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:815][154]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.03:838][155]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Animation/ABP_Player.ABP_Player
+[2026.02.27-02.05.03:838][155]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.02.27-02.05.03:848][155]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.02.27-02.05.03:853][155]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.27-02.05.03:901][155]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.27-02.05.03:901][155]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.04:164][155]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.02.27-02.05.04:479][155]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.04:607][158]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.05:736][288]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.05:736][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.05:744][288]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.05:744][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.05:812][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.27-02.05.06:758][396]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.06:758][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.06:808][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.02.27-02.05.08:154][541]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.08:164][542]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.08:172][543]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.08:181][544]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.08:190][545]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.08:214][546]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.08:232][547]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.08:252][548]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.08:276][549]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.08:583][573]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Animation/ABP_Strainer.ABP_Strainer
+[2026.02.27-02.05.08:584][573]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.02.27-02.05.08:589][573]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.02.27-02.05.08:593][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.27-02.05.08:815][573]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.02.27-02.05.09:133][573]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.02.27-02.05.09:218][574]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.02.27-02.05.23:927][251]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2026.02.27-02.05.42:427][390]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Models/Characters/Strainer/Anim_StrainerBase.Anim_StrainerBase
+[2026.02.27-02.05.42:429][390]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.02.27-02.05.42:436][390]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.27-02.05.42:639][390]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.02.27-02.05.43:007][390]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2026.02.27-02.05.43:014][390]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.02.27-02.05.43:146][391]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.02.27-02.05.43:208][394]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.05.47:464][810]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.02.27-02.05.47:517][810]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.47:517][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.47:588][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.27-02.05.50:247][ 80]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.02.27-02.05.50:299][ 80]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.50:299][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.50:339][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.02.27-02.05.55:777][580]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.55:777][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.55:786][580]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.55:786][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.55:836][580]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.55:836][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.55:870][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.27-02.05.56:836][688]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.56:836][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.56:855][688]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.56:855][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.56:901][688]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.05.56:901][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.05.56:931][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.27-02.06.22:934][681]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Models/Characters/Player/Player_Skeleton.Player_Skeleton
+[2026.02.27-02.06.22:935][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.02.27-02.06.22:940][681]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.27-02.06.23:128][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.02.27-02.06.39:171][540]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.06.39:417][567]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.07.20:268][855]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.07.20:268][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.07.20:308][855]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.07.20:308][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.07.20:356][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.27-02.07.21:435][965]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.07.21:435][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.07.21:457][965]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.07.21:458][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.07.21:508][965]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.07.21:508][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.07.21:540][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.27-02.07.24:410][252]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_Skins.UI_Skins
+[2026.02.27-02.07.24:410][252]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.02.27-02.07.24:416][252]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.02.27-02.07.31:084][  8]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.27-02.07.31:092][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.27-02.07.31:092][  8]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Workshop
+[2026.02.27-02.07.31:095][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003055s)
+[2026.02.27-02.07.31:095][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Workshop.Workshop to /Game/Levels/UEDPIE_0_Workshop.Workshop (0.003087s)
+[2026.02.27-02.07.31:129][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.27-02.07.31:132][  8]LogChaosDD: Creating Chaos Debug Draw Scene for world Workshop
+[2026.02.27-02.07.31:134][  8]LogPlayLevel: PIE: World Init took: (0.001637s)
+[2026.02.27-02.07.31:134][  8]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.02.27-02.07.31:134][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.27-02.07.31:134][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.27-02.07.31:134][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.27-02.07.31:134][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.27-02.07.31:134][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.27-02.07.31:134][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.27-02.07.31:134][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.27-02.07.31:134][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.27-02.07.31:134][  8]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.27-02.07.31:134][  8]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.27-02.07.31:134][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.27-02.07.31:137][  8]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.27-02.07.31:163][  8]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.27-02.07.31:164][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.27-02.07.31:164][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.27-02.07.31:164][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.27-02.07.31:164][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.02.27-02.07.31:164][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.02.27-02.07.31:166][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.02.27-02.07.31:166][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.02.27-02.07.31:166][  8]LogInit: FAudioDevice initialized with ID 9.
+[2026.02.27-02.07.31:166][  8]LogAudio: Display: Audio Device (ID: 9) registered with world 'Workshop'.
+[2026.02.27-02.07.31:166][  8]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.27-02.07.31:194][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.27-02.07.31:194][  8]LogLoad: Game class is 'BP_GameHandler_C'
+[2026.02.27-02.07.31:197][  8]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Workshop.Workshop up for play (max tick rate 0) at 2026.02.26-18.07.31
+[2026.02.27-02.07.31:197][  8]LogWorld: Bringing up level for play took: 0.001578
+[2026.02.27-02.07.31:199][  8]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.02.27-02.07.31:200][  8]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.07.31:200][  8]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:201][  8]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:201][  8]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:204][  8]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:204][  8]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:204][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:210][  8]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:210][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:210][  8]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:212][  8]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:213][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:213][  8]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:215][  8]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:215][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:217][  8]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:217][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:219][  8]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:219][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:220][  8]LogActor: Loaded Actor (BP_LightFake_GEN_VARIABLE_BP_LightFake_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:222][  8]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:222][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:225][  8]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:226][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:227][  8]LogActor: Loaded Actor (BP_Soul_GEN_VARIABLE_BP_Soul_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:228][  8]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:228][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:230][  8]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:230][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:233][  8]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:234][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:235][  8]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:236][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:238][  8]LogActor: Loaded Actor (BP_Light_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:238][  8]LogActor: Loaded Actor (BP_Light3_GEN_VARIABLE_BP_Light_C_CAT) with IsValid() == false
+[2026.02.27-02.07.31:240][  8]PIE: Server logged in
+[2026.02.27-02.07.31:241][  8]PIE: Play in editor total start time 0.15 seconds.
+[2026.02.27-02.07.31:245][  8]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'mus_test'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.02.27-02.08.47:309][ 42]Cmd: quit
+[2026.02.27-02.08.47:311][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.27-02.08.47:311][ 42]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Workshop
+[2026.02.27-02.08.47:311][ 42]LogSlate: Window 'Strainer Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.27-02.08.47:354][ 42]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.08.47:358][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.08.47:359][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.27-02.08.47:363][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.08.47:388][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.27-02.08.47:389][ 42]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.27-02.08.47:389][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.02.27-02.08.47:391][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.02.27-02.08.47:400][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.02.27-02.08.47:422][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.02.27-02.09.08:087][491]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.09.08:088][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.09.08:096][491]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.09.08:096][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.09.08:143][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.27-02.09.55:761][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2484.810791
+[2026.02.27-02.09.56:761][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-02.09.56:761][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2485.477295, Update Interval: 317.184967
+[2026.02.27-02.15.38:560][975]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.15.39:704][112]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.02.27-02.15.59:948][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2848.998291
+[2026.02.27-02.16.00:949][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-02.16.00:949][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2849.665283, Update Interval: 348.088623
+[2026.02.27-02.19.45:672][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.02.27-02.19.45:725][951]LogStall: Shutdown...
+[2026.02.27-02.19.45:725][951]LogStall: Shutdown complete.
+[2026.02.27-02.19.45:788][951]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.45:788][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.45:861][951]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.45:861][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.45:918][951]LogSlate: Window 'Strainer - Unreal Editor' being destroyed
+[2026.02.27-02.19.46:108][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.27-02.19.46:138][951]Cmd: QUIT_EDITOR
+[2026.02.27-02.19.46:138][952]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.27-02.19.46:145][952]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.27-02.19.46:145][952]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.27-02.19.46:145][952]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.27-02.19.46:146][952]LogWorld: UWorld::CleanupWorld for Workshop, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:146][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:156][952]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.27-02.19.46:156][952]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.27-02.19.46:157][952]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.27-02.19.46:162][952]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:162][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:166][952]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:166][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:169][952]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:169][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:170][952]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:171][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:173][952]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:173][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:174][952]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:174][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:176][952]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:176][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:177][952]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:177][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:179][952]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:179][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:181][952]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:181][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:183][952]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:183][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:184][952]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:184][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:186][952]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:186][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:187][952]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:187][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:189][952]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.02.27-02.19.46:189][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.27-02.19.46:190][952]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.27-02.19.46:190][952]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.27-02.19.46:198][952]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.27-02.19.46:732][952]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.27-02.19.46:732][952]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.27-02.19.46:732][952]LogAudio: Display: Audio Device unregistered from world 'Workshop'.
+[2026.02.27-02.19.46:732][952]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.27-02.19.46:732][952]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.27-02.19.46:734][952]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.27-02.19.46:742][952]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.27-02.19.46:742][952]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.27-02.19.46:743][952]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.02.27-02.19.46:747][952]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.27-02.19.46:748][952]LogExit: Preparing to exit.
+[2026.02.27-02.19.46:785][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.46:789][952]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.02.27-02.19.48:017][952]LogEditorDataStorage: Deinitializing
+[2026.02.27-02.19.48:142][952]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.27-02.19.48:158][952]LogExit: Editor shut down
+[2026.02.27-02.19.48:161][952]LogExit: Transaction tracking system shut down
+[2026.02.27-02.19.48:343][952]LogExit: Object subsystem successfully closed.
+[2026.02.27-02.19.48:353][952]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.27-02.19.48:399][952]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.27-02.19.48:495][952]LogMemoryProfiler: Shutdown
+[2026.02.27-02.19.48:495][952]LogNetworkingProfiler: Shutdown
+[2026.02.27-02.19.48:495][952]LoadingProfiler: Shutdown
+[2026.02.27-02.19.48:495][952]LogTimingProfiler: Shutdown
+[2026.02.27-02.19.48:495][952]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.27-02.19.48:495][952]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.02.27-02.19.48:794][952]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.02.27-02.19.48:798][952]RenderDocPlugin: plugin has been unloaded.
+[2026.02.27-02.19.48:816][952]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.02.27-02.19.48:816][952]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B28609941-4F2E-E416-FF3F-BA8527D41CE9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=eb52883a47eb129527b9a7b62c2c55c6%7Cc11f8b016dc043ca9037c0deb1f2097e%7C9825c3ed-f0ce-443a-8033-f6348e32deed&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.02.27-02.19.49:374][952]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.02.27-02.19.49:374][952]LogNFORDenoise: NFORDenoise function shutting down
+[2026.02.27-02.19.49:374][952]LogXGEController: Cleaning working directory: C:/Users/cmcdonnell1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.02.27-02.19.49:379][952]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.02.27-02.19.49:379][952]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.02.27-02.19.49:379][952]LogPakFile: Destroying PakPlatformFile
+[2026.02.27-02.19.49:803][952]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.02.27-02.19.49:841][952]LogExit: Exiting.
+[2026.02.27-02.19.49:865][952]Log file closed, 02/26/26 18:19:49
