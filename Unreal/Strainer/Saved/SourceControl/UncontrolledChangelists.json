@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Unreal Projects/thestrainer/Unreal/Strainer/Content/Levels/Workshop.umap",
+				"C:/Unreal Projects/thestrainer/Unreal/Strainer/Content/Materials/Processing/M_VHS.uasset",
+				"C:/Unreal Projects/thestrainer/Unreal/Strainer/Content/UI/Function/UIF_Glitch.uasset",
+				"C:/Unreal Projects/thestrainer/Unreal/Strainer/Content/BP_Runner.uasset",
+				"C:/Unreal Projects/thestrainer/Unreal/Strainer/Content/BP_GameInstance.uasset",
 				"D:/worst game engine/GAME/thestrainer/Unreal/Strainer/Content/Blueprints/BP_Floor.uasset",
 				"D:/worst game engine/GAME/thestrainer/Unreal/Strainer/Content/Levels/Workshop.umap",
 				"D:/worst game engine/GAME/thestrainer/Unreal/Strainer/Content/BP_GameInstance.uasset",
