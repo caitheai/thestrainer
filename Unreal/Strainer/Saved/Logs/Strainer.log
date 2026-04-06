@@ -48552,3 +48552,110 @@ Purging the undo buffer...
 [2026.04.06-22.03.44:311][259]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9589.437500
 [2026.04.06-22.03.44:461][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.06-22.03.44:461][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9589.578125, Update Interval: 300.027466
+[2026.04.06-22.09.41:187][447]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9946.349609
+[2026.04.06-22.09.42:189][450]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.06-22.09.42:189][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9947.015625, Update Interval: 356.780914
+[2026.04.06-22.16.37:387][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10362.550781
+[2026.04.06-22.16.38:387][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.06-22.16.38:387][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10363.218750, Update Interval: 308.091675
+[2026.04.06-22.22.44:107][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10729.284180
+[2026.04.06-22.22.45:107][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.06-22.22.45:107][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10729.951172, Update Interval: 337.184357
+[2026.04.06-22.24.23:837][641]LogDerivedDataCache: C:/Users/cmcdonnell1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.06-22.28.59:829][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11104.995117
+[2026.04.06-22.29.00:829][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.06-22.29.00:829][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11105.661133, Update Interval: 326.391785
+[2026.04.06-22.35.21:882][614]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11487.009766
+[2026.04.06-22.35.22:882][617]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.06-22.35.22:883][617]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11487.676758, Update Interval: 311.865601
+[2026.04.06-22.41.05:271][644]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11830.385742
+[2026.04.06-22.41.06:270][647]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.06-22.41.06:270][647]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11831.050781, Update Interval: 350.066223
+[2026.04.06-22.47.48:998][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12234.090820
+[2026.04.06-22.47.49:998][858]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.06-22.47.49:998][858]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12234.757812, Update Interval: 344.223145
+[2026.04.06-22.51.20:520][499]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:702][511]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:738][512]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:766][513]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:788][514]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:813][515]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:839][516]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:852][517]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:865][518]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:877][519]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:890][520]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:905][521]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:918][522]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:929][523]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:942][524]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:954][525]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:966][526]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:980][527]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.20:992][528]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:006][529]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:018][530]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:030][531]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:043][532]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:056][533]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:068][534]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:080][535]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:092][536]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:104][537]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:117][538]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:130][539]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:145][540]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:156][541]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:170][542]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:182][543]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:195][544]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:207][545]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:219][546]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:232][547]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:244][548]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:257][549]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:268][550]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:280][551]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:293][552]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:304][553]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:320][554]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:332][555]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:347][556]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:358][557]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:370][558]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:383][559]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:395][560]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:407][561]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:419][562]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:435][563]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:535][570]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:577][571]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Animation/ABP_Player.ABP_Player
+[2026.04.06-22.51.21:577][571]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_110
+[2026.04.06-22.51.21:583][571]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_111
+[2026.04.06-22.51.21:591][571]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_111:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.06-22.51.21:591][571]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.21:857][571]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_112
+[2026.04.06-22.51.42:113][835]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.42:114][835]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.42:114][835]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.42:155][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.04.06-22.51.42:174][835]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.42:209][837]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.43:886][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.06-22.51.43:911][ 35]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Animation/ABP_Player] ([2] browsable assets)...
+[2026.04.06-22.51.43:911][ 35]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.06-22.51.43:918][ 35]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Animation/ABP_Player.ABP_Player]
+[2026.04.06-22.51.43:918][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Animation/ABP_Player]
+[2026.04.06-22.51.43:957][ 35]LogSavePackage: Moving output files for package: /Game/Blueprints/Animation/ABP_Player
+[2026.04.06-22.51.43:958][ 35]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/ABP_Player67CC041646AF52ABA2E52EA41CBE5685.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/Blueprints/Animation/ABP_Player.uasset'
+[2026.04.06-22.51.43:970][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.039 ms (total: 4.71 sec)
+[2026.04.06-22.51.44:003][ 35]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.06-22.51.44:003][ 35]LogContentValidation: Enabled validators:
+[2026.04.06-22.51.44:003][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.06-22.51.44:003][ 35]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.06-22.51.44:003][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.06-22.51.44:003][ 35]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.06-22.51.44:003][ 35]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.06-22.51.44:003][ 35]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.06-22.51.44:004][ 35]AssetCheck: /Game/Blueprints/Animation/ABP_Player Validating asset
+[2026.04.06-22.51.44:030][ 37]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
