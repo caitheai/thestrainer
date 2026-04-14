@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ambalaris/Documents/GitHub/thestrainer/Unreal/Strainer/Content/Blueprints/Obstacles/BP_ObstaclePoliceBarricadeD.uasset",
+				"C:/Users/ambalaris/Documents/GitHub/thestrainer/Unreal/Strainer/Content/Blueprints/Obstacles/BP_ObstacleSemiTruckA.uasset",
 				"C:/Unreal Projects/thestrainer/Unreal/Strainer/Content/Levels/Workshop.umap",
 				"C:/Unreal Projects/thestrainer/Unreal/Strainer/Content/Materials/Processing/M_VHS.uasset",
 				"C:/Unreal Projects/thestrainer/Unreal/Strainer/Content/UI/Function/UIF_Glitch.uasset",
