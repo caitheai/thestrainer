@@ -2784,3 +2784,648 @@ Sampler Limit: 32
 [2026.04.15-21.25.31:464][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2845.984619
 [2026.04.15-21.25.31:600][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.15-21.25.31:600][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2846.110596, Update Interval: 335.924561
+[2026.04.15-21.31.43:332][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3217.845703
+[2026.04.15-21.31.44:330][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-21.31.44:330][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3218.510010, Update Interval: 354.140442
+[2026.04.15-21.38.24:045][917]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3618.555176
+[2026.04.15-21.38.25:045][920]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-21.38.25:045][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3619.223145, Update Interval: 332.253174
+[2026.04.15-21.39.52:907][184]LogDerivedDataCache: C:/Users/cmcdonnell1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.15-21.44.56:766][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4011.272461
+[2026.04.15-21.44.57:766][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-21.44.57:766][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4011.939697, Update Interval: 319.272430
+[2026.04.15-21.51.01:491][189]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4375.991699
+[2026.04.15-21.51.02:491][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-21.51.02:491][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4376.657715, Update Interval: 326.823944
+[2026.04.15-21.57.24:875][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4759.380859
+[2026.04.15-21.57.25:875][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-21.57.25:875][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4760.047363, Update Interval: 329.446075
+[2026.04.15-22.00.42:086][931]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2026.04.15-22.00.42:086][931]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{ef107acf-dbf7-4eb5-bd23-fe46901d174d}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.04.15-22.00.42:225][931]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{ef107acf-dbf7-4eb5-bd23-fe46901d174d}]
+[2026.04.15-22.00.42:225][931]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.04.15-22.00.42:225][931]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.04.15-22.00.42:893][933]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ef107acf-dbf7-4eb5-bd23-fe46901d174d}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=522.34
+[2026.04.15-22.00.42:893][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.04.15-22.00.42:893][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.15-22.00.42:895][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.15-22.02.28:533][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.04.15-22.02.29:739][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.02.29:773][919]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.02.29:779][919]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.02.29:779][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.02.29:779][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.02.29:805][919]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.02.29:806][919]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn487739EA432CFD2CB2D9C5B1EB83C045.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.02.29:817][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.438 ms (total: 3.54 sec)
+[2026.04.15-22.02.29:840][919]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.02.29:840][919]LogContentValidation: Enabled validators:
+[2026.04.15-22.02.29:840][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.02.29:840][919]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.02.29:840][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.02.29:840][919]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.02.29:840][919]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.02.29:840][919]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.02.29:841][919]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.02.31:666][ 61]LogSlate: Window 'Animations' being destroyed
+[2026.04.15-22.02.31:669][ 61]LogSlate: Window 'Animations' being destroyed
+[2026.04.15-22.02.41:486][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.15-22.02.41:891][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.02.41:925][143]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.02.41:933][143]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.02.41:933][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.02.41:933][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.02.41:960][143]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.02.41:961][143]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn632942BE4D1C4F814ED43CA3DA86D60E.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.02.41:969][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.802 ms (total: 3.61 sec)
+[2026.04.15-22.02.41:998][143]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.02.41:998][143]LogContentValidation: Enabled validators:
+[2026.04.15-22.02.41:998][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.02.41:998][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.02.41:998][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.02.41:998][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.02.41:998][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.02.41:998][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.02.41:999][143]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.03.32:652][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.15-22.03.33:333][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.03.33:355][ 36]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.03.33:364][ 36]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.03.33:364][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.03.33:364][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.03.33:394][ 36]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.03.33:394][ 36]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn54A25BA54D8BD381900E0BB8B05C7831.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.03.33:402][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.614 ms (total: 3.68 sec)
+[2026.04.15-22.03.33:427][ 36]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.03.33:427][ 36]LogContentValidation: Enabled validators:
+[2026.04.15-22.03.33:427][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.03.33:427][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.03.33:427][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.03.33:427][ 36]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.03.33:427][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.03.33:427][ 36]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.03.33:429][ 36]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.03.46:245][168]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5140.714355
+[2026.04.15-22.03.47:245][171]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-22.03.47:245][171]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5141.381836, Update Interval: 322.092346
+[2026.04.15-22.04.07:576][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.04.07:611][232]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.04.07:611][232]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.04.07:611][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.04.07:637][232]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.04.07:637][232]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnDF6741114C0F9BB11E290AA2BDD19464.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.04.07:647][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.058 ms (total: 3.75 sec)
+[2026.04.15-22.04.07:678][232]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.04.07:678][232]LogContentValidation: Enabled validators:
+[2026.04.15-22.04.07:678][232]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.04.07:678][232]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.04.07:678][232]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.04.07:678][232]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.04.07:678][232]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.04.07:678][232]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.04.07:679][232]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.04.12:638][630]LogSlate: Window 'Animations' being destroyed
+[2026.04.15-22.04.12:643][630]LogSlate: Window 'Animations' being destroyed
+[2026.04.15-22.04.17:185][111]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.04.15-22.04.17:185][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.15-22.04.17:262][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.04.15-22.05.09:429][714]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.15-22.05.23:605][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.04.15-22.05.24:332][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.05.24:369][399]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.05.24:374][399]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.05.24:374][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.05.24:374][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.05.24:400][399]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.05.24:401][399]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn8D8A371B48650E73CF8450801947FB27.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.05.24:409][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.672 ms (total: 3.83 sec)
+[2026.04.15-22.05.24:434][399]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.05.24:434][399]LogContentValidation: Enabled validators:
+[2026.04.15-22.05.24:434][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.05.24:434][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.05.24:434][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.05.24:434][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.05.24:434][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.05.24:434][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.05.24:435][399]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.06.11:832][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.04.15-22.06.12:600][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.06.12:629][854]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.06.12:634][854]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.06.12:634][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.06.12:634][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.06.12:665][854]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.06.12:665][854]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnC73427C7464E691A663CF4A539AA7B21.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.06.12:673][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.967 ms (total: 3.90 sec)
+[2026.04.15-22.06.12:702][854]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.06.12:702][854]LogContentValidation: Enabled validators:
+[2026.04.15-22.06.12:702][854]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.06.12:702][854]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.06.12:702][854]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.06.12:702][854]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.06.12:702][854]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.06.12:702][854]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.06.12:704][854]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.06.33:407][ 79]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.04.15-22.06.33:419][ 79]LogSlate: Took 0.010272 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.04.15-22.06.41:981][917]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Data/D_FontData.D_FontData
+[2026.04.15-22.06.58:982][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.15-22.07.25:470][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.04.15-22.07.26:062][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.07.26:091][781]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.07.26:096][781]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.07.26:097][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.07.26:097][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.07.26:124][781]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.07.26:124][781]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn2F02D202435337FD98F980A09012BAB6.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.07.26:132][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.002 ms (total: 3.97 sec)
+[2026.04.15-22.07.26:162][781]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.07.26:162][781]LogContentValidation: Enabled validators:
+[2026.04.15-22.07.26:162][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.07.26:162][781]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.07.26:162][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.07.26:162][781]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.07.26:162][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.07.26:162][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.07.26:163][781]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.08.04:353][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.15-22.08.04:797][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.08.04:825][872]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.08.04:830][872]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.08.04:830][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.08.04:830][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.08.04:859][872]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.08.04:859][872]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn542DFA89416FDC7C4E944BABDBBAFB09.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.08.04:867][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.690 ms (total: 4.04 sec)
+[2026.04.15-22.08.04:896][872]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.08.04:896][872]LogContentValidation: Enabled validators:
+[2026.04.15-22.08.04:896][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.08.04:896][872]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.08.04:896][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.08.04:896][872]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.08.04:896][872]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.08.04:896][872]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.08.04:897][872]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.08.43:380][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.04.15-22.08.43:682][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.08.43:710][146]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.08.43:715][146]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.08.43:715][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.08.43:715][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.08.43:744][146]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.08.43:744][146]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn7189273243811C34F743D69D0A4B0657.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.08.43:751][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.528 ms (total: 4.11 sec)
+[2026.04.15-22.08.43:775][146]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.08.43:775][146]LogContentValidation: Enabled validators:
+[2026.04.15-22.08.43:775][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.08.43:775][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.08.43:775][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.08.43:775][146]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.08.43:775][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.08.43:775][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.08.43:776][146]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.09.29:220][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.04.15-22.09.29:548][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.09.29:575][795]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.09.29:580][795]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.09.29:580][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.09.29:580][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.09.29:610][795]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.09.29:610][795]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn02A5F24D49C2E10EEFEE07BD2DDE4925.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.09.29:617][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.078 ms (total: 4.18 sec)
+[2026.04.15-22.09.29:648][795]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.09.29:648][795]LogContentValidation: Enabled validators:
+[2026.04.15-22.09.29:648][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.09.29:648][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.09.29:648][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.09.29:648][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.09.29:648][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.09.29:648][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.09.29:651][795]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.10.02:897][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5517.351562
+[2026.04.15-22.10.03:205][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-22.10.03:205][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5517.650879, Update Interval: 311.206390
+[2026.04.15-22.15.51:860][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5866.307129
+[2026.04.15-22.15.52:861][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-22.15.52:861][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5866.974121, Update Interval: 356.841339
+[2026.04.15-22.22.06:757][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.04.15-22.22.12:554][971]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2026.04.15-22.22.12:555][971]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.04.15-22.22.12:562][971]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2026.04.15-22.22.23:838][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6258.277832
+[2026.04.15-22.22.23:972][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-22.22.23:972][177]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6258.403320, Update Interval: 312.706085
+[2026.04.15-22.22.31:189][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.22.31:217][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.22.31:226][ 31]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.22.31:226][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.22.31:226][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.22.31:258][ 31]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.22.31:258][ 31]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnF9017CDE4EAFDDA1C95BDDAC4B93DE0A.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.22.31:268][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.267 ms (total: 4.26 sec)
+[2026.04.15-22.22.31:301][ 31]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.22.31:301][ 31]LogContentValidation: Enabled validators:
+[2026.04.15-22.22.31:301][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.22.31:301][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.22.31:301][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.22.31:301][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.22.31:301][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.22.31:301][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.22.31:303][ 31]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.22.51:268][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.04.15-22.22.51:810][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.22.51:828][371]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.22.51:837][371]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.22.51:837][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.22.51:837][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.22.51:865][371]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.22.51:866][371]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnDBDDACF8461311E0B09AC88CFCAC5670.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.22.51:873][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.497 ms (total: 4.32 sec)
+[2026.04.15-22.22.51:914][371]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.22.51:914][371]LogContentValidation: Enabled validators:
+[2026.04.15-22.22.51:914][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.22.51:914][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.22.51:914][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.22.51:914][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.22.51:914][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.22.51:914][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.22.51:916][371]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.23.26:628][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.15-22.23.26:632][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Workshop' took 0.075
+[2026.04.15-22.23.26:633][577]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.23.26:638][577]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.23.26:638][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.23.26:668][577]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Respawn_Auto1
+[2026.04.15-22.23.26:668][577]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn_Auto1A449214B4BCF03F80B95649DFCBB317C.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/UI/UI_Respawn_Auto1.uasset'
+[2026.04.15-22.23.26:670][577]LogFileHelpers: Auto-saving content packages took 0.038
+[2026.04.15-22.24.01:506][748]LogBlueprint: Warning: [AssetLog] C:\Users\cmcdonnell1\Downloads\thestrainer\Unreal\Strainer\Content\UI\UI_Respawn.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2026.04.15-22.24.01:506][748]LogBlueprint: Warning: [AssetLog] C:\Users\cmcdonnell1\Downloads\thestrainer\Unreal\Strainer\Content\UI\UI_Respawn.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2026.04.15-22.24.01:566][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.15-22.24.02:308][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.24.02:344][823]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.24.02:353][823]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.24.02:353][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.24.02:353][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.24.02:381][823]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.24.02:381][823]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn1124505848829182E78325A35BCC516F.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.24.02:390][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.336 ms (total: 4.40 sec)
+[2026.04.15-22.24.02:417][823]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.24.02:417][823]LogContentValidation: Enabled validators:
+[2026.04.15-22.24.02:417][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.24.02:418][823]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.24.02:418][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.24.02:418][823]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.24.02:418][823]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.24.02:418][823]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.24.02:419][823]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.24.15:173][288]LogEditorTransaction: Undo Add In Parameter
+[2026.04.15-22.24.20:388][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.15-22.24.21:530][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.24.21:563][976]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.24.21:572][976]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.24.21:572][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.24.21:572][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.24.21:607][976]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.24.21:607][976]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn9EBA25E342E39C659460A78EDC4C095C.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.24.21:615][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.576 ms (total: 4.49 sec)
+[2026.04.15-22.24.21:648][976]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.24.21:648][976]LogContentValidation: Enabled validators:
+[2026.04.15-22.24.21:648][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.24.21:648][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.24.21:648][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.24.21:648][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.24.21:648][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.24.21:648][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.24.21:651][976]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.24.26:102][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.15-22.24.26:470][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.24.26:503][534]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.24.26:511][534]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.24.26:511][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.24.26:511][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.24.26:542][534]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.24.26:543][534]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn968E71A3465CE9018C17718075A05501.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.24.26:551][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.017 ms (total: 4.57 sec)
+[2026.04.15-22.24.26:581][534]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.24.26:581][534]LogContentValidation: Enabled validators:
+[2026.04.15-22.24.26:581][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.24.26:581][534]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.24.26:581][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.24.26:581][534]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.24.26:581][534]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.24.26:581][534]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.24.26:583][534]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.25.15:295][390]LogBlueprint: Warning: [AssetLog] C:\Users\cmcdonnell1\Downloads\thestrainer\Unreal\Strainer\Content\UI\UI_Respawn.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2026.04.15-22.25.15:295][390]LogBlueprint: Warning: [AssetLog] C:\Users\cmcdonnell1\Downloads\thestrainer\Unreal\Strainer\Content\UI\UI_Respawn.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2026.04.15-22.25.15:422][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.15-22.25.15:963][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.25.15:999][426]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.25.16:004][426]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.25.16:004][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.25.16:004][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.25.16:037][426]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.25.16:037][426]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn58F3A3FE41DBF6B458681EA07EF68FF8.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.25.16:045][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.192 ms (total: 4.65 sec)
+[2026.04.15-22.25.16:073][426]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.25.16:073][426]LogContentValidation: Enabled validators:
+[2026.04.15-22.25.16:073][426]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.25.16:073][426]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.25.16:073][426]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.25.16:073][426]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.25.16:073][426]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.25.16:073][426]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.25.16:074][426]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.25.23:351][217]LogBlueprint: Warning: [AssetLog] C:\Users\cmcdonnell1\Downloads\thestrainer\Unreal\Strainer\Content\UI\UI_Respawn.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2026.04.15-22.25.23:412][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.04.15-22.25.29:198][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.15-22.25.29:678][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.25.29:704][928]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.25.29:712][928]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.25.29:712][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.25.29:712][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.25.29:746][928]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.25.29:747][928]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnC9C719024EFEC936F6F737B905855938.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.25.29:756][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.424 ms (total: 4.73 sec)
+[2026.04.15-22.25.29:781][928]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.25.29:781][928]LogContentValidation: Enabled validators:
+[2026.04.15-22.25.29:781][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.25.29:781][928]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.25.29:781][928]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.25.29:781][928]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.25.29:781][928]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.25.29:781][928]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.25.29:782][928]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.26.00:578][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.15-22.26.01:141][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.26.01:170][502]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.26.01:178][502]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.26.01:178][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.26.01:178][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.26.01:211][502]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.26.01:211][502]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnA44B166C42DB479712BA528021C87C03.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.26.01:220][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.343 ms (total: 4.81 sec)
+[2026.04.15-22.26.01:243][502]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.26.01:243][502]LogContentValidation: Enabled validators:
+[2026.04.15-22.26.01:243][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.26.01:243][502]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.26.01:243][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.26.01:243][502]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.26.01:243][502]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.26.01:243][502]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.26.01:244][502]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.26.16:341][ 30]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.15-22.26.17:901][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.26.17:937][200]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.26.17:945][200]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.26.17:945][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.26.17:945][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.26.17:978][200]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.26.17:979][200]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnDC2E3EAC4C89A9571836309222955CC5.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.26.17:988][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.308 ms (total: 4.89 sec)
+[2026.04.15-22.26.18:014][200]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.26.18:014][200]LogContentValidation: Enabled validators:
+[2026.04.15-22.26.18:014][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.26.18:014][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.26.18:014][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.26.18:014][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.26.18:014][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.26.18:014][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.26.18:016][200]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.26.18:267][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.04.15-22.26.31:798][536]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.15-22.26.32:836][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.04.15-22.26.38:653][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.15-22.26.55:293][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.15-22.26.55:702][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.26.55:732][276]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.26.55:740][276]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.26.55:740][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.26.55:740][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.26.55:776][276]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.26.55:777][276]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn2FF95F00469E20FC2F302582062E8C29.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.26.55:785][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.075 ms (total: 4.98 sec)
+[2026.04.15-22.26.55:816][276]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.26.55:816][276]LogContentValidation: Enabled validators:
+[2026.04.15-22.26.55:816][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.26.55:816][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.26.55:816][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.26.55:816][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.26.55:816][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.26.55:816][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.26.55:817][276]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.28.33:982][ 53]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6628.372559
+[2026.04.15-22.28.34:108][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-22.28.34:108][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6628.490234, Update Interval: 316.544098
+[2026.04.15-22.34.28:124][546]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6982.465332
+[2026.04.15-22.34.28:258][562]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-22.34.28:258][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6982.590332, Update Interval: 312.026733
+[2026.04.15-22.34.50:184][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.34.50:213][176]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.34.50:213][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.34.50:213][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.34.50:250][176]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.34.50:250][176]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn60B270004CB24BBA480F0F8657795790.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.34.50:259][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.342 ms (total: 5.05 sec)
+[2026.04.15-22.34.50:286][176]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.34.50:286][176]LogContentValidation: Enabled validators:
+[2026.04.15-22.34.50:286][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.34.50:286][176]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.34.50:286][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.34.50:286][176]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.34.50:286][176]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.34.50:286][176]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.34.50:287][176]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.35.09:695][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.15-22.35.10:064][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.35.10:093][441]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.35.10:101][441]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.35.10:101][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.35.10:101][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.35.10:137][441]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.35.10:138][441]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn90C0A71A4DD8980CD08204935EB74E24.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.35.10:146][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.323 ms (total: 5.13 sec)
+[2026.04.15-22.35.10:183][441]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.35.10:183][441]LogContentValidation: Enabled validators:
+[2026.04.15-22.35.10:183][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.35.10:183][441]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.35.10:183][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.35.10:183][441]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.35.10:183][441]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.35.10:183][441]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.35.10:184][441]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.35.19:496][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.15-22.35.20:669][541]LogSlate: Window 'Save Content' being destroyed
+[2026.04.15-22.35.20:676][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.35.20:704][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.35.20:704][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.35.20:704][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.35.20:738][541]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.35.20:738][541]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn3D69CBB940C0A37085CC34BB41D26879.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.35.20:746][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.707 ms (total: 5.20 sec)
+[2026.04.15-22.35.20:779][541]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.35.20:779][541]LogContentValidation: Enabled validators:
+[2026.04.15-22.35.20:779][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.35.20:779][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.35.20:779][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.35.20:779][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.35.20:779][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.35.20:779][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.35.20:780][541]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.35.48:213][698]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UUserWidget::PlayAnimation' [Element not found.]
+[2026.04.15-22.36.09:374][ 70]LogEditorTransaction: Undo Break Pin Links
+[2026.04.15-22.36.09:816][ 87]LogEditorTransaction: Undo Replace Pin Variable
+[2026.04.15-22.36.09:912][ 88]LogEditorTransaction: Undo Create Pin Link
+[2026.04.15-22.36.26:257][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.04.15-22.36.26:987][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.36.27:020][ 61]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.36.27:030][ 61]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.36.27:030][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.36.27:030][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.36.27:065][ 61]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.36.27:066][ 61]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnFF9655024331C880F4BF2598C42C58D4.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.36.27:074][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.396 ms (total: 5.29 sec)
+[2026.04.15-22.36.27:099][ 61]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.36.27:099][ 61]LogContentValidation: Enabled validators:
+[2026.04.15-22.36.27:099][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.36.27:099][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.36.27:099][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.36.27:099][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.36.27:099][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.36.27:099][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.36.27:100][ 61]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.36.34:647][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.15-22.36.35:126][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.36.35:160][963]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.36.35:169][963]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.36.35:169][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.36.35:169][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.36.35:202][963]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.36.35:202][963]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn604800034C7CCB9715E980B7F9B2733E.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.36.35:211][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.066 ms (total: 5.37 sec)
+[2026.04.15-22.36.35:240][963]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.36.35:240][963]LogContentValidation: Enabled validators:
+[2026.04.15-22.36.35:240][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.36.35:240][963]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.36.35:240][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.36.35:240][963]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.36.35:240][963]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.36.35:240][963]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.36.35:241][963]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.39.52:938][683]LogDerivedDataCache: C:/Users/cmcdonnell1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.15-22.40.21:743][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7336.045898
+[2026.04.15-22.40.21:883][156]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-22.40.21:883][156]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7336.177734, Update Interval: 323.231293
+[2026.04.15-22.43.53:500][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.04.15-22.43.53:982][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.43.54:012][620]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.43.54:020][620]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.43.54:020][620]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.43.54:020][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.43.54:055][620]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.43.54:056][620]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn3F1C0BDF4F7D6657345D64BAA687A154.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.43.54:064][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.015 ms (total: 5.45 sec)
+[2026.04.15-22.43.54:096][620]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.43.54:096][620]LogContentValidation: Enabled validators:
+[2026.04.15-22.43.54:096][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.43.54:096][620]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.43.54:096][620]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.43.54:096][620]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.43.54:096][620]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.43.54:096][620]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.43.54:099][620]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.44.06:150][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.04.15-22.44.06:497][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.44.06:533][923]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.44.06:539][923]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.44.06:539][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.44.06:539][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.44.06:579][923]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.44.06:580][923]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnC0D6545D4B78DFC19DA7AAAE5C1D990F.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.44.06:588][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.494 ms (total: 5.55 sec)
+[2026.04.15-22.44.06:618][923]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.44.06:618][923]LogContentValidation: Enabled validators:
+[2026.04.15-22.44.06:618][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.44.06:618][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.44.06:618][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.44.06:618][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.44.06:618][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.44.06:618][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.44.06:620][923]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.44.37:393][287]LogSlate: Window 'Animations' being destroyed
+[2026.04.15-22.45.05:188][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.15-22.45.05:775][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.45.05:801][376]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.45.05:809][376]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.45.05:809][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.45.05:809][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.45.05:844][376]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.45.05:844][376]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnCD1110A44C5716F0C341C7A7C967B77A.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.45.05:853][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.088 ms (total: 5.62 sec)
+[2026.04.15-22.45.05:885][376]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.45.05:885][376]LogContentValidation: Enabled validators:
+[2026.04.15-22.45.05:885][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.45.05:885][376]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.45.05:885][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.45.05:885][376]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.45.05:885][376]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.45.05:885][376]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.45.05:887][376]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.45.18:779][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.15-22.45.19:344][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.45.19:377][938]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.45.19:385][938]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.45.19:385][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.45.19:385][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.45.19:420][938]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.45.19:421][938]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_RespawnD4BBE1CD4DD0F2C689EFBEB4B2E52800.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.45.19:429][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.927 ms (total: 5.71 sec)
+[2026.04.15-22.45.19:456][938]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.45.19:456][938]LogContentValidation: Enabled validators:
+[2026.04.15-22.45.19:456][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.45.19:456][938]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.45.19:456][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.45.19:456][938]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.45.19:456][938]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.45.19:456][938]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.45.19:457][938]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.45.22:399][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.15-22.45.22:432][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.45.22:432][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.45.22:432][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.15-22.45.22:467][281]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.15-22.45.22:468][281]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn9ECE170545AAF7FBD817D4A70A9F313D.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.15-22.45.22:475][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.757 ms (total: 5.79 sec)
+[2026.04.15-22.45.22:497][281]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.15-22.45.22:497][281]LogContentValidation: Enabled validators:
+[2026.04.15-22.45.22:497][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.15-22.45.22:497][281]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.15-22.45.22:497][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.15-22.45.22:497][281]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.15-22.45.22:497][281]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.15-22.45.22:497][281]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.15-22.45.22:498][281]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.15-22.46.09:543][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.15-22.46.09:548][836]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Workshop' took 0.048
+[2026.04.15-22.46.09:549][836]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.46.09:554][836]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.46.09:554][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.46.09:593][836]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Respawn_Auto2
+[2026.04.15-22.46.09:593][836]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn_Auto2C4DBFEE3462693F8E34274BFC50DA86B.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/UI/UI_Respawn_Auto2.uasset'
+[2026.04.15-22.46.09:593][836]LogFileHelpers: Auto-saving content packages took 0.045
+[2026.04.15-22.46.37:425][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7711.720703
+[2026.04.15-22.46.37:579][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-22.46.37:579][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7711.861328, Update Interval: 320.933258
+[2026.04.15-22.52.38:250][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8072.611816
+[2026.04.15-22.52.38:396][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-22.52.38:396][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8072.744629, Update Interval: 304.213379
+[2026.04.15-22.56.32:078][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.04.15-22.56.32:081][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Workshop' took 0.036
+[2026.04.15-22.56.32:081][292]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.15-22.56.32:088][292]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.15-22.56.32:088][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.15-22.56.32:126][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/UI_Respawn_Auto3
+[2026.04.15-22.56.32:126][292]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn_Auto3117F5EC8486D80D7EC78E28F570FFD8F.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/Autosaves/Game/UI/UI_Respawn_Auto3.uasset'
+[2026.04.15-22.56.32:126][292]LogFileHelpers: Auto-saving content packages took 0.046
+[2026.04.15-22.58.41:375][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8435.756836
+[2026.04.15-22.58.42:374][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.15-22.58.42:374][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8436.422852, Update Interval: 358.412415
