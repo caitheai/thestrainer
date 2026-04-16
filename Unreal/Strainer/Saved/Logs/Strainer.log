@@ -16010,3 +16010,176 @@ false
 [2026.04.16-19.25.14:175][605]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
 [2026.04.16-19.25.14:181][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
 [2026.04.16-19.25.14:415][606]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.04.16-19.27.24:577][553]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn
+[2026.04.16-19.27.24:577][553]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_81
+[2026.04.16-19.27.24:582][553]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_82
+[2026.04.16-19.28.33:227][438]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2026.04.16-19.28.33:288][440]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.061 s
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: === Handled ensure: ===
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: 
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: Ensure condition failed: bScissorRectValid  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12StateCache.cpp] [Line: 313] 
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: Scissor invalid with current Viewport. Scissor: [left:422, top:128, right:542, bottom:128]. Viewport: [left:422, top:131, right:542, bottom:174]
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: Stack: 
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8943556da UnrealEditor-D3D12RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8942cf94d UnrealEditor-D3D12RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff894200861 UnrealEditor-D3D12RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8e454e625 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff88d9c1de2 UnrealEditor-SlateRHIRenderer.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8e454d918 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8e45800c3 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8e45340ae UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8e454f321 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8e4551d2a UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8e4519850 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8e44bbd84 UnrealEditor-RHI.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8c43adc55 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8c43ad9b6 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8c43d3db1 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8c4395fe5 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8c45b1a33 UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8c4a537cd UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff8c4a4c91f UnrealEditor-Core.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff966cfe8d7 KERNEL32.DLL!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: [Callstack] 0x00007ff96808c3fc ntdll.dll!UnknownFunction []
+[2026.04.16-19.28.33:288][440]LogOutputDevice: Error: 
+[2026.04.16-19.28.33:297][440]LogStats:                SubmitErrorReport -  0.000 s
+[2026.04.16-19.28.33:337][440]LogRHI: Error: Breadcrumbs 'Parallel'
+ - GaussianBlur
+ - SlateRenderToTarget
+ - RenderGraphExecute - SlateWidgetRender
+ - Frame 175438
+
+[2026.04.16-19.28.37:466][440]LogStats:                    SendNewReport -  4.168 s
+[2026.04.16-19.28.37:466][440]LogStats:             FDebug::EnsureFailed -  4.238 s
+[2026.04.16-19.29.31:300][127]LogEditorTransaction: Undo Changed Anchors
+[2026.04.16-19.29.31:430][127]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.29.31:431][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.16-19.30.11:051][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9540.476562
+[2026.04.16-19.30.11:176][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.30.11:176][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9540.594727, Update Interval: 310.276184
+[2026.04.16-19.30.33:889][715]LogEditorTransaction: Undo Edit Bottom
+[2026.04.16-19.30.34:022][715]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.30.34:022][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.16-19.30.34:467][728]LogEditorTransaction: Undo Edit Bottom
+[2026.04.16-19.30.34:598][728]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.30.34:598][728]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.16-19.30.35:018][757]LogEditorTransaction: Undo Edit Right
+[2026.04.16-19.30.35:151][757]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.30.35:151][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.16-19.31.42:879][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.04.16-19.31.43:479][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-19.31.43:502][830]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Pause] ([2] browsable assets)...
+[2026.04.16-19.31.43:509][830]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Pause.UI_Pause]
+[2026.04.16-19.31.43:509][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Pause]
+[2026.04.16-19.31.43:509][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Pause" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Pause.uasset" SILENT=true
+[2026.04.16-19.31.43:530][830]LogSavePackage: Moving output files for package: /Game/UI/UI_Pause
+[2026.04.16-19.31.43:530][830]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Pause31E184DB421344E4EBC8A98F9EE0C9EF.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Pause.uasset'
+[2026.04.16-19.31.43:539][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.428 ms (total: 1.67 sec)
+[2026.04.16-19.31.43:570][830]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.16-19.31.43:570][830]LogContentValidation: Enabled validators:
+[2026.04.16-19.31.43:570][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.16-19.31.43:570][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.16-19.31.43:570][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.16-19.31.43:570][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.16-19.31.43:570][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.16-19.31.43:570][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.16-19.31.43:572][830]AssetCheck: /Game/UI/UI_Pause Validating asset
+[2026.04.16-19.31.51:344][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-19.31.51:371][622]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Respawn] ([2] browsable assets)...
+[2026.04.16-19.31.51:376][622]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Respawn.UI_Respawn]
+[2026.04.16-19.31.51:376][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Respawn]
+[2026.04.16-19.31.51:376][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Respawn" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset" SILENT=true
+[2026.04.16-19.31.51:409][622]LogSavePackage: Moving output files for package: /Game/UI/UI_Respawn
+[2026.04.16-19.31.51:409][622]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Respawn96E366914C3B5DF39495B7893A486EB3.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Respawn.uasset'
+[2026.04.16-19.31.51:419][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.747 ms (total: 1.74 sec)
+[2026.04.16-19.31.51:443][622]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.16-19.31.51:443][622]LogContentValidation: Enabled validators:
+[2026.04.16-19.31.51:443][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.16-19.31.51:443][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.16-19.31.51:443][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.16-19.31.51:443][622]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.16-19.31.51:443][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.16-19.31.51:443][622]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.16-19.31.51:445][622]AssetCheck: /Game/UI/UI_Respawn Validating asset
+[2026.04.16-19.31.51:759][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.04.16-19.31.51:767][643]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:768][643]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:769][643]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.31.51:769][643]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:771][643]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.31.51:772][643]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:772][643]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:772][643]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.31.51:772][643]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:774][643]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.31.51:842][643]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:843][643]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:844][643]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.31.51:845][643]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:846][643]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.31.51:848][643]LogActor: Loaded Actor (BP_Enemy_GEN_VARIABLE_BP_Enemy_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:848][643]LogActor: Loaded Actor (BP_Locator_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:848][643]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.31.51:849][643]LogActor: Loaded Actor (BP_Locator1_GEN_VARIABLE_BP_Locator_C_CAT) with IsValid() == false
+[2026.04.16-19.31.51:849][643]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.32.03:553][558]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2026.04.16-19.32.28:379][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.04.16-19.32.28:661][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-19.32.28:684][174]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Pause] ([2] browsable assets)...
+[2026.04.16-19.32.28:688][174]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Pause.UI_Pause]
+[2026.04.16-19.32.28:688][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Pause]
+[2026.04.16-19.32.28:688][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Pause" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Pause.uasset" SILENT=true
+[2026.04.16-19.32.28:708][174]LogSavePackage: Moving output files for package: /Game/UI/UI_Pause
+[2026.04.16-19.32.28:708][174]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_PauseEA2BA3894E78A15FACBEB8AD1B209B5F.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Pause.uasset'
+[2026.04.16-19.32.28:721][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.472 ms (total: 1.80 sec)
+[2026.04.16-19.32.28:748][174]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.16-19.32.28:748][174]LogContentValidation: Enabled validators:
+[2026.04.16-19.32.28:748][174]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.16-19.32.28:748][174]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.16-19.32.28:748][174]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.16-19.32.28:748][174]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.16-19.32.28:748][174]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.16-19.32.28:748][174]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.16-19.32.28:749][174]AssetCheck: /Game/UI/UI_Pause Validating asset
+[2026.04.16-19.32.36:254][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.16-19.32.36:639][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-19.32.36:667][987]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Pause] ([2] browsable assets)...
+[2026.04.16-19.32.36:675][987]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Pause.UI_Pause]
+[2026.04.16-19.32.36:675][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Pause]
+[2026.04.16-19.32.36:675][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Pause" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Pause.uasset" SILENT=true
+[2026.04.16-19.32.36:700][987]LogSavePackage: Moving output files for package: /Game/UI/UI_Pause
+[2026.04.16-19.32.36:700][987]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Pause764CD4F346748FA0C927D9B76955FD3E.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Pause.uasset'
+[2026.04.16-19.32.36:709][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.791 ms (total: 1.87 sec)
+[2026.04.16-19.32.36:729][987]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.16-19.32.36:729][987]LogContentValidation: Enabled validators:
+[2026.04.16-19.32.36:729][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.16-19.32.36:729][987]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.16-19.32.36:729][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.16-19.32.36:729][987]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.16-19.32.36:729][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.16-19.32.36:729][987]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.16-19.32.36:731][987]AssetCheck: /Game/UI/UI_Pause Validating asset
+[2026.04.16-19.32.55:261][170]LogEditorTransaction: Undo Move Node
+[2026.04.16-19.32.55:364][170]AnimBlueprintLog: Warning: SLOTNODE: 'PLeftLeg' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2026.04.16-19.32.55:364][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.16-19.33.00:463][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.04.16-19.33.00:991][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-19.33.01:019][783]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/UI_Pause] ([2] browsable assets)...
+[2026.04.16-19.33.01:027][783]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/UI_Pause.UI_Pause]
+[2026.04.16-19.33.01:027][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Pause]
+[2026.04.16-19.33.01:027][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Pause" FILE="../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Pause.uasset" SILENT=true
+[2026.04.16-19.33.01:053][783]LogSavePackage: Moving output files for package: /Game/UI/UI_Pause
+[2026.04.16-19.33.01:053][783]LogSavePackage: Moving '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Saved/UI_Pause1B1093F1470A963C9609758C68BD9006.tmp' to '../../../../../../Users/cmcdonnell1/Downloads/thestrainer/Unreal/Strainer/Content/UI/UI_Pause.uasset'
+[2026.04.16-19.33.01:064][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.627 ms (total: 1.94 sec)
+[2026.04.16-19.33.01:097][783]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.16-19.33.01:097][783]LogContentValidation: Enabled validators:
+[2026.04.16-19.33.01:097][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.16-19.33.01:097][783]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.16-19.33.01:097][783]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.16-19.33.01:097][783]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.16-19.33.01:097][783]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.16-19.33.01:097][783]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.16-19.33.01:099][783]AssetCheck: /Game/UI/UI_Pause Validating asset
